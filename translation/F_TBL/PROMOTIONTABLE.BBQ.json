@@ -1,0 +1,966 @@
+{
+ "file": "F_TBL/PROMOTIONTABLE.BBQ",
+ "count": 240,
+ "lines": [
+  {
+   "i": 0,
+   "en": "Promo name not set"
+  },
+  {
+   "i": 1,
+   "en": "First Live"
+  },
+  {
+   "i": 2,
+   "en": "Idol Research"
+  },
+  {
+   "i": 3,
+   "en": "Backup Dancer"
+  },
+  {
+   "i": 4,
+   "en": "Test Vocal Recording"
+  },
+  {
+   "i": 5,
+   "en": "Lyric Study"
+  },
+  {
+   "i": 6,
+   "en": "CD Production"
+  },
+  {
+   "i": 7,
+   "en": "Merch Sales"
+  },
+  {
+   "i": 8,
+   "en": "Shopping Run"
+  },
+  {
+   "i": 9,
+   "en": "Live (Live House) 1"
+  },
+  {
+   "i": 10,
+   "en": "Rival Research"
+  },
+  {
+   "i": 11,
+   "en": "Long Live"
+  },
+  {
+   "i": 12,
+   "en": "Escort the President"
+  },
+  {
+   "i": 13,
+   "en": "Photo Session"
+  },
+  {
+   "i": 14,
+   "en": "Denpa Song Recording"
+  },
+  {
+   "i": 15,
+   "en": "Web Radio with Eri"
+  },
+  {
+   "i": 16,
+   "en": "First Magazine Interview"
+  },
+  {
+   "i": 17,
+   "en": "A Day in the Life 1"
+  },
+  {
+   "i": 18,
+   "en": "Live (Live House) 2"
+  },
+  {
+   "i": 19,
+   "en": "Audition Briefing"
+  },
+  {
+   "i": 20,
+   "en": "Pet Shop Photo Shoot"
+  },
+  {
+   "i": 21,
+   "en": "Live with Eri"
+  },
+  {
+   "i": 22,
+   "en": "Boat Race Track"
+  },
+  {
+   "i": 23,
+   "en": "Maid Cafe with Ryo (Talk)"
+  },
+  {
+   "i": 24,
+   "en": "Bodyguard"
+  },
+  {
+   "i": 25,
+   "en": "Meet Up with Manami 1"
+  },
+  {
+   "i": 26,
+   "en": "Lesson"
+  },
+  {
+   "i": 27,
+   "en": "Game Show with Eri"
+  },
+  {
+   "i": 28,
+   "en": "A Day in the Life 2"
+  },
+  {
+   "i": 29,
+   "en": "Super Live"
+  },
+  {
+   "i": 30,
+   "en": "Video Recording"
+  },
+  {
+   "i": 31,
+   "en": "Music Festa"
+  },
+  {
+   "i": 32,
+   "en": "Double Training"
+  },
+  {
+   "i": 33,
+   "en": "Final Strategy Meeting"
+  },
+  {
+   "i": 34,
+   "en": "A Day in the Life 3"
+  },
+  {
+   "i": 35,
+   "en": "All-Idol Swim Meet"
+  },
+  {
+   "i": 36,
+   "en": "Music Show (Live TV)"
+  },
+  {
+   "i": 37,
+   "en": "Local Talk Show"
+  },
+  {
+   "i": 38,
+   "en": "Intruder in the Tent"
+  },
+  {
+   "i": 39,
+   "en": "Beach Sumo"
+  },
+  {
+   "i": 40,
+   "en": "Hot Springs with Everyone"
+  },
+  {
+   "i": 41,
+   "en": "Beach Patrol"
+  },
+  {
+   "i": 42,
+   "en": "Mountain Survival"
+  },
+  {
+   "i": 43,
+   "en": "Let's Make Curry!"
+  },
+  {
+   "i": 44,
+   "en": "Talk with Manami"
+  },
+  {
+   "i": 45,
+   "en": "Meet Up with Ozaki"
+  },
+  {
+   "i": 46,
+   "en": "Talk with the President"
+  },
+  {
+   "i": 47,
+   "en": "Farewell Live"
+  },
+  {
+   "i": 48,
+   "en": "Cooking Show"
+  },
+  {
+   "i": 49,
+   "en": "Shopping"
+  },
+  {
+   "i": 50,
+   "en": "Representative Speech"
+  },
+  {
+   "i": 51,
+   "en": "A Day in the Life 4"
+  },
+  {
+   "i": 52,
+   "en": "Audition Entry"
+  },
+  {
+   "i": 53,
+   "en": "Training with Yukiho"
+  },
+  {
+   "i": 54,
+   "en": "Music Show with Yukiho"
+  },
+  {
+   "i": 55,
+   "en": "Tea Commercial"
+  },
+  {
+   "i": 56,
+   "en": "Music Show with Yukiho 2"
+  },
+  {
+   "i": 57,
+   "en": "Yukiho's Special Prelims"
+  },
+  {
+   "i": 58,
+   "en": "TV Recording w/ Yukiho x2"
+  },
+  {
+   "i": 59,
+   "en": "Promo Rounds w/ President"
+  },
+  {
+   "i": 60,
+   "en": "Meet Up with Yukiho"
+  },
+  {
+   "i": 61,
+   "en": "Emergency Meeting"
+  },
+  {
+   "i": 62,
+   "en": "Family Meeting"
+  },
+  {
+   "i": 63,
+   "en": "Autograph Session"
+  },
+  {
+   "i": 64,
+   "en": "Budokan Live"
+  },
+  {
+   "i": 65,
+   "en": "Filming Begins!"
+  },
+  {
+   "i": 66,
+   "en": "Drama Scene Filming"
+  },
+  {
+   "i": 67,
+   "en": "Ekiden Race (First Leg)"
+  },
+  {
+   "i": 68,
+   "en": "Ekiden Race (Return Leg)"
+  },
+  {
+   "i": 69,
+   "en": "Movie Preview Screening"
+  },
+  {
+   "i": 70,
+   "en": "Anime Voice Recording"
+  },
+  {
+   "i": 71,
+   "en": "Show Meeting (TV Station)"
+  },
+  {
+   "i": 72,
+   "en": "Meet Up with Manami 2"
+  },
+  {
+   "i": 73,
+   "en": "TV Station Launch Event"
+  },
+  {
+   "i": 74,
+   "en": "Meet Up with Haruka"
+  },
+  {
+   "i": 75,
+   "en": "Music Show with Haruka"
+  },
+  {
+   "i": 76,
+   "en": "Idol Roundtable"
+  },
+  {
+   "i": 77,
+   "en": "Invited to Haruka's Room"
+  },
+  {
+   "i": 78,
+   "en": "Variety Show Meeting"
+  },
+  {
+   "i": 79,
+   "en": "Idol Ranking"
+  },
+  {
+   "i": 80,
+   "en": "Fortune-Telling Variety"
+  },
+  {
+   "i": 81,
+   "en": "Comedy Variety"
+  },
+  {
+   "i": 82,
+   "en": "Treasure Appraisal Show"
+  },
+  {
+   "i": 83,
+   "en": "Sports Variety"
+  },
+  {
+   "i": 84,
+   "en": "Dome Live"
+  },
+  {
+   "i": 85,
+   "en": "Find Your Signature Song"
+  },
+  {
+   "i": 86,
+   "en": "Ask Mama a Favor"
+  },
+  {
+   "i": 87,
+   "en": "ALIVE Training"
+  },
+  {
+   "i": 88,
+   "en": "Watch a Big Live"
+  },
+  {
+   "i": 89,
+   "en": "Live Rehearsal"
+  },
+  {
+   "i": 90,
+   "en": "Vocal Technique Study"
+  },
+  {
+   "i": 91,
+   "en": "Vocal Test"
+  },
+  {
+   "i": 92,
+   "en": "Location Shoot (Bus)"
+  },
+  {
+   "i": 93,
+   "en": "Movie Extra"
+  },
+  {
+   "i": 94,
+   "en": "Variety Appearance"
+  },
+  {
+   "i": 95,
+   "en": "Fitness Training"
+  },
+  {
+   "i": 96,
+   "en": "Staging Special Training"
+  },
+  {
+   "i": 97,
+   "en": "Audition Research"
+  },
+  {
+   "i": 98,
+   "en": "Meeting 1"
+  },
+  {
+   "i": 99,
+   "en": "Showbiz News Check"
+  },
+  {
+   "i": 100,
+   "en": "Street Live"
+  },
+  {
+   "i": 101,
+   "en": "Character Show"
+  },
+  {
+   "i": 102,
+   "en": "Called In by Manami"
+  },
+  {
+   "i": 103,
+   "en": "Net Check"
+  },
+  {
+   "i": 104,
+   "en": "Big Net Promo Campaign"
+  },
+  {
+   "i": 105,
+   "en": "Photo Shoot"
+  },
+  {
+   "i": 106,
+   "en": "Chorus Recording"
+  },
+  {
+   "i": 107,
+   "en": "Stage Costume Fitting"
+  },
+  {
+   "i": 108,
+   "en": "Promo Rounds with Ozaki"
+  },
+  {
+   "i": 109,
+   "en": "Street Event"
+  },
+  {
+   "i": 110,
+   "en": "Audition Rehearsal"
+  },
+  {
+   "i": 111,
+   "en": "Variety Show"
+  },
+  {
+   "i": 112,
+   "en": "Swimsuit Video Shoot"
+  },
+  {
+   "i": 113,
+   "en": "Live (Live House)"
+  },
+  {
+   "i": 114,
+   "en": "Movie Chat"
+  },
+  {
+   "i": 115,
+   "en": "Sneak In! Haunted House 1"
+  },
+  {
+   "i": 116,
+   "en": "Sneak In! Haunted House 2"
+  },
+  {
+   "i": 117,
+   "en": "Procure Anti-Ghost Gear"
+  },
+  {
+   "i": 118,
+   "en": "Showdown with the Ghost!"
+  },
+  {
+   "i": 119,
+   "en": "Poem Writing"
+  },
+  {
+   "i": 120,
+   "en": "Live (Civic Hall)"
+  },
+  {
+   "i": 121,
+   "en": "Web Drama"
+  },
+  {
+   "i": 122,
+   "en": "Meeting with Ozaki"
+  },
+  {
+   "i": 123,
+   "en": "Training with Ai"
+  },
+  {
+   "i": 124,
+   "en": "Miki Hoshii Live"
+  },
+  {
+   "i": 125,
+   "en": "Last Training"
+  },
+  {
+   "i": 126,
+   "en": "Album Production"
+  },
+  {
+   "i": 127,
+   "en": "TV Station Greetings"
+  },
+  {
+   "i": 128,
+   "en": "Photo Contest"
+  },
+  {
+   "i": 129,
+   "en": "Net Research"
+  },
+  {
+   "i": 130,
+   "en": "Stand Up... Antenna"
+  },
+  {
+   "i": 131,
+   "en": "Endure the Hot Spring!"
+  },
+  {
+   "i": 132,
+   "en": "Message from the Sea"
+  },
+  {
+   "i": 133,
+   "en": "Message from the Mountain"
+  },
+  {
+   "i": 134,
+   "en": "Ghost Stories in the Tent"
+  },
+  {
+   "i": 135,
+   "en": "Meeting 2"
+  },
+  {
+   "i": 136,
+   "en": "Drama Audition"
+  },
+  {
+   "i": 137,
+   "en": "Investigate Haunted House"
+  },
+  {
+   "i": 138,
+   "en": "In-Store Promotion"
+  },
+  {
+   "i": 139,
+   "en": "Art Exhibit PR"
+  },
+  {
+   "i": 140,
+   "en": "Recording 1"
+  },
+  {
+   "i": 141,
+   "en": "Exorcism"
+  },
+  {
+   "i": 142,
+   "en": "Called In by Ryo"
+  },
+  {
+   "i": 143,
+   "en": "Meeting 3"
+  },
+  {
+   "i": 144,
+   "en": "Report to Ritsuko"
+  },
+  {
+   "i": 145,
+   "en": "Search the Archives"
+  },
+  {
+   "i": 146,
+   "en": "Bird Conservation Show"
+  },
+  {
+   "i": 147,
+   "en": "Best Album Song Picks"
+  },
+  {
+   "i": 148,
+   "en": "Quiz Show"
+  },
+  {
+   "i": 149,
+   "en": "Meet Up with Ryo"
+  },
+  {
+   "i": 150,
+   "en": "Showdown with Ozaki?"
+  },
+  {
+   "i": 151,
+   "en": "Strategy Meeting"
+  },
+  {
+   "i": 152,
+   "en": "Net Idol Awards"
+  },
+  {
+   "i": 153,
+   "en": "Movie-Making Lecture"
+  },
+  {
+   "i": 154,
+   "en": "Electric Town Event"
+  },
+  {
+   "i": 155,
+   "en": "Say Hi to Ami"
+  },
+  {
+   "i": 156,
+   "en": "Recording 2"
+  },
+  {
+   "i": 157,
+   "en": "Compose a New Song"
+  },
+  {
+   "i": 158,
+   "en": "Kids' Show with Ami"
+  },
+  {
+   "i": 159,
+   "en": "Recording with the Twins"
+  },
+  {
+   "i": 160,
+   "en": "Novel Launch Event"
+  },
+  {
+   "i": 161,
+   "en": "Fireworks Festival"
+  },
+  {
+   "i": 162,
+   "en": "Foreign Brand Commercial"
+  },
+  {
+   "i": 163,
+   "en": "Solo Exhibition"
+  },
+  {
+   "i": 164,
+   "en": "Produce a Cosmetics Line"
+  },
+  {
+   "i": 165,
+   "en": "Iori's Fan Event"
+  },
+  {
+   "i": 166,
+   "en": "TV Recording"
+  },
+  {
+   "i": 167,
+   "en": "Invited to the Minases'"
+  },
+  {
+   "i": 168,
+   "en": "Audition Prep"
+  },
+  {
+   "i": 169,
+   "en": "A Walk in Girls' Clothes"
+  },
+  {
+   "i": 170,
+   "en": "TV Station Tour"
+  },
+  {
+   "i": 171,
+   "en": "Swimsuit Appeal"
+  },
+  {
+   "i": 172,
+   "en": "Mini Autograph Session"
+  },
+  {
+   "i": 173,
+   "en": "Handing Out Flyers"
+  },
+  {
+   "i": 174,
+   "en": "Hero Show"
+  },
+  {
+   "i": 175,
+   "en": "Backing Vocals"
+  },
+  {
+   "i": 176,
+   "en": "Meet Up at the Shrine"
+  },
+  {
+   "i": 177,
+   "en": "Late-Night Training"
+  },
+  {
+   "i": 178,
+   "en": "Press Conference"
+  },
+  {
+   "i": 179,
+   "en": "Musical"
+  },
+  {
+   "i": 180,
+   "en": "Handshake Event"
+  },
+  {
+   "i": 181,
+   "en": "Fan Event"
+  },
+  {
+   "i": 182,
+   "en": "Valentine Special Training"
+  },
+  {
+   "i": 183,
+   "en": "Christmas Special Training"
+  },
+  {
+   "i": 184,
+   "en": "The Ultimate Training!"
+  },
+  {
+   "i": 185,
+   "en": "Beach Romance Training"
+  },
+  {
+   "i": 186,
+   "en": "Maid Special Training"
+  },
+  {
+   "i": 187,
+   "en": "Graduation Training"
+  },
+  {
+   "i": 188,
+   "en": "Tragic Illness Training"
+  },
+  {
+   "i": 189,
+   "en": "Persuade the Fans"
+  },
+  {
+   "i": 190,
+   "en": "Magazine Coverage"
+  },
+  {
+   "i": 191,
+   "en": "TV Commercial"
+  },
+  {
+   "i": 192,
+   "en": "Live"
+  },
+  {
+   "i": 193,
+   "en": "Audition: 1st Screening"
+  },
+  {
+   "i": 194,
+   "en": "Audition: 2nd Screening"
+  },
+  {
+   "i": 195,
+   "en": "Persuade Yumeko"
+  },
+  {
+   "i": 196,
+   "en": "Magazine Interview"
+  },
+  {
+   "i": 197,
+   "en": "Idol Sports Day"
+  },
+  {
+   "i": 198,
+   "en": "Salon (Trial)"
+  },
+  {
+   "i": 199,
+   "en": "Rock Song Recording"
+  },
+  {
+   "i": 200,
+   "en": "Stuffy in the Tent"
+  },
+  {
+   "i": 201,
+   "en": "Heart-Pounding Hot Spring!"
+  },
+  {
+   "i": 202,
+   "en": "The OOO Is Missing!"
+  },
+  {
+   "i": 203,
+   "en": "Mountain Hike"
+  },
+  {
+   "i": 204,
+   "en": "Watermelon Splitting"
+  },
+  {
+   "i": 205,
+   "en": "Sneak In! Haunted House"
+  },
+  {
+   "i": 206,
+   "en": "Final Day of Filming"
+  },
+  {
+   "i": 207,
+   "en": "Merch Meeting"
+  },
+  {
+   "i": 208,
+   "en": "Swimsuit Photobook"
+  },
+  {
+   "i": 209,
+   "en": "Takeda's Invitation"
+  },
+  {
+   "i": 210,
+   "en": "Music Show"
+  },
+  {
+   "i": 211,
+   "en": "Outdoor Live"
+  },
+  {
+   "i": 212,
+   "en": "Yayoi's House"
+  },
+  {
+   "i": 213,
+   "en": "Meeting with President 1"
+  },
+  {
+   "i": 214,
+   "en": "Delivery for Ritsuko"
+  },
+  {
+   "i": 215,
+   "en": "Acting Lessons: Level 1"
+  },
+  {
+   "i": 216,
+   "en": "Acting Lessons: Level 2"
+  },
+  {
+   "i": 217,
+   "en": "Acting Lessons: Level 3"
+  },
+  {
+   "i": 218,
+   "en": "Acting Lessons: Japanese"
+  },
+  {
+   "i": 219,
+   "en": "Acting Lessons: Chinese"
+  },
+  {
+   "i": 220,
+   "en": "Acting Lessons: Extra"
+  },
+  {
+   "i": 221,
+   "en": "Chihaya's Live"
+  },
+  {
+   "i": 222,
+   "en": "Charity Event"
+  },
+  {
+   "i": 223,
+   "en": "Meet Up with Yumeko 1"
+  },
+  {
+   "i": 224,
+   "en": "Song Commission"
+  },
+  {
+   "i": 225,
+   "en": "Recording"
+  },
+  {
+   "i": 226,
+   "en": "Buffet Party"
+  },
+  {
+   "i": 227,
+   "en": "Go See Yumeko"
+  },
+  {
+   "i": 228,
+   "en": "Talk with Takeda"
+  },
+  {
+   "i": 229,
+   "en": "Meet Up with Azusa"
+  },
+  {
+   "i": 230,
+   "en": "Meeting with President 2"
+  },
+  {
+   "i": 231,
+   "en": "Bridal Commercial"
+  },
+  {
+   "i": 232,
+   "en": "Radio Show Recording"
+  },
+  {
+   "i": 233,
+   "en": "Tell Yumeko the Secret!"
+  },
+  {
+   "i": 234,
+   "en": "Gravure Shoot"
+  },
+  {
+   "i": 235,
+   "en": "Nighttime Outdoor Event"
+  },
+  {
+   "i": 236,
+   "en": "Music Show Recording"
+  },
+  {
+   "i": 237,
+   "en": "Music Show Broadcast"
+  },
+  {
+   "i": 238,
+   "en": "Meet Up with Yumeko 2"
+  },
+  {
+   "i": 239,
+   "en": "Countermeasure Meeting"
+  }
+ ]
+}

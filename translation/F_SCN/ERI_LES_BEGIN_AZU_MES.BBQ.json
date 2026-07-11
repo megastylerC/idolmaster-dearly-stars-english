@@ -1,0 +1,310 @@
+{
+ "file": "F_SCN/ERI_LES_BEGIN_AZU_MES.BBQ",
+ "count": 77,
+ "lines": [
+  {
+   "i": 1,
+   "en": "???"
+  },
+  {
+   "i": 2,
+   "en": "My, my... Excuse me a moment?"
+  },
+  {
+   "i": 3,
+   "en": "You've got dust on your clothes, dear"
+  },
+  {
+   "i": 4,
+   "en": "Eri"
+  },
+  {
+   "i": 5,
+   "en": "Huh... me?"
+  },
+  {
+   "i": 6,
+   "en": "Fufu. Let me brush it off for you"
+  },
+  {
+   "i": 7,
+   "en": "SFX"
+  },
+  {
+   "i": 8,
+   "en": "―㌍Pat pat!"
+  },
+  {
+   "i": 9,
+   "en": "Th-Thank you... I think?"
+  },
+  {
+   "i": 10,
+   "en": "Fufu, don't mind it."
+  },
+  {
+   "i": 11,
+   "en": "I just happened to notice"
+  },
+  {
+   "i": 12,
+   "en": "Um... and you are?"
+  },
+  {
+   "i": 13,
+   "en": "Azusa"
+  },
+  {
+   "i": 14,
+   "en": "Oh, my name is Azusa Miura"
+  },
+  {
+   "i": 15,
+   "en": "I'm an idol who trains at"
+  },
+  {
+   "i": 16,
+   "en": "this lesson studio now and then"
+  },
+  {
+   "i": 17,
+   "en": "I see, an idol..."
+  },
+  {
+   "i": 18,
+   "en": "Same... as me"
+  },
+  {
+   "i": 19,
+   "en": "My, so you're an idol too?"
+  },
+  {
+   "i": 20,
+   "en": "No wonder you're dressed so cutely"
+  },
+  {
+   "i": 21,
+   "en": "Would you mind telling me your name?"
+  },
+  {
+   "i": 22,
+   "en": "...Eri Mizutani"
+  },
+  {
+   "i": 23,
+   "en": "Eri-chan, then. Lovely to meet you"
+  },
+  {
+   "i": 24,
+   "en": "If you ever find yourself in"
+  },
+  {
+   "i": 25,
+   "en": "trouble, just say the word"
+  },
+  {
+   "i": 26,
+   "en": "I'll help you out"
+  },
+  {
+   "i": 27,
+   "en": "Okay... thank you very much......"
+  },
+  {
+   "i": 28,
+   "en": "A stranger, suddenly this kind to me"
+  },
+  {
+   "i": 29,
+   "en": "Azusa Miura-san... such a kind one."
+  },
+  {
+   "i": 30,
+   "en": "So there are grown-up idols, too"
+  },
+  {
+   "i": 31,
+   "en": "Oh my, good morning~ Fufu"
+  },
+  {
+   "i": 32,
+   "en": "Good morning. Let's both keep"
+  },
+  {
+   "i": 33,
+   "en": "at it, each at our own pace~"
+  },
+  {
+   "i": 34,
+   "en": "My, my, here for a lesson?"
+  },
+  {
+   "i": 35,
+   "en": "How admirable~ Fufu"
+  },
+  {
+   "i": 36,
+   "en": "Azusa-san..."
+  },
+  {
+   "i": 37,
+   "en": "Good... morning......"
+  },
+  {
+   "i": 38,
+   "en": "I'll be going now."
+  },
+  {
+   "i": 39,
+   "en": "Take care~"
+  },
+  {
+   "i": 40,
+   "en": "Ah..."
+  },
+  {
+   "i": 41,
+   "en": "Thank you... for your... hard work..."
+  },
+  {
+   "i": 42,
+   "en": "Oh, you have a lesson now? If you"
+  },
+  {
+   "i": 43,
+   "en": "don't mind, may I sit in and watch~?"
+  },
+  {
+   "i": 44,
+   "en": "I won't get in the way."
+  },
+  {
+   "i": 45,
+   "en": "...Would that be bad?"
+  },
+  {
+   "i": 46,
+   "en": "Ah, your lesson... would it be"
+  },
+  {
+   "i": 47,
+   "en": "alright if I watched from here?"
+  },
+  {
+   "i": 48,
+   "en": "I may not grasp the fine points,"
+  },
+  {
+   "i": 49,
+   "en": "but I'll speak up if I notice. Fufu"
+  },
+  {
+   "i": 50,
+   "en": "Watching a young one in full bloom"
+  },
+  {
+   "i": 51,
+   "en": "leaves you all warm inside, you know~"
+  },
+  {
+   "i": 52,
+   "en": "If you're having a lesson, I'd love"
+  },
+  {
+   "i": 53,
+   "en": "to watch over it. May I?"
+  },
+  {
+   "i": 54,
+   "en": "Th-Thank you very much."
+  },
+  {
+   "i": 55,
+   "en": "Um......"
+  },
+  {
+   "i": 56,
+   "en": "Someone like me......"
+  },
+  {
+   "i": 57,
+   "en": "Are you sure? I mean......"
+  },
+  {
+   "i": 58,
+   "en": "Ah... but... right now......"
+  },
+  {
+   "i": 59,
+   "en": "Ugh......"
+  },
+  {
+   "i": 60,
+   "en": "My, wonderful. Then, go ahead~"
+  },
+  {
+   "i": 61,
+   "en": "Fufu. Understood."
+  },
+  {
+   "i": 62,
+   "en": "I'm watching, so start anytime"
+  },
+  {
+   "i": 63,
+   "en": "M-My, my... Let's not be so somber"
+  },
+  {
+   "i": 64,
+   "en": "about it. Now, go ahead~"
+  },
+  {
+   "i": 65,
+   "en": "Oh, is that so~?"
+  },
+  {
+   "i": 66,
+   "en": "If you'd rather be alone, I'll go"
+  },
+  {
+   "i": 67,
+   "en": "My, what a shame......"
+  },
+  {
+   "i": 68,
+   "en": "But don't you worry. Fufu. Bye now"
+  },
+  {
+   "i": 69,
+   "en": "You don't look so well... all right?"
+  },
+  {
+   "i": 70,
+   "en": "If I'm a bother, I'll be over there~"
+  },
+  {
+   "i": 71,
+   "en": "Please watch my lesson!"
+  },
+  {
+   "i": 72,
+   "en": "But I'll do my best alone!"
+  },
+  {
+   "i": 73,
+   "en": "Please watch my lesson?"
+  },
+  {
+   "i": 74,
+   "en": "But I'll do my best alone?"
+  },
+  {
+   "i": 75,
+   "en": "Please watch my lesson..."
+  },
+  {
+   "i": 76,
+   "en": "I'll do... my best... alone..."
+  }
+ ]
+}

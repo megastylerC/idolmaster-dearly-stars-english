@@ -1,0 +1,34 @@
+{
+ "file": "F_SCN/ERI_E01_SUB03.BBQ",
+ "count": 8,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Atrium"
+  },
+  {
+   "i": 2,
+   "en": "Kind of\nsilly?"
+  },
+  {
+   "i": 3,
+   "en": "Aim for a\nTV series?"
+  },
+  {
+   "i": 4,
+   "en": "That's\nso cool"
+  },
+  {
+   "i": 5,
+   "en": "Littering"
+  },
+  {
+   "i": 6,
+   "en": "You skipped\nmy lunch!"
+  },
+  {
+   "i": 7,
+   "en": "You made me\ndo lessons!"
+  }
+ ]
+}

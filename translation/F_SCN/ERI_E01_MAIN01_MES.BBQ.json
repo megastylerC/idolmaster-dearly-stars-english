@@ -1,0 +1,598 @@
+{
+ "file": "F_SCN/ERI_E01_MAIN01_MES.BBQ",
+ "count": 149,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Ozaki"
+  },
+  {
+   "i": 2,
+   "en": "All right, let's get to work on what"
+  },
+  {
+   "i": 3,
+   "en": "you need for the rookie audition"
+  },
+  {
+   "i": 4,
+   "en": "Eri"
+  },
+  {
+   "i": 5,
+   "en": "Okay..."
+  },
+  {
+   "i": 6,
+   "en": "Listen, Eri. What matters first is"
+  },
+  {
+   "i": 7,
+   "en": "knowing the key point of this battle"
+  },
+  {
+   "i": 8,
+   "en": "The key point...?"
+  },
+  {
+   "i": 9,
+   "en": "Right. Both your opponents are"
+  },
+  {
+   "i": 10,
+   "en": "rookies who debuted with you, yes?"
+  },
+  {
+   "i": 11,
+   "en": "Yeah"
+  },
+  {
+   "i": 12,
+   "en": "Do you see what that means?"
+  },
+  {
+   "i": 13,
+   "en": "Um..."
+  },
+  {
+   "i": 14,
+   "en": "My rivals are... close to my level?"
+  },
+  {
+   "i": 15,
+   "en": "Exactly."
+  },
+  {
+   "i": 16,
+   "en": "Sharp as ever"
+  },
+  {
+   "i": 17,
+   "en": "And when you're evenly matched―㌍"
+  },
+  {
+   "i": 18,
+   "en": "I'm facing my friends?"
+  },
+  {
+   "i": 19,
+   "en": "Well, that's true, but..."
+  },
+  {
+   "i": 20,
+   "en": "that answer doesn't show you anything"
+  },
+  {
+   "i": 21,
+   "en": "...It'll be rough?"
+  },
+  {
+   "i": 22,
+   "en": "Well, rough is rough, but..."
+  },
+  {
+   "i": 23,
+   "en": "an answer like that won't"
+  },
+  {
+   "i": 24,
+   "en": "lead you to any strategy, will it?"
+  },
+  {
+   "i": 25,
+   "en": "Then... what IS the point?"
+  },
+  {
+   "i": 26,
+   "en": "When rookies compete, it means"
+  },
+  {
+   "i": 27,
+   "en": "'rivals of equal skill are clashing'"
+  },
+  {
+   "i": 28,
+   "en": "Equal skill... I guess so"
+  },
+  {
+   "i": 29,
+   "en": "And that means..."
+  },
+  {
+   "i": 30,
+   "en": "the key to victory is polishing what"
+  },
+  {
+   "i": 31,
+   "en": "your rivals haven't noticed yet"
+  },
+  {
+   "i": 32,
+   "en": "And then―㌍concentration"
+  },
+  {
+   "i": 33,
+   "en": "Concentration..."
+  },
+  {
+   "i": 34,
+   "en": "Just because you're facing friends,"
+  },
+  {
+   "i": 35,
+   "en": "you can NOT let it shake you"
+  },
+  {
+   "i": 36,
+   "en": "In the end, the one who brings out"
+  },
+  {
+   "i": 37,
+   "en": "her best is the one who wins"
+  },
+  {
+   "i": 38,
+   "en": "Stay calm, stay focused..."
+  },
+  {
+   "i": 39,
+   "en": "........"
+  },
+  {
+   "i": 40,
+   "en": "You understand what I'm saying?"
+  },
+  {
+   "i": 41,
+   "en": "I do, but... it sounds hard"
+  },
+  {
+   "i": 42,
+   "en": "Why?"
+  },
+  {
+   "i": 43,
+   "en": "Even if I work hard and win, in the"
+  },
+  {
+   "i": 44,
+   "en": "end I'd be using my friends as..."
+  },
+  {
+   "i": 45,
+   "en": "Stepping stones?"
+  },
+  {
+   "i": 46,
+   "en": "Well, yes, but..."
+  },
+  {
+   "i": 47,
+   "en": "isn't that just an idol's fate?"
+  },
+  {
+   "i": 48,
+   "en": "Stepping scones?"
+  },
+  {
+   "i": 49,
+   "en": "Turning your friends into scones?"
+  },
+  {
+   "i": 50,
+   "en": "I have no idea what that means"
+  },
+  {
+   "i": 51,
+   "en": "Did you mean stepping stones?"
+  },
+  {
+   "i": 52,
+   "en": "...Yeah. I got it wrong"
+  },
+  {
+   "i": 53,
+   "en": "True, it does mean stepping on them..."
+  },
+  {
+   "i": 54,
+   "en": "Send them to the guillotine?"
+  },
+  {
+   "i": 55,
+   "en": "The guillotine? A beheading?"
+  },
+  {
+   "i": 56,
+   "en": "It's nowhere near that gruesome"
+  },
+  {
+   "i": 57,
+   "en": "I guess... But..."
+  },
+  {
+   "i": 58,
+   "en": "still... stepping stones, at least?"
+  },
+  {
+   "i": 59,
+   "en": "That's true, but again, isn't"
+  },
+  {
+   "i": 60,
+   "en": "this just an idol's fate?"
+  },
+  {
+   "i": 61,
+   "en": "It's not like anyone loses their life"
+  },
+  {
+   "i": 62,
+   "en": "You're overthinking it, Eri"
+  },
+  {
+   "i": 63,
+   "en": "Anyway, let's train in something"
+  },
+  {
+   "i": 64,
+   "en": "the other two aren't doing"
+  },
+  {
+   "i": 65,
+   "en": "Today I'll teach you how to show"
+  },
+  {
+   "i": 66,
+   "en": "expressions up on stage"
+  },
+  {
+   "i": 67,
+   "en": "Show expressions?"
+  },
+  {
+   "i": 68,
+   "en": "Yes. You have a sense polished by"
+  },
+  {
+   "i": 69,
+   "en": "video-making. Let's build on it"
+  },
+  {
+   "i": 70,
+   "en": "The best idols convey joy or sorrow"
+  },
+  {
+   "i": 71,
+   "en": "with just the angle of their face"
+  },
+  {
+   "i": 72,
+   "en": "Just the angle..."
+  },
+  {
+   "i": 73,
+   "en": "Is that really possible?"
+  },
+  {
+   "i": 74,
+   "en": "It is. And once you can do it,"
+  },
+  {
+   "i": 75,
+   "en": "you're one step ahead"
+  },
+  {
+   "i": 76,
+   "en": "Ready? Look where I say and strike"
+  },
+  {
+   "i": 77,
+   "en": "the expression instantly. Got it?"
+  },
+  {
+   "i": 78,
+   "en": "...Yeah!"
+  },
+  {
+   "i": 79,
+   "en": "First, a hopeful look! Eyes up!"
+  },
+  {
+   "i": 80,
+   "en": "This way..."
+  },
+  {
+   "i": 81,
+   "en": "Yes! That angle!"
+  },
+  {
+   "i": 82,
+   "en": "From that angle, when the light hits,"
+  },
+  {
+   "i": 83,
+   "en": "you'll naturally look full of hope"
+  },
+  {
+   "i": 84,
+   "en": "Uuugh..."
+  },
+  {
+   "i": 85,
+   "en": "Focus! Push those worries about your"
+  },
+  {
+   "i": 86,
+   "en": "friends out of your head!"
+  },
+  {
+   "i": 87,
+   "en": "Next, an aloof face. Right or left!"
+  },
+  {
+   "i": 88,
+   "en": "Like this..."
+  },
+  {
+   "i": 89,
+   "en": "Good. Turn your mouth down more for a"
+  },
+  {
+   "i": 90,
+   "en": "different nuance. Remember that"
+  },
+  {
+   "i": 91,
+   "en": "Too slow, Eri!"
+  },
+  {
+   "i": 92,
+   "en": "That won't cut it on a live stage"
+  },
+  {
+   "i": 93,
+   "en": "I'm sorry..."
+  },
+  {
+   "i": 94,
+   "en": "Next: trying to remember! Diagonal up!"
+  },
+  {
+   "i": 95,
+   "en": "Like this...?"
+  },
+  {
+   "i": 96,
+   "en": "Yes, that's got real atmosphere."
+  },
+  {
+   "i": 97,
+   "en": "Looking good"
+  },
+  {
+   "i": 98,
+   "en": "Hm? Hmm?"
+  },
+  {
+   "i": 99,
+   "en": "Don't act small! Turn your whole"
+  },
+  {
+   "i": 100,
+   "en": "head, or the fans won't catch it"
+  },
+  {
+   "i": 101,
+   "en": "Right..."
+  },
+  {
+   "i": 102,
+   "en": "Next, an anxious face! Diagonal down!"
+  },
+  {
+   "i": 103,
+   "en": "Like this?"
+  },
+  {
+   "i": 104,
+   "en": "Yes. That angle gives off unease,"
+  },
+  {
+   "i": 105,
+   "en": "so don't forget it"
+  },
+  {
+   "i": 106,
+   "en": "Anxious... anxious..."
+  },
+  {
+   "i": 107,
+   "en": "Don't think in words!"
+  },
+  {
+   "i": 108,
+   "en": "Momentum is everything live!"
+  },
+  {
+   "i": 109,
+   "en": "R-Right..."
+  },
+  {
+   "i": 110,
+   "en": "Now, one last review!"
+  },
+  {
+   "i": 111,
+   "en": "Show me 'trying to remember'!"
+  },
+  {
+   "i": 112,
+   "en": "Ummm, trying to remember is..."
+  },
+  {
+   "i": 113,
+   "en": "This way!"
+  },
+  {
+   "i": 114,
+   "en": "Right. Looks like it stuck"
+  },
+  {
+   "i": 115,
+   "en": "Phew..."
+  },
+  {
+   "i": 116,
+   "en": "Wrong. That's the hopeful look, no?"
+  },
+  {
+   "i": 117,
+   "en": "Wrong. That's the aloof look, no?"
+  },
+  {
+   "i": 118,
+   "en": "Wrong. That's the anxious look, no?"
+  },
+  {
+   "i": 119,
+   "en": "Doesn't come to you right away?"
+  },
+  {
+   "i": 120,
+   "en": "'Trying to remember' is diagonal up"
+  },
+  {
+   "i": 121,
+   "en": "...Oh"
+  },
+  {
+   "i": 122,
+   "en": "It's not enough to follow orders;"
+  },
+  {
+   "i": 123,
+   "en": "you have to etch it into your skin"
+  },
+  {
+   "i": 124,
+   "en": "Let's call it"
+  },
+  {
+   "i": 125,
+   "en": "a day here"
+  },
+  {
+   "i": 126,
+   "en": "Now, about your training results..."
+  },
+  {
+   "i": 127,
+   "en": "Amazing. I'd say that was perfect!"
+  },
+  {
+   "i": 128,
+   "en": "...Really?"
+  },
+  {
+   "i": 129,
+   "en": "Yes. Let's work your expressions in"
+  },
+  {
+   "i": 130,
+   "en": "with the lyrics and the melody"
+  },
+  {
+   "i": 131,
+   "en": "Not bad, I'd say."
+  },
+  {
+   "i": 132,
+   "en": "At least the knowledge stuck?"
+  },
+  {
+   "i": 133,
+   "en": "Yeah... though I couldn't do it fast"
+  },
+  {
+   "i": 134,
+   "en": "Let's widen your range bit by bit"
+  },
+  {
+   "i": 135,
+   "en": "Deeper than you expected, isn't it?"
+  },
+  {
+   "i": 136,
+   "en": "The technique of the stage"
+  },
+  {
+   "i": 137,
+   "en": "Your reflexes need work, though."
+  },
+  {
+   "i": 138,
+   "en": "Couldn't keep up?"
+  },
+  {
+   "i": 139,
+   "en": "No... I kept overthinking..."
+  },
+  {
+   "i": 140,
+   "en": "You lean on your head too much, Eri"
+  },
+  {
+   "i": 141,
+   "en": "Try moving on instinct a bit more"
+  },
+  {
+   "i": 142,
+   "en": "What you learned today WILL be a"
+  },
+  {
+   "i": 143,
+   "en": "weapon in the rookie audition"
+  },
+  {
+   "i": 144,
+   "en": "Let's win this, Eri"
+  },
+  {
+   "i": 145,
+   "en": "...Eri?"
+  },
+  {
+   "i": 146,
+   "en": "...I'm going home for today"
+  },
+  {
+   "i": 147,
+   "en": "Ah, Eri! Eri!"
+  },
+  {
+   "i": 148,
+   "en": "Eri......"
+  }
+ ]
+}

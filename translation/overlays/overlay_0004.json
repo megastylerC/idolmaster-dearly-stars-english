@@ -1,0 +1,169 @@
+{
+ "overlay": 4,
+ "strings": [
+  {
+   "off": 208168,
+   "en": "Choreo"
+  },
+  {
+   "off": 208180,
+   "en": "Camera"
+  },
+  {
+   "off": 208192,
+   "en": "Start day!"
+  },
+  {
+   "off": 208728,
+   "en": "arrived today."
+  },
+  {
+   "off": 208744,
+   "en": "No presents have"
+  },
+  {
+   "off": 212604,
+   "en": "Next"
+  },
+  {
+   "off": 212612,
+   "en": "Swap outfit"
+  },
+  {
+   "off": 212628,
+   "en": "Swap song"
+  },
+  {
+   "off": 212788,
+   "en": "Changing songs resets\nchoreography and\ncamera setups."
+  },
+  {
+   "off": 213384,
+   "en": "No Auditions"
+  },
+  {
+   "off": 213404,
+   "en": "There are no\nauditions available\nright now."
+  },
+  {
+   "off": 213460,
+   "en": "Take this\naudition?"
+  },
+  {
+   "off": 213796,
+   "en": "No"
+  },
+  {
+   "off": 213860,
+   "en": "Yes"
+  },
+  {
+   "off": 213868,
+   "en": "OK"
+  },
+  {
+   "off": 213996,
+   "en": "Dance Lesson"
+  },
+  {
+   "off": 214012,
+   "en": "Vocal Lesson"
+  },
+  {
+   "off": 214032,
+   "en": "Visual Lesson"
+  },
+  {
+   "off": 214052,
+   "en": "Your Dance image\nwill go up.\n\nTake this lesson?"
+  },
+  {
+   "off": 214108,
+   "en": "Your Vocal image\nwill go up.\n\nTake this lesson?"
+  },
+  {
+   "off": 214168,
+   "en": "Your Visual image\nwill go up.\n\nTake this lesson?"
+  },
+  {
+   "off": 214992,
+   "en": "Inbox"
+  },
+  {
+   "off": 215004,
+   "en": "Saved"
+  },
+  {
+   "off": 216372,
+   "en": "Mail"
+  },
+  {
+   "off": 216388,
+   "en": "Reply"
+  },
+  {
+   "off": 216412,
+   "en": "Subject:"
+  },
+  {
+   "off": 216436,
+   "en": "From:"
+  },
+  {
+   "off": 216564,
+   "en": "You can reply to it.\nReply now?"
+  },
+  {
+   "off": 217520,
+   "en": "No Promo"
+  },
+  {
+   "off": 217532,
+   "en": "There is no promo\nwork right now."
+  },
+  {
+   "off": 217576,
+   "en": "Take this job?"
+  },
+  {
+   "off": 211736,
+   "en": "Save your current\nprogress?"
+  },
+  {
+   "off": 211768,
+   "en": "Save the system\ndata?"
+  },
+  {
+   "off": 214892,
+   "en": "Unread"
+  },
+  {
+   "off": 214916,
+   "en": "New"
+  },
+  {
+   "off": 214956,
+   "en": "Sender"
+  },
+  {
+   "off": 215216,
+   "en": "New%-8s/All%-8s"
+  },
+  {
+   "off": 215256,
+   "en": "New%-8s/All%-8s"
+  },
+  {
+   "off": 216340,
+   "en": "Send"
+  },
+  {
+   "off": 216528,
+   "en": "It hasn't been sent.\nSend it now?"
+  },
+  {
+   "off": 217760,
+   "en": "Take a day off?"
+  }
+ ]
+}

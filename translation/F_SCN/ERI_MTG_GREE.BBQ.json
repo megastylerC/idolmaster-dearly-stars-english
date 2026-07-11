@@ -1,0 +1,86 @@
+{
+ "file": "F_SCN/ERI_MTG_GREE.BBQ",
+ "count": 21,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Ai"
+  },
+  {
+   "i": 2,
+   "en": "Ryo"
+  },
+  {
+   "i": 3,
+   "en": "High"
+  },
+  {
+   "i": 4,
+   "en": "Middle"
+  },
+  {
+   "i": 5,
+   "en": "Low"
+  },
+  {
+   "i": 6,
+   "en": "Good\nmorning"
+  },
+  {
+   "i": 7,
+   "en": "Hello"
+  },
+  {
+   "i": 8,
+   "en": "Morning,\nAi-chan"
+  },
+  {
+   "i": 9,
+   "en": "Good\nmorning?"
+  },
+  {
+   "i": 10,
+   "en": "Hello?"
+  },
+  {
+   "i": 11,
+   "en": "Morning,\nAi-chan?"
+  },
+  {
+   "i": 12,
+   "en": "Good\nmorning..."
+  },
+  {
+   "i": 13,
+   "en": "Hello..."
+  },
+  {
+   "i": 14,
+   "en": "Morning,\nAi-chan..."
+  },
+  {
+   "i": 15,
+   "en": "Hello,\nRyo-san"
+  },
+  {
+   "i": 16,
+   "en": "Hello,\nRyo-san?"
+  },
+  {
+   "i": 17,
+   "en": "Hello,\nRyo-san..."
+  },
+  {
+   "i": 18,
+   "en": "Good"
+  },
+  {
+   "i": 19,
+   "en": "Normal"
+  },
+  {
+   "i": 20,
+   "en": "Bad"
+  }
+ ]
+}

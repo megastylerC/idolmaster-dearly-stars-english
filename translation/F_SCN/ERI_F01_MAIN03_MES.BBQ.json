@@ -1,0 +1,622 @@
+{
+ "file": "F_SCN/ERI_F01_MAIN03_MES.BBQ",
+ "count": 155,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Eri"
+  },
+  {
+   "i": 2,
+   "en": "I need a way to sing without nerves."
+  },
+  {
+   "i": 3,
+   "en": "Maybe the net will know."
+  },
+  {
+   "i": 4,
+   "en": "Cineria"
+  },
+  {
+   "i": 5,
+   "en": "Senpaaai! I heard you finally"
+  },
+  {
+   "i": 6,
+   "en": "feel like singing?"
+  },
+  {
+   "i": 7,
+   "en": "Yeah."
+  },
+  {
+   "i": 8,
+   "en": "What brought this on?"
+  },
+  {
+   "i": 9,
+   "en": "Did something happen?"
+  },
+  {
+   "i": 10,
+   "en": "Well..."
+  },
+  {
+   "i": 11,
+   "en": "If I tell her I really debuted as an"
+  },
+  {
+   "i": 12,
+   "en": "idol, the questions won't stop."
+  },
+  {
+   "i": 13,
+   "en": "Come ooon, senpai?"
+  },
+  {
+   "i": 14,
+   "en": "There's a wedding."
+  },
+  {
+   "i": 15,
+   "en": "I have to sing at it."
+  },
+  {
+   "i": 16,
+   "en": "Ooh, what are you singing?"
+  },
+  {
+   "i": 17,
+   "en": "The Ladybug Samba, maybe?"
+  },
+  {
+   "i": 18,
+   "en": "Aha! A classic pick~"
+  },
+  {
+   "i": 19,
+   "en": "I wanna hear you sing"
+  },
+  {
+   "i": 20,
+   "en": "too, senpai~"
+  },
+  {
+   "i": 21,
+   "en": "So, senpai, senpaaai!"
+  },
+  {
+   "i": 22,
+   "en": "There's a funeral."
+  },
+  {
+   "i": 23,
+   "en": "Um... a funeral march?"
+  },
+  {
+   "i": 24,
+   "en": "The duuun-dun-dun-duuun one???"
+  },
+  {
+   "i": 25,
+   "en": "Nobody SINGS that one, senpai!"
+  },
+  {
+   "i": 26,
+   "en": "...I'll do my best."
+  },
+  {
+   "i": 27,
+   "en": "That's not the issue here..."
+  },
+  {
+   "i": 28,
+   "en": "Are you hiding something from me?"
+  },
+  {
+   "i": 29,
+   "en": "There's a coming-of-age ceremony."
+  },
+  {
+   "i": 30,
+   "en": "Ooh, who's coming of age?"
+  },
+  {
+   "i": 31,
+   "en": "...Me?"
+  },
+  {
+   "i": 32,
+   "en": "As if! You're nowhere near"
+  },
+  {
+   "i": 33,
+   "en": "twenty yet, senpai!"
+  },
+  {
+   "i": 34,
+   "en": "...I will be in five years."
+  },
+  {
+   "i": 35,
+   "en": "Why practice five years early?!"
+  },
+  {
+   "i": 36,
+   "en": "Cineria just won't let me"
+  },
+  {
+   "i": 37,
+   "en": "focus on my research..."
+  },
+  {
+   "i": 38,
+   "en": "Oh, right. The movie chat had"
+  },
+  {
+   "i": 39,
+   "en": "that one feature..."
+  },
+  {
+   "i": 40,
+   "en": "―㌍There!"
+  },
+  {
+   "i": 41,
+   "en": "Huh?"
+  },
+  {
+   "i": 42,
+   "en": "??? ○△◎★■〒×?"
+  },
+  {
+   "i": 43,
+   "en": "Good. Now I can't hear a thing."
+  },
+  {
+   "i": 44,
+   "en": "Time to focus..."
+  },
+  {
+   "i": 45,
+   "en": "(Senpaaai, SO MEAN!)"
+  },
+  {
+   "i": 46,
+   "en": "Ah, text popped up?"
+  },
+  {
+   "i": 47,
+   "en": "Did you switch to regular chat?"
+  },
+  {
+   "i": 48,
+   "en": "(You muted me so you can't"
+  },
+  {
+   "i": 49,
+   "en": "hear my voice, didn't youuu?)"
+  },
+  {
+   "i": 50,
+   "en": "H-How did you know?"
+  },
+  {
+   "i": 51,
+   "en": "(Obviously! I use it too when"
+  },
+  {
+   "i": 52,
+   "en": "someone annoying is around!)"
+  },
+  {
+   "i": 53,
+   "en": "(Typing is a paaain, so turn"
+  },
+  {
+   "i": 54,
+   "en": "it off alreadyyy!)"
+  },
+  {
+   "i": 55,
+   "en": "Okay..."
+  },
+  {
+   "i": 56,
+   "en": "No use now that I'm caught."
+  },
+  {
+   "i": 57,
+   "en": "But... how do I turn it off?"
+  },
+  {
+   "i": 58,
+   "en": "(Your PC has a touch"
+  },
+  {
+   "i": 59,
+   "en": "panel, right, senpai?)"
+  },
+  {
+   "i": 60,
+   "en": "(Rub the mask icon on the screen"
+  },
+  {
+   "i": 61,
+   "en": "to undo the mute, 'kay~?)"
+  },
+  {
+   "i": 62,
+   "en": "Got it. Here goes..."
+  },
+  {
+   "i": 63,
+   "en": "...It won't come off."
+  },
+  {
+   "i": 64,
+   "en": "Shall we stay like this a while?"
+  },
+  {
+   "i": 65,
+   "en": "(Nooo way! If you can't do it,"
+  },
+  {
+   "i": 66,
+   "en": "undo it from the config menu!)"
+  },
+  {
+   "i": 67,
+   "en": "(Hey, why aren't you even"
+  },
+  {
+   "i": 68,
+   "en": "trying?!)"
+  },
+  {
+   "i": 69,
+   "en": "Your face looks pretty funny"
+  },
+  {
+   "i": 70,
+   "en": "with this mask on."
+  },
+  {
+   "i": 71,
+   "en": "(Don't get all impressed"
+  },
+  {
+   "i": 72,
+   "en": "by THAT!)"
+  },
+  {
+   "i": 73,
+   "en": "(If rubbing's a pain, just undo it"
+  },
+  {
+   "i": 74,
+   "en": "from the config in one tap~!)"
+  },
+  {
+   "i": 75,
+   "en": "Okay, okay..."
+  },
+  {
+   "i": 76,
+   "en": "There. Back to normal."
+  },
+  {
+   "i": 77,
+   "en": "Phew! Finally free from"
+  },
+  {
+   "i": 78,
+   "en": "typing everything!"
+  },
+  {
+   "i": 79,
+   "en": "Jeez, senpai, you can be"
+  },
+  {
+   "i": 80,
+   "en": "such a prankster~♪"
+  },
+  {
+   "i": 81,
+   "en": "So, so! Did you find a way to"
+  },
+  {
+   "i": 82,
+   "en": "sing without the jitters?"
+  },
+  {
+   "i": 83,
+   "en": "Not really. Nothing good yet."
+  },
+  {
+   "i": 84,
+   "en": "Some promising sites need you to"
+  },
+  {
+   "i": 85,
+   "en": "register as a member first, though."
+  },
+  {
+   "i": 86,
+   "en": "Registration sites, huh~"
+  },
+  {
+   "i": 87,
+   "en": "All that hassle for a dud"
+  },
+  {
+   "i": 88,
+   "en": "would be brutal~"
+  },
+  {
+   "i": 89,
+   "en": "So what are these member sites?"
+  },
+  {
+   "i": 90,
+   "en": "Let's see. First, 'Miracle! Stage"
+  },
+  {
+   "i": 91,
+   "en": "Fright Bootcamp.' And then..."
+  },
+  {
+   "i": 92,
+   "en": "'Karaoke Victory Guide: Sing Without"
+  },
+  {
+   "i": 93,
+   "en": "Nerves.' Those two looked good."
+  },
+  {
+   "i": 94,
+   "en": "Hmm, they both smell like"
+  },
+  {
+   "i": 95,
+   "en": "traps to me..."
+  },
+  {
+   "i": 96,
+   "en": "Which should I try first?"
+  },
+  {
+   "i": 97,
+   "en": "Beats me! Just go with your"
+  },
+  {
+   "i": 98,
+   "en": "gut, senpai."
+  },
+  {
+   "i": 99,
+   "en": "Then..."
+  },
+  {
+   "i": 100,
+   "en": "I'll try the 'Karaoke Victory"
+  },
+  {
+   "i": 101,
+   "en": "Guide' first."
+  },
+  {
+   "i": 102,
+   "en": "Aaand... registered."
+  },
+  {
+   "i": 103,
+   "en": "How is it?"
+  },
+  {
+   "i": 104,
+   "en": "Oh, this site is really clear."
+  },
+  {
+   "i": 105,
+   "en": "It even details tricks to keep your"
+  },
+  {
+   "i": 106,
+   "en": "voice steady when you're nervous."
+  },
+  {
+   "i": 107,
+   "en": "Jackpot, senpai?"
+  },
+  {
+   "i": 108,
+   "en": "Yeah!"
+  },
+  {
+   "i": 109,
+   "en": "I can really study with this."
+  },
+  {
+   "i": 110,
+   "en": "What a relief..."
+  },
+  {
+   "i": 111,
+   "en": "I'll keep looking. The big forums"
+  },
+  {
+   "i": 112,
+   "en": "might have useful stuff too."
+  },
+  {
+   "i": 113,
+   "en": "Oh, good call. So we skip"
+  },
+  {
+   "i": 114,
+   "en": "the registration sites."
+  },
+  {
+   "i": 115,
+   "en": "Let's see... this thread first..."
+  },
+  {
+   "i": 116,
+   "en": "There's a lot here, but... hmm..."
+  },
+  {
+   "i": 117,
+   "en": "Post 1"
+  },
+  {
+   "i": 118,
+   "en": "'Just psych up and u wont freeze YO'"
+  },
+  {
+   "i": 119,
+   "en": "Post 2"
+  },
+  {
+   "i": 120,
+   "en": "'I decided to see a doctor.'"
+  },
+  {
+   "i": 121,
+   "en": "So many kinds of people... finding"
+  },
+  {
+   "i": 122,
+   "en": "someone like me could take a while."
+  },
+  {
+   "i": 123,
+   "en": "Well, that's forums for you."
+  },
+  {
+   "i": 124,
+   "en": "It'll take work, but I'll read every"
+  },
+  {
+   "i": 125,
+   "en": "related thread by tonight."
+  },
+  {
+   "i": 126,
+   "en": "If I push, I should gather"
+  },
+  {
+   "i": 127,
+   "en": "at least a little info."
+  },
+  {
+   "i": 128,
+   "en": "I'll put my net followers on"
+  },
+  {
+   "i": 129,
+   "en": "it and dig around too!"
+  },
+  {
+   "i": 130,
+   "en": "So what's inside 'Miracle!"
+  },
+  {
+   "i": 131,
+   "en": "Stage Fright Bootcamp'?"
+  },
+  {
+   "i": 132,
+   "en": "Let's seee..."
+  },
+  {
+   "i": 133,
+   "en": "'The key to beating stage fright is"
+  },
+  {
+   "i": 134,
+   "en": "chanting our recommended charm.'"
+  },
+  {
+   "i": 135,
+   "en": "'Say it now: hanyu-hanyu-poyooon! One"
+  },
+  {
+   "i": 136,
+   "en": "chant fixes love AND lotteries♪'"
+  },
+  {
+   "i": 137,
+   "en": "Hanyu-hanyu-poyooon..."
+  },
+  {
+   "i": 138,
+   "en": "Hanyu-hanyu..."
+  },
+  {
+   "i": 139,
+   "en": "Cineria, this looks like an"
+  },
+  {
+   "i": 140,
+   "en": "occult fortune-telling site."
+  },
+  {
+   "i": 141,
+   "en": "Whoa, for realsies?"
+  },
+  {
+   "i": 142,
+   "en": "Did you step on a landmine?"
+  },
+  {
+   "i": 143,
+   "en": "Wanna check the other site too?"
+  },
+  {
+   "i": 144,
+   "en": "No, I'm done. It's probably"
+  },
+  {
+   "i": 145,
+   "en": "more of the same anyway."
+  },
+  {
+   "i": 146,
+   "en": "I registered on a shady site..."
+  },
+  {
+   "i": 147,
+   "en": "I hope the spam doesn't come."
+  },
+  {
+   "i": 148,
+   "en": "Don't be down, senpai! Forget the scam"
+  },
+  {
+   "i": 149,
+   "en": "site, I'LL help you out!"
+  },
+  {
+   "i": 150,
+   "en": "I'll have my net followers"
+  },
+  {
+   "i": 151,
+   "en": "research everything!"
+  },
+  {
+   "i": 152,
+   "en": "Really?"
+  },
+  {
+   "i": 153,
+   "en": "I'll send it once it's compiled!"
+  },
+  {
+   "i": 154,
+   "en": "Okay. Thank you, Cineria."
+  }
+ ]
+}

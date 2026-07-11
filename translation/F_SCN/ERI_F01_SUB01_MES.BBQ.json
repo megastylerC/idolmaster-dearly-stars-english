@@ -1,0 +1,906 @@
+{
+ "file": "F_SCN/ERI_F01_SUB01_MES.BBQ",
+ "count": 226,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Ai"
+  },
+  {
+   "i": 2,
+   "en": "Eri-san, a shoot! A location shoot!"
+  },
+  {
+   "i": 3,
+   "en": "Riding a bus to a job and all..."
+  },
+  {
+   "i": 4,
+   "en": "Doesn't it get your heart racing?!"
+  },
+  {
+   "i": 5,
+   "en": "Eri"
+  },
+  {
+   "i": 6,
+   "en": "I guess..."
+  },
+  {
+   "i": 7,
+   "en": "I should be friends with my fellow"
+  },
+  {
+   "i": 8,
+   "en": "rookies... but trying tongue-ties me."
+  },
+  {
+   "i": 9,
+   "en": "Ugh... I'm starting to feel..."
+  },
+  {
+   "i": 10,
+   "en": "Urgh, I think I'm getting"
+  },
+  {
+   "i": 11,
+   "en": "a little carsick..."
+  },
+  {
+   "i": 12,
+   "en": "Are you okay?"
+  },
+  {
+   "i": 13,
+   "en": "Oh, I know!"
+  },
+  {
+   "i": 14,
+   "en": "Here, eat this! It'll perk you up!"
+  },
+  {
+   "i": 15,
+   "en": "What is... this?"
+  },
+  {
+   "i": 16,
+   "en": "'Umasugi Bo,' the 10-yen snack stick!"
+  },
+  {
+   "i": 17,
+   "en": "Pick whichever flavor you like!"
+  },
+  {
+   "i": 18,
+   "en": "Well, then..."
+  },
+  {
+   "i": 19,
+   "en": "I'll take the Super-Spicy Habanero"
+  },
+  {
+   "i": 20,
+   "en": "Nom... crunch, crunch, crunch..."
+  },
+  {
+   "i": 21,
+   "en": "S-Spicy! It's so spicy! Nngh!"
+  },
+  {
+   "i": 22,
+   "en": "Intense, right?! I cried too, the"
+  },
+  {
+   "i": 23,
+   "en": "first time I ate one"
+  },
+  {
+   "i": 24,
+   "en": "Ah... but... my carsickness is gone"
+  },
+  {
+   "i": 25,
+   "en": "The queasiness all blew away..."
+  },
+  {
+   "i": 26,
+   "en": "Spicy might be just what you"
+  },
+  {
+   "i": 27,
+   "en": "needed, huh!"
+  },
+  {
+   "i": 28,
+   "en": "Ahh, thank goodness♪"
+  },
+  {
+   "i": 29,
+   "en": "Teriyaki Natto... maybe I'll try that"
+  },
+  {
+   "i": 30,
+   "en": "Thank you. Nom, crunch, crunch..."
+  },
+  {
+   "i": 31,
+   "en": "........"
+  },
+  {
+   "i": 32,
+   "en": "What's wrong? Why the funny face?"
+  },
+  {
+   "i": 33,
+   "en": "This tastes like... teriyaki'd"
+  },
+  {
+   "i": 34,
+   "en": "natto..."
+  },
+  {
+   "i": 35,
+   "en": "That's the whole point!"
+  },
+  {
+   "i": 36,
+   "en": "Did it blow the carsickness away?"
+  },
+  {
+   "i": 37,
+   "en": "Not really..."
+  },
+  {
+   "i": 38,
+   "en": "But maybe it took my mind off it?"
+  },
+  {
+   "i": 39,
+   "en": "Then I'm glad!"
+  },
+  {
+   "i": 40,
+   "en": "Extra-Thick Mayonnaise... I'll try it"
+  },
+  {
+   "i": 41,
+   "en": "Thanks. Nom, crunch, crunch......"
+  },
+  {
+   "i": 42,
+   "en": "Hngh... th-this is... urp"
+  },
+  {
+   "i": 43,
+   "en": "What's wrong?"
+  },
+  {
+   "i": 44,
+   "en": "I might feel even sicker now."
+  },
+  {
+   "i": 45,
+   "en": "It's way too thick and gloopy..."
+  },
+  {
+   "i": 46,
+   "en": "Aaah, Eri-san! Water! I'll get water!"
+  },
+  {
+   "i": 47,
+   "en": "Feeling better?"
+  },
+  {
+   "i": 48,
+   "en": "Yeah, thank you..."
+  },
+  {
+   "i": 49,
+   "en": "I ate a weird flavor."
+  },
+  {
+   "i": 50,
+   "en": "I should've picked a different one"
+  },
+  {
+   "i": 51,
+   "en": "Eri-san, we've still got time before"
+  },
+  {
+   "i": 52,
+   "en": "we get there. Want to do something?"
+  },
+  {
+   "i": 53,
+   "en": "Something? ...Riddles, maybe?"
+  },
+  {
+   "i": 54,
+   "en": "Oh, good idea!"
+  },
+  {
+   "i": 55,
+   "en": "Then I'll ask the first one!"
+  },
+  {
+   "i": 56,
+   "en": "Question!"
+  },
+  {
+   "i": 57,
+   "en": "It's a pan, but a pan you can't eat..."
+  },
+  {
+   "i": 58,
+   "en": "A frying pan"
+  },
+  {
+   "i": 59,
+   "en": "Too fast, Eri-san...!"
+  },
+  {
+   "i": 60,
+   "en": "You must be really smart"
+  },
+  {
+   "i": 61,
+   "en": "Not really, I don't think"
+  },
+  {
+   "i": 62,
+   "en": "It's your turn to ask one, Eri-san!"
+  },
+  {
+   "i": 63,
+   "en": "Hmm... how hard should I"
+  },
+  {
+   "i": 64,
+   "en": "make it, I wonder"
+  },
+  {
+   "i": 65,
+   "en": "Okay, a middle-school level riddle"
+  },
+  {
+   "i": 66,
+   "en": "That's exactly the perfect"
+  },
+  {
+   "i": 67,
+   "en": "difficulty for me!"
+  },
+  {
+   "i": 68,
+   "en": "I'll do my best to answer!"
+  },
+  {
+   "i": 69,
+   "en": "Question. If a melon falls into the"
+  },
+  {
+   "i": 70,
+   "en": "water, what fruit does it become?"
+  },
+  {
+   "i": 71,
+   "en": "A melon, into the water...?"
+  },
+  {
+   "i": 72,
+   "en": "Umm... ummmm......"
+  },
+  {
+   "i": 73,
+   "en": "Mizu-yokan!"
+  },
+  {
+   "i": 74,
+   "en": "Why?"
+  },
+  {
+   "i": 75,
+   "en": "Because it fell in the water!"
+  },
+  {
+   "i": 76,
+   "en": "Wrong. The answer was a watermelon"
+  },
+  {
+   "i": 77,
+   "en": "Whaaat?! But whyyy???"
+  },
+  {
+   "i": 78,
+   "en": "Because in English, a suika is"
+  },
+  {
+   "i": 79,
+   "en": "called a 'watermelon'"
+  },
+  {
+   "i": 80,
+   "en": "Ohh, is that how it is?"
+  },
+  {
+   "i": 81,
+   "en": "I never knew!"
+  },
+  {
+   "i": 82,
+   "en": "I got it wrong, but I got a little"
+  },
+  {
+   "i": 83,
+   "en": "smarter. Eheheh"
+  },
+  {
+   "i": 84,
+   "en": "Next, a high-school level riddle"
+  },
+  {
+   "i": 85,
+   "en": "Urk, that's a level above my age."
+  },
+  {
+   "i": 86,
+   "en": "But I'll do my best!"
+  },
+  {
+   "i": 87,
+   "en": "Question. It's packed inside cells,"
+  },
+  {
+   "i": 88,
+   "en": "endlessly producing energy. What food?"
+  },
+  {
+   "i": 89,
+   "en": "A food...? Cells???"
+  },
+  {
+   "i": 90,
+   "en": "'Packed inside'???"
+  },
+  {
+   "i": 91,
+   "en": "I don't even get the question......"
+  },
+  {
+   "i": 92,
+   "en": "What's the answer?"
+  },
+  {
+   "i": 93,
+   "en": "The answer: mitochon-doria"
+  },
+  {
+   "i": 94,
+   "en": "...Pfft"
+  },
+  {
+   "i": 95,
+   "en": "What IS that mito-whatever?"
+  },
+  {
+   "i": 96,
+   "en": "And what's funny about it???"
+  },
+  {
+   "i": 97,
+   "en": "I didn't get it, but oh well."
+  },
+  {
+   "i": 98,
+   "en": "It was high-school level, after all"
+  },
+  {
+   "i": 99,
+   "en": "Then, an elementary-school riddle"
+  },
+  {
+   "i": 100,
+   "en": "Oh, I'll definitely get that one!"
+  },
+  {
+   "i": 101,
+   "en": "Alright, I'll solve it in 3 seconds!"
+  },
+  {
+   "i": 102,
+   "en": "Question."
+  },
+  {
+   "i": 103,
+   "en": "Which animal is quickest to leave?"
+  },
+  {
+   "i": 104,
+   "en": "Huh, quickest to leave???"
+  },
+  {
+   "i": 105,
+   "en": "Umm, ummm..."
+  },
+  {
+   "i": 106,
+   "en": "A lion... no wait, not a giraffe,"
+  },
+  {
+   "i": 107,
+   "en": "not a bear either, umm..."
+  },
+  {
+   "i": 108,
+   "en": "A sea otter!!"
+  },
+  {
+   "i": 109,
+   "en": "Is that 'cause it otter get going?"
+  },
+  {
+   "i": 110,
+   "en": "...Wrong. The answer was the monkey"
+  },
+  {
+   "i": 111,
+   "en": "Huh, a monkey!? Why?!"
+  },
+  {
+   "i": 112,
+   "en": "'Saru' means monkey, and to leave"
+  },
+  {
+   "i": 113,
+   "en": "Saru means saru?"
+  },
+  {
+   "i": 114,
+   "en": "A saru has baby monkeys?"
+  },
+  {
+   "i": 115,
+   "en": "No. It leaves here, so it's a saru"
+  },
+  {
+   "i": 116,
+   "en": "It leaves here, so..."
+  },
+  {
+   "i": 117,
+   "en": "Ahhh, I get it! That's right!"
+  },
+  {
+   "i": 118,
+   "en": "Nooo... I couldn't even get the"
+  },
+  {
+   "i": 119,
+   "en": "elementary one. What a shock..."
+  },
+  {
+   "i": 120,
+   "en": "That's my total defeat at riddles"
+  },
+  {
+   "i": 121,
+   "en": "Now, punishment-game time. Go ahead"
+  },
+  {
+   "i": 122,
+   "en": "Punishment game?"
+  },
+  {
+   "i": 123,
+   "en": "You can chop me on the head."
+  },
+  {
+   "i": 124,
+   "en": "A nice big 'hi-yah!'"
+  },
+  {
+   "i": 125,
+   "en": "Huh? No, I couldn't"
+  },
+  {
+   "i": 126,
+   "en": "Don't hold back."
+  },
+  {
+   "i": 127,
+   "en": "You won, Eri-san. Come on......"
+  },
+  {
+   "i": 128,
+   "en": "What do I do? Maybe here..."
+  },
+  {
+   "i": 129,
+   "en": "Hyah! Eri-san, that tickles~"
+  },
+  {
+   "i": 130,
+   "en": "Why're you...?"
+  },
+  {
+   "i": 131,
+   "en": "Pet, pet, pet..."
+  },
+  {
+   "i": 132,
+   "en": "Ahah, ahahaha! Why are you"
+  },
+  {
+   "i": 133,
+   "en": "petting me?!"
+  },
+  {
+   "i": 134,
+   "en": "No real reason... Pet, pet, pet..."
+  },
+  {
+   "i": 135,
+   "en": "Ahyahyahya! That tickles,"
+  },
+  {
+   "i": 136,
+   "en": "I said!"
+  },
+  {
+   "i": 137,
+   "en": "Pet, pet, pet"
+  },
+  {
+   "i": 138,
+   "en": "Ahahahaha! Ahahahahaha!"
+  },
+  {
+   "i": 139,
+   "en": "Uhyu?! Wait, why are you"
+  },
+  {
+   "i": 140,
+   "en": "poking my cheeks?!"
+  },
+  {
+   "i": 141,
+   "en": "Squish, squish, squish..."
+  },
+  {
+   "i": 142,
+   "en": "Uheeheehee! That tickles,"
+  },
+  {
+   "i": 143,
+   "en": "Eri-saaan!"
+  },
+  {
+   "i": 144,
+   "en": "Instead of a chop, I'll do this."
+  },
+  {
+   "i": 145,
+   "en": "Aheehee! Honestly, Eri-san!"
+  },
+  {
+   "i": 146,
+   "en": "Eheheheheh!"
+  },
+  {
+   "i": 147,
+   "en": "Mercy, mercyyy! Ahyahyahya!"
+  },
+  {
+   "i": 148,
+   "en": "She's laughing so happily"
+  },
+  {
+   "i": 149,
+   "en": "Did we get a little closer, maybe?"
+  },
+  {
+   "i": 150,
+   "en": "I'm glad"
+  },
+  {
+   "i": 151,
+   "en": "Hi-yah"
+  },
+  {
+   "i": 152,
+   "en": "Ow!"
+  },
+  {
+   "i": 153,
+   "en": "Eheheh, you got me good!"
+  },
+  {
+   "i": 154,
+   "en": "But next time, I won't lose!"
+  },
+  {
+   "i": 155,
+   "en": "......Ngh"
+  },
+  {
+   "i": 156,
+   "en": "Huh? What's wrong, Eri-san?"
+  },
+  {
+   "i": 157,
+   "en": "Ngh, uuu... it hurts"
+  },
+  {
+   "i": 158,
+   "en": "Huh? What hurts???"
+  },
+  {
+   "i": 159,
+   "en": "The hand I chopped with hurts..."
+  },
+  {
+   "i": 160,
+   "en": "Aaah, please don't cry!"
+  },
+  {
+   "i": 161,
+   "en": "Isn't this backwards?!"
+  },
+  {
+   "i": 162,
+   "en": "Her head's so hard..."
+  },
+  {
+   "i": 163,
+   "en": "But she's comforting me. She seems"
+  },
+  {
+   "i": 164,
+   "en": "like a good girl. I'm glad"
+  },
+  {
+   "i": 165,
+   "en": "Ow! Hey! My eye...!"
+  },
+  {
+   "i": 166,
+   "en": "Eri-saaan, what are you doing?!"
+  },
+  {
+   "i": 167,
+   "en": "Ngh, uuuungh..."
+  },
+  {
+   "i": 168,
+   "en": "Ah... I'm sorry. My finger slipped in"
+  },
+  {
+   "i": 169,
+   "en": "...You okay?"
+  },
+  {
+   "i": 170,
+   "en": "I'm fine. I'm fine, but..."
+  },
+  {
+   "i": 171,
+   "en": "Ngh, uuungh, uuuuuungh...!"
+  },
+  {
+   "i": 172,
+   "en": "Waaah! Uuuuungh, waaah,"
+  },
+  {
+   "i": 173,
+   "en": "waaaaaah!"
+  },
+  {
+   "i": 174,
+   "en": "Aaah... don't cry."
+  },
+  {
+   "i": 175,
+   "en": "It was my fault"
+  },
+  {
+   "i": 176,
+   "en": "I'm sorry, I'm sorry..."
+  },
+  {
+   "i": 177,
+   "en": "Uuu... uu, uuuuu..."
+  },
+  {
+   "i": 178,
+   "en": "Waaah, waaaaah!"
+  },
+  {
+   "i": 179,
+   "en": "Uuuuu, uu, uuuuungh..."
+  },
+  {
+   "i": 180,
+   "en": "What do I do? I did something awful."
+  },
+  {
+   "i": 181,
+   "en": "I'm sorry, I'm really sorry..."
+  },
+  {
+   "i": 182,
+   "en": "Mmph? Huh, my mouth???"
+  },
+  {
+   "i": 183,
+   "en": "...Poke"
+  },
+  {
+   "i": 184,
+   "en": "Eri-san??? Why are you poking"
+  },
+  {
+   "i": 185,
+   "en": "my mouth?"
+  },
+  {
+   "i": 186,
+   "en": "I thought touching here felt more"
+  },
+  {
+   "i": 187,
+   "en": "punishment-game-like......"
+  },
+  {
+   "i": 188,
+   "en": "It's absolutely nothing like one!"
+  },
+  {
+   "i": 189,
+   "en": "Your touch was super gentle, Eri-san"
+  },
+  {
+   "i": 190,
+   "en": "...S-Sorry?"
+  },
+  {
+   "i": 191,
+   "en": "It's nothing to apologize for either!"
+  },
+  {
+   "i": 192,
+   "en": "We're not quite on the same page."
+  },
+  {
+   "i": 193,
+   "en": "Should I not have done weird things?"
+  },
+  {
+   "i": 194,
+   "en": "Hya! E-Eri-san?! That's..."
+  },
+  {
+   "i": 195,
+   "en": "You can't touch there..."
+  },
+  {
+   "i": 196,
+   "en": "What's wrong...?"
+  },
+  {
+   "i": 197,
+   "en": "Why are you, um, touching my, er..."
+  },
+  {
+   "i": 198,
+   "en": "...The classic bit?"
+  },
+  {
+   "i": 199,
+   "en": "Huh?"
+  },
+  {
+   "i": 200,
+   "en": "I thought this was how it always goes"
+  },
+  {
+   "i": 201,
+   "en": "I don't get you at all! Honestly!"
+  },
+  {
+   "i": 202,
+   "en": "I said a chop!"
+  },
+  {
+   "i": 203,
+   "en": "Eri-san, do you actually like"
+  },
+  {
+   "i": 204,
+   "en": "doing this sort of thing?"
+  },
+  {
+   "i": 205,
+   "en": "I don't think that's it, but..."
+  },
+  {
+   "i": 206,
+   "en": "Huh?"
+  },
+  {
+   "i": 207,
+   "en": "I wonder? My hand just gets drawn in."
+  },
+  {
+   "i": 208,
+   "en": "Maybe I'm tired?"
+  },
+  {
+   "i": 209,
+   "en": "Eh? Eri-san, why are you"
+  },
+  {
+   "i": 210,
+   "en": "touching there......"
+  },
+  {
+   "i": 211,
+   "en": "Just give me a proper chop already!"
+  },
+  {
+   "i": 212,
+   "en": "One more, go ahead"
+  },
+  {
+   "i": 213,
+   "en": "Eri-saaan, what are you staring at?"
+  },
+  {
+   "i": 214,
+   "en": "Hurry up and chop!"
+  },
+  {
+   "i": 215,
+   "en": "But it looks like it'd hurt"
+  },
+  {
+   "i": 216,
+   "en": "Don't you worry about that!"
+  },
+  {
+   "i": 217,
+   "en": "No, it's fine now"
+  },
+  {
+   "i": 218,
+   "en": "It's not fine! This isn't a"
+  },
+  {
+   "i": 219,
+   "en": "punishment game at all!"
+  },
+  {
+   "i": 220,
+   "en": "Come on, go ahead"
+  },
+  {
+   "i": 221,
+   "en": "No, no"
+  },
+  {
+   "i": 222,
+   "en": "Come on, go on, go on!"
+  },
+  {
+   "i": 223,
+   "en": "No, no......"
+  },
+  {
+   "i": 224,
+   "en": "It became a weird after-you loop."
+  },
+  {
+   "i": 225,
+   "en": "Keeping this up sounds exhausting"
+  }
+ ]
+}

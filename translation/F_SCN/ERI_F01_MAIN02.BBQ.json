@@ -1,0 +1,30 @@
+{
+ "file": "F_SCN/ERI_F01_MAIN02.BBQ",
+ "count": 7,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Civic Hall"
+  },
+  {
+   "i": 2,
+   "en": "I can't...\nToo scary"
+  },
+  {
+   "i": 3,
+   "en": "I'm not feeling\nwell today"
+  },
+  {
+   "i": 4,
+   "en": "I'm just not\nup for it"
+  },
+  {
+   "i": 5,
+   "en": "I know it"
+  },
+  {
+   "i": 6,
+   "en": "I don't know it"
+  }
+ ]
+}

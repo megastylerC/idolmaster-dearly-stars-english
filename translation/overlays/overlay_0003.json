@@ -1,0 +1,381 @@
+{
+ "overlay": 3,
+ "strings": [
+  {
+   "off": 143004,
+   "en": "Disconnecting..."
+  },
+  {
+   "off": 143200,
+   "en": "No live shows\ncould be found.\nSearch again?"
+  },
+  {
+   "off": 143264,
+   "en": "Disconnecting..."
+  },
+  {
+   "off": 143468,
+   "en": "Disconnecting..."
+  },
+  {
+   "off": 143900,
+   "en": "Recruiting live\nparticipants..."
+  },
+  {
+   "off": 144360,
+   "en": "Join the live stage\nas a fan cheering on\nthe idols."
+  },
+  {
+   "off": 145376,
+   "en": "Choose a T-shirt design to give."
+  },
+  {
+   "off": 145420,
+   "en": "Choose where to save the\nT-shirt design you receive."
+  },
+  {
+   "off": 145480,
+   "en": "Their T-shirt design"
+  },
+  {
+   "off": 145504,
+   "en": "Give away\n%s.\nIs that OK?"
+  },
+  {
+   "off": 145540,
+   "en": "Your partner is choosing.\nPlease wait a moment."
+  },
+  {
+   "off": 145588,
+   "en": "Overwrite\n%s?\nAre you sure?"
+  },
+  {
+   "off": 145632,
+   "en": "Your partner is choosing.\nPlease wait a moment."
+  },
+  {
+   "off": 145680,
+   "en": "You got a T-shirt\ndesign from them."
+  },
+  {
+   "off": 145724,
+   "en": "You gave them your\nT-shirt design."
+  },
+  {
+   "off": 145764,
+   "en": "Cancel the trade.\nAre you sure?"
+  },
+  {
+   "off": 145800,
+   "en": "Trade canceled."
+  },
+  {
+   "off": 145824,
+   "en": "Trade canceled."
+  },
+  {
+   "off": 145848,
+   "en": "Trade canceled."
+  },
+  {
+   "off": 146048,
+   "en": "Accept"
+  },
+  {
+   "off": 146056,
+   "en": "Exchange friend codes.\nIs that OK?"
+  },
+  {
+   "off": 146104,
+   "en": "Accept"
+  },
+  {
+   "off": 146112,
+   "en": "Your partner is choosing.\nPlease wait a moment."
+  },
+  {
+   "off": 146160,
+   "en": "You got their\nfriend code."
+  },
+  {
+   "off": 146200,
+   "en": "Trade canceled."
+  },
+  {
+   "off": 146224,
+   "en": "Trade canceled."
+  },
+  {
+   "off": 146248,
+   "en": "Trade canceled."
+  },
+  {
+   "off": 146460,
+   "en": "Exchange friend codes."
+  },
+  {
+   "off": 146492,
+   "en": "Trade T-shirt designs."
+  },
+  {
+   "off": 146524,
+   "en": "Trade dance panels.\nGiving a panel away\ndoesn't remove yours."
+  },
+  {
+   "off": 146748,
+   "en": "You have no dance\npanels to trade."
+  },
+  {
+   "off": 146808,
+   "en": "Your friend list\nis full.\nPlease tidy it up."
+  },
+  {
+   "off": 146888,
+   "en": "Wait for a partner."
+  },
+  {
+   "off": 146912,
+   "en": "Look for a partner."
+  },
+  {
+   "off": 146936,
+   "en": "Wait for a partner."
+  },
+  {
+   "off": 146960,
+   "en": "Look for a partner."
+  },
+  {
+   "off": 146984,
+   "en": "Give them your T-shirt design."
+  },
+  {
+   "off": 147020,
+   "en": "Receive their T-shirt design."
+  },
+  {
+   "off": 147152,
+   "en": "Receive edited stage\ndata from them."
+  },
+  {
+   "off": 147564,
+   "en": "Partner found!"
+  },
+  {
+   "off": 147588,
+   "en": "Partner found!"
+  },
+  {
+   "off": 147612,
+   "en": "No trade partner found.\nSearch again?"
+  },
+  {
+   "off": 147660,
+   "en": "Disconnecting..."
+  },
+  {
+   "off": 147912,
+   "en": "Choose a dance panel to trade."
+  },
+  {
+   "off": 147952,
+   "en": "Trade\n%s?\nAre you sure?"
+  },
+  {
+   "off": 147988,
+   "en": "Your partner is choosing.\nPlease wait a moment."
+  },
+  {
+   "off": 148036,
+   "en": "You got a dance\npanel from them."
+  },
+  {
+   "off": 148072,
+   "en": "Cancel the trade.\nAre you sure?"
+  },
+  {
+   "off": 148108,
+   "en": "Trade canceled."
+  },
+  {
+   "off": 148132,
+   "en": "Trade canceled."
+  },
+  {
+   "off": 148156,
+   "en": "Trade canceled."
+  },
+  {
+   "off": 148356,
+   "en": "Choose stage data to give."
+  },
+  {
+   "off": 148400,
+   "en": "Choose where to save the\nstage data you receive."
+  },
+  {
+   "off": 148480,
+   "en": "Give away\n%s.\nIs that OK?"
+  },
+  {
+   "off": 148516,
+   "en": "Your partner is choosing.\nPlease wait a moment."
+  },
+  {
+   "off": 148564,
+   "en": "Overwrite\n%s?\nAre you sure?"
+  },
+  {
+   "off": 148608,
+   "en": "Save to\n%s?\nIs that OK?"
+  },
+  {
+   "off": 148644,
+   "en": "Your partner is choosing.\nPlease wait a moment."
+  },
+  {
+   "off": 148692,
+   "en": "You got stage\ndata from them."
+  },
+  {
+   "off": 148732,
+   "en": "You gave them\nyour stage data."
+  },
+  {
+   "off": 148768,
+   "en": "Cancel the trade.\nAre you sure?"
+  },
+  {
+   "off": 148804,
+   "en": "Trade canceled."
+  },
+  {
+   "off": 148828,
+   "en": "Trade canceled."
+  },
+  {
+   "off": 148852,
+   "en": "Trade canceled."
+  },
+  {
+   "off": 148924,
+   "en": "Broadcast the special interview."
+  },
+  {
+   "off": 149564,
+   "en": "3 idols introduce themselves\nSpecial Interview"
+  },
+  {
+   "off": 149684,
+   "en": "THE IDOLM@STER Dearly Stars"
+  },
+  {
+   "off": 149724,
+   "en": "An extra stage made just for\nDS Download Play"
+  },
+  {
+   "off": 149860,
+   "en": "Waiting for receivers..."
+  },
+  {
+   "off": 149892,
+   "en": "Waiting for receivers..."
+  },
+  {
+   "off": 149948,
+   "en": "Broadcasting...\nPlease wait a moment."
+  },
+  {
+   "off": 150016,
+   "en": "Broadcast done!"
+  },
+  {
+   "off": 150508,
+   "en": "Disconnecting..."
+  },
+  {
+   "off": 150704,
+   "en": "No live shows\ncould be found.\nSearch again?"
+  },
+  {
+   "off": 150768,
+   "en": "Disconnecting..."
+  },
+  {
+   "off": 151128,
+   "en": "Preparations are done.\nThe show will start soon."
+  },
+  {
+   "off": 151488,
+   "en": "Preparations are done."
+  },
+  {
+   "off": 151512,
+   "en": "Preparations are done."
+  },
+  {
+   "off": 151536,
+   "en": "Choose the idol\nwho will join."
+  },
+  {
+   "off": 151576,
+   "en": "Join as\n%s?\nIs that OK?"
+  },
+  {
+   "off": 151820,
+   "en": "Hold %s's\nunit live show.\nIs that OK?"
+  },
+  {
+   "off": 151940,
+   "en": "Hold a dream unit live\nshow between idols."
+  },
+  {
+   "off": 152140,
+   "en": "In wireless mode, a special\ncomms venue is used."
+  },
+  {
+   "off": 152428,
+   "en": "Please wait until\neveryone has joined."
+  },
+  {
+   "off": 152640,
+   "en": "Disconnecting..."
+  },
+  {
+   "off": 153724,
+   "en": "Broadcast stages and interviews\nusing DS Download Play."
+  },
+  {
+   "off": 153792,
+   "en": "Trade T-shirt designs, stage\ndata, dance panels, and more."
+  },
+  {
+   "off": 153860,
+   "en": "Watch a dream unit live show\nbetween idols.\nUp to 3 players can connect."
+  },
+  {
+   "off": 154256,
+   "en": "Yes"
+  },
+  {
+   "off": 154264,
+   "en": "Disconnected."
+  },
+  {
+   "off": 154284,
+   "en": "All live participants\ndisconnected."
+  },
+  {
+   "off": 154320,
+   "en": "All disconnected."
+  },
+  {
+   "off": 154344,
+   "en": "Yes"
+  },
+  {
+   "off": 154864,
+   "en": "Hold %s's\nlive stage show.\nIs that OK?"
+  }
+ ]
+}

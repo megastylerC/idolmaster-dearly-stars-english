@@ -1,0 +1,66 @@
+{
+ "file": "F_SCN/ERI_MTG_GREE_C3R.BBQ",
+ "count": 16,
+ "lines": [
+  {
+   "i": 1,
+   "en": "High"
+  },
+  {
+   "i": 2,
+   "en": "Middle"
+  },
+  {
+   "i": 3,
+   "en": "Low"
+  },
+  {
+   "i": 4,
+   "en": "Morning♪"
+  },
+  {
+   "i": 5,
+   "en": "Kuiririra♪"
+  },
+  {
+   "i": 6,
+   "en": "Morning,\nCineria♪"
+  },
+  {
+   "i": 7,
+   "en": "Morning"
+  },
+  {
+   "i": 8,
+   "en": "Kuiririra"
+  },
+  {
+   "i": 9,
+   "en": "Morning,\nCineria"
+  },
+  {
+   "i": 10,
+   "en": "Mornin'"
+  },
+  {
+   "i": 11,
+   "en": "yo"
+  },
+  {
+   "i": 12,
+   "en": "AFK\n(away)"
+  },
+  {
+   "i": 13,
+   "en": "Good"
+  },
+  {
+   "i": 14,
+   "en": "Normal"
+  },
+  {
+   "i": 15,
+   "en": "Bad"
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "overlay": 5,
+ "strings": [
+  {
+   "off": 26984,
+   "en": "Play as Ryo.\nIs that OK?"
+  },
+  {
+   "off": 27012,
+   "en": "Play as Ai.\nIs that OK?"
+  },
+  {
+   "off": 27040,
+   "en": "Play as Eri.\nIs that OK?"
+  },
+  {
+   "off": 27364,
+   "en": "Idol Rank      %s\nIdol Image     %d\nMemories       %d\nDate 2008/04/19 17:00"
+  },
+  {
+   "off": 27472,
+   "en": "Delete this file.\nAre you sure?"
+  },
+  {
+   "off": 27804,
+   "en": "Idol Rank      %s\nIdol Image     %d\nMemories       %d\nDate 2008/04/19 17:00"
+  },
+  {
+   "off": 27912,
+   "en": "Ready to begin\nyour idol activities?"
+  },
+  {
+   "off": 28752,
+   "en": "Start with a new idol."
+  },
+  {
+   "off": 28784,
+   "en": "Deletes saved data."
+  },
+  {
+   "off": 28816,
+   "en": "Loads saved data."
+  },
+  {
+   "off": 29032,
+   "en": "Shows a QR code that links to the mobile site.\nScan it with your phone."
+  },
+  {
+   "off": 29108,
+   "en": "Uses the camera to scan a QR code.\nConnecting to Nintendo Wi-Fi Connection\nmay also be required."
+  },
+  {
+   "off": 29488,
+   "en": "Scan the QR code above with\nyour phone to access the site.\n\nAccessing it may incur\nseparate fees."
+  },
+  {
+   "off": 29640,
+   "en": "Invalid item number."
+  },
+  {
+   "off": 29668,
+   "en": "QR code recognized."
+  },
+  {
+   "off": 29696,
+   "en": "This QR code was issued\nfor a different DS."
+  },
+  {
+   "off": 29744,
+   "en": "This QR code can't be\nused with\nIdolmaster Dearly Stars."
+  },
+  {
+   "off": 29804,
+   "en": "This QR code can't be\nused with\nIdolmaster Dearly Stars."
+  },
+  {
+   "off": 30004,
+   "en": "Make sure the QR code fills\nthe frame on the screen.\n\nHold the camera steady so\nthe image doesn't blur."
+  },
+  {
+   "off": 30112,
+   "en": "Scan…"
+  },
+  {
+   "off": 30120,
+   "en": "Touch the Start button to begin\nrecognizing the QR code.\n\nWhen the code is read successfully,\nthe screen changes automatically.\n\nAfter reading a QR code, you may\nalso need to connect to Wi-Fi."
+  },
+  {
+   "off": 30328,
+   "en": "OK"
+  },
+  {
+   "off": 30392,
+   "en": "Unlocked!"
+  },
+  {
+   "off": 30404,
+   "en": "Unlocked!"
+  },
+  {
+   "off": 30416,
+   "en": "obtained!"
+  },
+  {
+   "off": 30432,
+   "en": "obtained!"
+  },
+  {
+   "off": 30508,
+   "en": "All accessories"
+  },
+  {
+   "off": 30532,
+   "en": "All costumes"
+  },
+  {
+   "off": 30892,
+   "en": "Saves system data\nand goes back."
+  }
+ ]
+}

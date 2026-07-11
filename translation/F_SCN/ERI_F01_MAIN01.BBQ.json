@@ -1,0 +1,34 @@
+{
+ "file": "F_SCN/ERI_F01_MAIN01.BBQ",
+ "count": 8,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Grand Hall"
+  },
+  {
+   "i": 2,
+   "en": "I don't know"
+  },
+  {
+   "i": 3,
+   "en": "Because I\npracticed?"
+  },
+  {
+   "i": 4,
+   "en": "Because I\nhave talent?"
+  },
+  {
+   "i": 5,
+   "en": "Sounds rough..."
+  },
+  {
+   "i": 6,
+   "en": "I might fail\nthe prelims"
+  },
+  {
+   "i": 7,
+   "en": "I'd bite\nmy tongue"
+  }
+ ]
+}

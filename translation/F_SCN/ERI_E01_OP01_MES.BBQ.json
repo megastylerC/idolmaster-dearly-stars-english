@@ -1,0 +1,334 @@
+{
+ "file": "F_SCN/ERI_E01_OP01_MES.BBQ",
+ "count": 83,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Eri"
+  },
+  {
+   "i": 2,
+   "en": "Huh? The three of us rookies..."
+  },
+  {
+   "i": 3,
+   "en": "competing in an audition?"
+  },
+  {
+   "i": 4,
+   "en": "President"
+  },
+  {
+   "i": 5,
+   "en": "That's right. We've been offered a"
+  },
+  {
+   "i": 6,
+   "en": "slot on a certain TV program..."
+  },
+  {
+   "i": 7,
+   "en": "but our agency's allotment"
+  },
+  {
+   "i": 8,
+   "en": "is just one spot"
+  },
+  {
+   "i": 9,
+   "en": "Just... one spot..."
+  },
+  {
+   "i": 10,
+   "en": "I considered simply deciding"
+  },
+  {
+   "i": 11,
+   "en": "on my own, but―㌍"
+  },
+  {
+   "i": 12,
+   "en": "thinking it over, having you compete"
+  },
+  {
+   "i": 13,
+   "en": "is a chance for you all, win or lose"
+  },
+  {
+   "i": 14,
+   "en": "A chance... even if we lose?"
+  },
+  {
+   "i": 15,
+   "en": "Yes. ―㌍Idols only grow in the heat"
+  },
+  {
+   "i": 16,
+   "en": "of a real, no-holds-barred contest"
+  },
+  {
+   "i": 17,
+   "en": "It may sound harsh... but that's my"
+  },
+  {
+   "i": 18,
+   "en": "philosophy, honed raising many idols"
+  },
+  {
+   "i": 19,
+   "en": "I want you to feel that firsthand,"
+  },
+  {
+   "i": 20,
+   "en": "starting with a contest between you"
+  },
+  {
+   "i": 21,
+   "en": "You're in, of course? Ai?"
+  },
+  {
+   "i": 22,
+   "en": "Ai"
+  },
+  {
+   "i": 23,
+   "en": "Y-Yes, ma'am! I'll do my best!"
+  },
+  {
+   "i": 24,
+   "en": "Ryo?"
+  },
+  {
+   "i": 25,
+   "en": "Ryo"
+  },
+  {
+   "i": 26,
+   "en": "O-Of course, I'm in..."
+  },
+  {
+   "i": 27,
+   "en": "even if I'm a liiittle reluctant"
+  },
+  {
+   "i": 28,
+   "en": "And Eri―㌍what will you do?"
+  },
+  {
+   "i": 29,
+   "en": "Um..."
+  },
+  {
+   "i": 30,
+   "en": "Yes?"
+  },
+  {
+   "i": 31,
+   "en": "If I win the audition,"
+  },
+  {
+   "i": 32,
+   "en": "I get to be on the show?"
+  },
+  {
+   "i": 33,
+   "en": "Of course you do"
+  },
+  {
+   "i": 34,
+   "en": "Then... what if I lose?"
+  },
+  {
+   "i": 35,
+   "en": "You won't appear, naturally,"
+  },
+  {
+   "i": 36,
+   "en": "and things may get a bit rough after"
+  },
+  {
+   "i": 37,
+   "en": "Rough?"
+  },
+  {
+   "i": 38,
+   "en": "Yes"
+  },
+  {
+   "i": 39,
+   "en": "For a while, I'll be pushing the"
+  },
+  {
+   "i": 40,
+   "en": "winner everywhere as our rising hope"
+  },
+  {
+   "i": 41,
+   "en": "The losers... I'm afraid, will"
+  },
+  {
+   "i": 42,
+   "en": "bear the brunt of that"
+  },
+  {
+   "i": 43,
+   "en": "They'll have to claw their way"
+  },
+  {
+   "i": 44,
+   "en": "back up through their own hard work"
+  },
+  {
+   "i": 45,
+   "en": "Ozaki"
+  },
+  {
+   "i": 46,
+   "en": "I see. So this isn't just an"
+  },
+  {
+   "i": 47,
+   "en": "audition for one program..."
+  },
+  {
+   "i": 48,
+   "en": "it's a contest that will shape their"
+  },
+  {
+   "i": 49,
+   "en": "futures as idols, correct?"
+  },
+  {
+   "i": 50,
+   "en": "Ms. Ozaki..."
+  },
+  {
+   "i": 51,
+   "en": "Exactly"
+  },
+  {
+   "i": 52,
+   "en": "Rookies or not, treat it like a game"
+  },
+  {
+   "i": 53,
+   "en": "and you'll stunt your own growth"
+  },
+  {
+   "i": 54,
+   "en": "Understood"
+  },
+  {
+   "i": 55,
+   "en": "We're doing this, Eri"
+  },
+  {
+   "i": 56,
+   "en": "...Huh?"
+  },
+  {
+   "i": 57,
+   "en": "We can't afford to stop here."
+  },
+  {
+   "i": 58,
+   "en": "...Can we?"
+  },
+  {
+   "i": 59,
+   "en": "R-Right..."
+  },
+  {
+   "i": 60,
+   "en": "Then it's settled. All three of you"
+  },
+  {
+   "i": 61,
+   "en": "Keep up your jobs and training"
+  },
+  {
+   "i": 62,
+   "en": "while you prepare for the big day"
+  },
+  {
+   "i": 63,
+   "en": "―㌍That's all. Dismissed!"
+  },
+  {
+   "i": 64,
+   "en": "Let's go, Eri..."
+  },
+  {
+   "i": 65,
+   "en": "Okay..."
+  },
+  {
+   "i": 66,
+   "en": "Don't worry. Your talent is proven"
+  },
+  {
+   "i": 67,
+   "en": "You won't lose. Have some confidence"
+  },
+  {
+   "i": 68,
+   "en": "........"
+  },
+  {
+   "i": 69,
+   "en": "...What's wrong?"
+  },
+  {
+   "i": 70,
+   "en": "That unsure of yourself?"
+  },
+  {
+   "i": 71,
+   "en": "No, it's not that. It's just..."
+  },
+  {
+   "i": 72,
+   "en": "If I win, the other two lose,"
+  },
+  {
+   "i": 73,
+   "en": "and they'll be in real trouble"
+  },
+  {
+   "i": 74,
+   "en": "We were finally starting"
+  },
+  {
+   "i": 75,
+   "en": "to be able to talk a little..."
+  },
+  {
+   "i": 76,
+   "en": "Eri...?"
+  },
+  {
+   "i": 77,
+   "en": "So this is... this is the world of"
+  },
+  {
+   "i": 78,
+   "en": "real idols outside the net..."
+  },
+  {
+   "i": 79,
+   "en": "A world where you have to hurt even"
+  },
+  {
+   "i": 80,
+   "en": "the people closest to you..."
+  },
+  {
+   "i": 81,
+   "en": "Eri, what's eating at you?"
+  },
+  {
+   "i": 82,
+   "en": "You've gone pale as a sheet..."
+  }
+ ]
+}

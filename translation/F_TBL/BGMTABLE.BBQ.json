@@ -1,0 +1,286 @@
+{
+ "file": "F_TBL/BGMTABLE.BBQ",
+ "count": 70,
+ "lines": [
+  {
+   "i": 0,
+   "en": "null"
+  },
+  {
+   "i": 1,
+   "en": "NULL"
+  },
+  {
+   "i": 2,
+   "en": "APPEAL"
+  },
+  {
+   "i": 3,
+   "en": "BRIGHT"
+  },
+  {
+   "i": 4,
+   "en": "COUNTRY"
+  },
+  {
+   "i": 5,
+   "en": "DARK"
+  },
+  {
+   "i": 6,
+   "en": "E_MORNING"
+  },
+  {
+   "i": 7,
+   "en": "ENERGY"
+  },
+  {
+   "i": 8,
+   "en": "G_DANCE"
+  },
+  {
+   "i": 9,
+   "en": "G_VISUAL"
+  },
+  {
+   "i": 10,
+   "en": "G_VOCAL"
+  },
+  {
+   "i": 11,
+   "en": "MAINBGM"
+  },
+  {
+   "i": 12,
+   "en": "MATCHING"
+  },
+  {
+   "i": 13,
+   "en": "MORNING0"
+  },
+  {
+   "i": 14,
+   "en": "MORNING"
+  },
+  {
+   "i": 15,
+   "en": "NIGHT"
+  },
+  {
+   "i": 16,
+   "en": "PAINFUL"
+  },
+  {
+   "i": 17,
+   "en": "REFRESH"
+  },
+  {
+   "i": 18,
+   "en": "SENTAKU2"
+  },
+  {
+   "i": 19,
+   "en": "SPEED"
+  },
+  {
+   "i": 20,
+   "en": "STARDUST"
+  },
+  {
+   "i": 21,
+   "en": "TENDER"
+  },
+  {
+   "i": 22,
+   "en": "THINKING"
+  },
+  {
+   "i": 23,
+   "en": "TOWN"
+  },
+  {
+   "i": 24,
+   "en": "TV"
+  },
+  {
+   "i": 25,
+   "en": "GO MY WAY (Melody)"
+  },
+  {
+   "i": 26,
+   "en": "Precog (Melody)"
+  },
+  {
+   "i": 27,
+   "en": "Me ga Au Shunkan (Melody)"
+  },
+  {
+   "i": 28,
+   "en": "Ai's Theme (Mellow)"
+  },
+  {
+   "i": 29,
+   "en": "Ai's Theme (Upbeat)"
+  },
+  {
+   "i": 30,
+   "en": "Eri's Theme (Mellow)"
+  },
+  {
+   "i": 31,
+   "en": "Eri's Theme (Upbeat)"
+  },
+  {
+   "i": 32,
+   "en": "Ryo's Theme (Mellow)"
+  },
+  {
+   "i": 33,
+   "en": "Ryo's Theme (Upbeat)"
+  },
+  {
+   "i": 34,
+   "en": "Audition"
+  },
+  {
+   "i": 35,
+   "en": "Chapter Jingle"
+  },
+  {
+   "i": 36,
+   "en": "Staff Roll (Stereo)"
+  },
+  {
+   "i": 37,
+   "en": "Total End"
+  },
+  {
+   "i": 38,
+   "en": "Lesson"
+  },
+  {
+   "i": 39,
+   "en": "Agent Yoru wo Yuku (Ai)"
+  },
+  {
+   "i": 40,
+   "en": "Agent Yoru wo Yuku (Eri)"
+  },
+  {
+   "i": 41,
+   "en": "Agent Yoru wo Yuku (Ryo)"
+  },
+  {
+   "i": 42,
+   "en": "GO MY WAY (Ai)"
+  },
+  {
+   "i": 43,
+   "en": "GO MY WAY (Eri)"
+  },
+  {
+   "i": 44,
+   "en": "GO MY WAY (Ryo)"
+  },
+  {
+   "i": 45,
+   "en": "Relations (Ai)"
+  },
+  {
+   "i": 46,
+   "en": "Relations (Eri)"
+  },
+  {
+   "i": 47,
+   "en": "Relations (Ryo)"
+  },
+  {
+   "i": 48,
+   "en": "THE IDOLM@STER (Ai)"
+  },
+  {
+   "i": 49,
+   "en": "THE IDOLM@STER (Eri)"
+  },
+  {
+   "i": 50,
+   "en": "THE IDOLM@STER (Ryo)"
+  },
+  {
+   "i": 51,
+   "en": "Precog (Ai)"
+  },
+  {
+   "i": 52,
+   "en": "Precog (Eri)"
+  },
+  {
+   "i": 53,
+   "en": "Precog (Ryo)"
+  },
+  {
+   "i": 54,
+   "en": "hello !! (Ai)"
+  },
+  {
+   "i": 55,
+   "en": "hello !! (Eri)"
+  },
+  {
+   "i": 56,
+   "en": "hello !! (Ryo)"
+  },
+  {
+   "i": 57,
+   "en": "Kiramekirari (Ai)"
+  },
+  {
+   "i": 58,
+   "en": "Kiramekirari (Eri)"
+  },
+  {
+   "i": 59,
+   "en": "Kiramekirari (Ryo)"
+  },
+  {
+   "i": 60,
+   "en": "ALIVE (Ai)"
+  },
+  {
+   "i": 61,
+   "en": "ALIVE (Eri)"
+  },
+  {
+   "i": 62,
+   "en": "ALIVE (Ryo)"
+  },
+  {
+   "i": 63,
+   "en": "SHINY SMILE (Ai)"
+  },
+  {
+   "i": 64,
+   "en": "SHINY SMILE (Eri)"
+  },
+  {
+   "i": 65,
+   "en": "SHINY SMILE (Ryo)"
+  },
+  {
+   "i": 66,
+   "en": "Dazzling World (Ai)"
+  },
+  {
+   "i": 67,
+   "en": "Dazzling World (Eri)"
+  },
+  {
+   "i": 68,
+   "en": "Dazzling World (Ryo)"
+  },
+  {
+   "i": 69,
+   "en": "Dazzling World (Ryo, Boy)"
+  }
+ ]
+}

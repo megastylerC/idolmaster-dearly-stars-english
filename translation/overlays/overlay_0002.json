@@ -1,0 +1,289 @@
+{
+ "overlay": 2,
+ "strings": [
+  {
+   "off": 440256,
+   "en": "Yes"
+  },
+  {
+   "off": 440264,
+   "en": "Yes"
+  },
+  {
+   "off": 440272,
+   "en": "Yes"
+  },
+  {
+   "off": 440280,
+   "en": "No"
+  },
+  {
+   "off": 440332,
+   "en": "Check your own friend code."
+  },
+  {
+   "off": 440372,
+   "en": "View or delete the friend\ncodes you've registered."
+  },
+  {
+   "off": 441136,
+   "en": "Your friend list\nis full.\nPlease tidy it up."
+  },
+  {
+   "off": 441208,
+   "en": "Please connect to\nWi-Fi Connection"
+  },
+  {
+   "off": 441260,
+   "en": "Showing a list of your\nregistered friend codes."
+  },
+  {
+   "off": 441308,
+   "en": "Delete\n%s?\nAre you sure?"
+  },
+  {
+   "off": 441356,
+   "en": "Enter a friend code to\nregister a friend."
+  },
+  {
+   "off": 441456,
+   "en": "Friend registered!"
+  },
+  {
+   "off": 441496,
+   "en": "You can't add your\nown friend code."
+  },
+  {
+   "off": 441548,
+   "en": "That friend code\nis incorrect."
+  },
+  {
+   "off": 441596,
+   "en": "It's already on\nyour friend list."
+  },
+  {
+   "off": 441648,
+   "en": "Showing your own friend code."
+  },
+  {
+   "off": 442020,
+   "en": "Rankings"
+  },
+  {
+   "off": 442032,
+   "en": "Download"
+  },
+  {
+   "off": 442048,
+   "en": "Accessing the\n%s server..."
+  },
+  {
+   "off": 442276,
+   "en": "Check the live stage\nranking information."
+  },
+  {
+   "off": 442324,
+   "en": "View your friend list, enter\nfriend codes, and check your\nown friend code."
+  },
+  {
+   "off": 442728,
+   "en": "Set this up under Internet\nin the system settings."
+  },
+  {
+   "off": 442984,
+   "en": "Check the stages your friends\nposted to the rankings."
+  },
+  {
+   "off": 443040,
+   "en": "Check the top 10 rankings.\nEntries older than a certain\nperiod are removed."
+  },
+  {
+   "off": 443120,
+   "en": "See rankings close to your\nown score.\nEntries older than a certain\nperiod are removed."
+  },
+  {
+   "off": 443980,
+   "en": "Can't connect.\nPlease wait a while\nand try again."
+  },
+  {
+   "off": 444052,
+   "en": "Showing the TOP 10 rankings."
+  },
+  {
+   "off": 444088,
+   "en": "Showing nearby rankings."
+  },
+  {
+   "off": 444124,
+   "en": "Showing friend rankings."
+  },
+  {
+   "off": 444188,
+   "en": "%4d"
+  },
+  {
+   "off": 444196,
+   "en": "----"
+  },
+  {
+   "off": 444204,
+   "en": "%7dpt"
+  },
+  {
+   "off": 444212,
+   "en": "Save this stage.\nIs that OK?"
+  },
+  {
+   "off": 444268,
+   "en": "This stage data is\ncorrupted and can't\nbe saved."
+  },
+  {
+   "off": 444336,
+   "en": "View this stage.\nIs that OK?"
+  },
+  {
+   "off": 444388,
+   "en": "This stage data is\ncorrupted and can't\nbe viewed."
+  },
+  {
+   "off": 444460,
+   "en": "%4d"
+  },
+  {
+   "off": 444468,
+   "en": "----"
+  },
+  {
+   "off": 444476,
+   "en": "%7dpt"
+  },
+  {
+   "off": 444484,
+   "en": "----"
+  },
+  {
+   "off": 444492,
+   "en": "---"
+  },
+  {
+   "off": 444500,
+   "en": "-------pt"
+  },
+  {
+   "off": 444528,
+   "en": "Posting new stage data\nremoves any stage data\nyou posted before\nfrom the rankings.\n\nT-shirt designs and calls\nare not included."
+  },
+  {
+   "off": 444676,
+   "en": "Yes"
+  },
+  {
+   "off": 444684,
+   "en": "Post\n%s\nto the rankings?"
+  },
+  {
+   "off": 444760,
+   "en": "Stage data that can be posted."
+  },
+  {
+   "off": 444804,
+   "en": "No stage data is saved."
+  },
+  {
+   "off": 444844,
+   "en": "This stage data was traded or\ndownloaded. It can't be posted."
+  },
+  {
+   "off": 444908,
+   "en": "You've posted this stage data\nbefore. The same stage can't\nbe posted again."
+  },
+  {
+   "off": 444988,
+   "en": "Choose where to save\nthe stage data."
+  },
+  {
+   "off": 445068,
+   "en": "Overwrite\n%s?\nAre you sure?"
+  },
+  {
+   "off": 445112,
+   "en": "Save to\n%s?\nIs that OK?"
+  },
+  {
+   "off": 445340,
+   "en": "You can't view the rankings\nuntil you've posted your own\nstage data."
+  },
+  {
+   "off": 445424,
+   "en": "Yes"
+  },
+  {
+   "off": 445488,
+   "en": "Ranking data downloaded.\nYou can view the rankings\nafter disconnecting from\nWi-Fi Connection."
+  },
+  {
+   "off": 445588,
+   "en": "Yes"
+  },
+  {
+   "off": 445596,
+   "en": "Stage data posted.\nDisconnecting from\nWi-Fi Connection."
+  },
+  {
+   "off": 445664,
+   "en": "Yes"
+  },
+  {
+   "off": 446016,
+   "en": "Overwrite\n%s?\nAre you sure?"
+  },
+  {
+   "off": 446184,
+   "en": "Special Stage Download\n\nConnect to Wi-Fi Connection\nand download special\nstage data."
+  },
+  {
+   "off": 446524,
+   "en": "This data is corrupted\nand can't be saved."
+  },
+  {
+   "off": 446568,
+   "en": "Yes"
+  },
+  {
+   "off": 446576,
+   "en": "No data exists on the\nWi-Fi download server."
+  },
+  {
+   "off": 446628,
+   "en": "Yes"
+  },
+  {
+   "off": 446660,
+   "en": "Data downloaded\nsuccessfully."
+  },
+  {
+   "off": 446692,
+   "en": "Yes"
+  },
+  {
+   "off": 446700,
+   "en": "This data is corrupted\nand can't be saved."
+  },
+  {
+   "off": 446744,
+   "en": "Yes"
+  },
+  {
+   "off": 447256,
+   "en": "Overwrite\n%s?\nAre you sure?"
+  },
+  {
+   "off": 447300,
+   "en": "Save to\n%s?\nIs that OK?"
+  },
+  {
+   "off": 447348,
+   "en": "---"
+  }
+ ]
+}

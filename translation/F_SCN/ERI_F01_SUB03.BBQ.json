@@ -1,0 +1,34 @@
+{
+ "file": "F_SCN/ERI_F01_SUB03.BBQ",
+ "count": 8,
+ "lines": [
+  {
+   "i": 1,
+   "en": "TV Studio"
+  },
+  {
+   "i": 2,
+   "en": "Onlookers?"
+  },
+  {
+   "i": 3,
+   "en": "Staged?"
+  },
+  {
+   "i": 4,
+   "en": "Bullying?"
+  },
+  {
+   "i": 5,
+   "en": "...Unnatural?"
+  },
+  {
+   "i": 6,
+   "en": "...Scary?"
+  },
+  {
+   "i": 7,
+   "en": "...A creep?"
+  }
+ ]
+}

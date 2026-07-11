@@ -1,0 +1,34 @@
+{
+ "file": "F_SCN/ERI_E01_MAIN02.BBQ",
+ "count": 8,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Mizutani House"
+  },
+  {
+   "i": 2,
+   "en": "Mankind is\nin danger"
+  },
+  {
+   "i": 3,
+   "en": "My PC\nbroke"
+  },
+  {
+   "i": 4,
+   "en": "I can't\nsay..."
+  },
+  {
+   "i": 5,
+   "en": "Become\nfriends?"
+  },
+  {
+   "i": 6,
+   "en": "Avoid\nthem?"
+  },
+  {
+   "i": 7,
+   "en": "Hate each\nother?"
+  }
+ ]
+}

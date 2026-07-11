@@ -1,0 +1,382 @@
+{
+ "file": "F_TBL/COSTUMETABLE.BBQ",
+ "count": 95,
+ "lines": [
+  {
+   "i": 0,
+   "en": "(Not set)"
+  },
+  {
+   "i": 2,
+   "en": "Nashinko"
+  },
+  {
+   "i": 3,
+   "en": "CUTE & GIRLY 00"
+  },
+  {
+   "i": 4,
+   "en": "Snow Strawberry"
+  },
+  {
+   "i": 5,
+   "en": "A CUTE & GIRLY outfit."
+  },
+  {
+   "i": 6,
+   "en": "Mainly raises your Vocal"
+  },
+  {
+   "i": 7,
+   "en": "image."
+  },
+  {
+   "i": 8,
+   "en": "CUTE & GIRLY 01"
+  },
+  {
+   "i": 9,
+   "en": "Pastel Marine"
+  },
+  {
+   "i": 10,
+   "en": "CUTE & GIRLY 02"
+  },
+  {
+   "i": 11,
+   "en": "Gothic Princess"
+  },
+  {
+   "i": 12,
+   "en": "CUTE & GIRLY 03"
+  },
+  {
+   "i": 13,
+   "en": "Noel Angelique"
+  },
+  {
+   "i": 14,
+   "en": "CUTE & GIRLY 04"
+  },
+  {
+   "i": 15,
+   "en": "Sunflower"
+  },
+  {
+   "i": 16,
+   "en": "CUTE & GIRLY 05"
+  },
+  {
+   "i": 17,
+   "en": "Floral Checker"
+  },
+  {
+   "i": 18,
+   "en": "CUTE & GIRLY 06"
+  },
+  {
+   "i": 19,
+   "en": "Rouge Noir"
+  },
+  {
+   "i": 20,
+   "en": "CUTE & GIRLY 07"
+  },
+  {
+   "i": 21,
+   "en": "Perpetual Check"
+  },
+  {
+   "i": 22,
+   "en": "CUTE & GIRLY 08"
+  },
+  {
+   "i": 23,
+   "en": "Cherry Gingham"
+  },
+  {
+   "i": 24,
+   "en": "CUTE & GIRLY 10"
+  },
+  {
+   "i": 25,
+   "en": "Mini Morning"
+  },
+  {
+   "i": 26,
+   "en": "COOL & SEXY 00"
+  },
+  {
+   "i": 27,
+   "en": "Green Forest"
+  },
+  {
+   "i": 28,
+   "en": "A COOL & SEXY outfit."
+  },
+  {
+   "i": 29,
+   "en": "Mainly raises your Dance"
+  },
+  {
+   "i": 30,
+   "en": "COOL & SEXY 01"
+  },
+  {
+   "i": 31,
+   "en": "Pink Military"
+  },
+  {
+   "i": 32,
+   "en": "COOL & SEXY 02"
+  },
+  {
+   "i": 33,
+   "en": "Blue Camouflage"
+  },
+  {
+   "i": 34,
+   "en": "COOL & SEXY 03"
+  },
+  {
+   "i": 35,
+   "en": "Yellow Jungle"
+  },
+  {
+   "i": 36,
+   "en": "COOL & SEXY 04"
+  },
+  {
+   "i": 37,
+   "en": "Red Spangle"
+  },
+  {
+   "i": 38,
+   "en": "COOL & SEXY 05"
+  },
+  {
+   "i": 39,
+   "en": "Indigo Spangle"
+  },
+  {
+   "i": 40,
+   "en": "COOL & SEXY 06"
+  },
+  {
+   "i": 41,
+   "en": "Sunshine Yellow"
+  },
+  {
+   "i": 42,
+   "en": "COOL & SEXY 07"
+  },
+  {
+   "i": 43,
+   "en": "Twinkle Black"
+  },
+  {
+   "i": 44,
+   "en": "COOL & SEXY 08"
+  },
+  {
+   "i": 45,
+   "en": "Glitter Ingot"
+  },
+  {
+   "i": 46,
+   "en": "COOL & SEXY 09"
+  },
+  {
+   "i": 47,
+   "en": "Brilliant Pearl"
+  },
+  {
+   "i": 48,
+   "en": "COSMIC & FUNNY 00"
+  },
+  {
+   "i": 49,
+   "en": "Pink Apollo"
+  },
+  {
+   "i": 50,
+   "en": "A COSMIC & FUNNY outfit."
+  },
+  {
+   "i": 51,
+   "en": "Mainly raises your Visual"
+  },
+  {
+   "i": 52,
+   "en": "COSMIC & FUNNY 01"
+  },
+  {
+   "i": 53,
+   "en": "Little Aquarius"
+  },
+  {
+   "i": 54,
+   "en": "COSMIC & FUNNY 02"
+  },
+  {
+   "i": 55,
+   "en": "Mandarin Venus"
+  },
+  {
+   "i": 56,
+   "en": "COSMIC & FUNNY 03"
+  },
+  {
+   "i": 57,
+   "en": "Scorpion"
+  },
+  {
+   "i": 58,
+   "en": "COSMIC & FUNNY 04"
+  },
+  {
+   "i": 59,
+   "en": "Tetra-Colored Comet"
+  },
+  {
+   "i": 60,
+   "en": "COSMIC & FUNNY 05"
+  },
+  {
+   "i": 61,
+   "en": "Muscat Planet"
+  },
+  {
+   "i": 62,
+   "en": "COSMIC & FUNNY 06"
+  },
+  {
+   "i": 63,
+   "en": "Dark Zodiac"
+  },
+  {
+   "i": 64,
+   "en": "COSMIC & FUNNY 07"
+  },
+  {
+   "i": 65,
+   "en": "Rose Etoile"
+  },
+  {
+   "i": 66,
+   "en": "COSMIC & FUNNY 08"
+  },
+  {
+   "i": 67,
+   "en": "Sunny Side of the Moon"
+  },
+  {
+   "i": 68,
+   "en": "COSMIC & FUNNY 09"
+  },
+  {
+   "i": 69,
+   "en": "Metallic Cosmos"
+  },
+  {
+   "i": 70,
+   "en": "Jersey"
+  },
+  {
+   "i": 71,
+   "en": "If this shows, it's a bug."
+  },
+  {
+   "i": 72,
+   "en": "Please report it."
+  },
+  {
+   "i": 73,
+   "en": "For Edit mode"
+  },
+  {
+   "i": 74,
+   "en": "White T-Shirt A"
+  },
+  {
+   "i": 75,
+   "en": "A T-SHIRT outfit."
+  },
+  {
+   "i": 76,
+   "en": "Use a white tee to"
+  },
+  {
+   "i": 77,
+   "en": "design an original"
+  },
+  {
+   "i": 78,
+   "en": "live T-shirt."
+  },
+  {
+   "i": 79,
+   "en": "Black T-Shirt A"
+  },
+  {
+   "i": 80,
+   "en": "Use a black tee to"
+  },
+  {
+   "i": 81,
+   "en": "Pink T-Shirt A"
+  },
+  {
+   "i": 82,
+   "en": "Use a pink tee to"
+  },
+  {
+   "i": 83,
+   "en": "Red T-Shirt A"
+  },
+  {
+   "i": 84,
+   "en": "Use a red tee to"
+  },
+  {
+   "i": 85,
+   "en": "Green T-Shirt A"
+  },
+  {
+   "i": 86,
+   "en": "Use a green tee to"
+  },
+  {
+   "i": 87,
+   "en": "Blue T-Shirt A"
+  },
+  {
+   "i": 88,
+   "en": "Use a blue tee to"
+  },
+  {
+   "i": 89,
+   "en": "White T-Shirt B"
+  },
+  {
+   "i": 90,
+   "en": "Black T-Shirt B"
+  },
+  {
+   "i": 91,
+   "en": "Pink T-Shirt B"
+  },
+  {
+   "i": 92,
+   "en": "Red T-Shirt B"
+  },
+  {
+   "i": 93,
+   "en": "Green T-Shirt B"
+  },
+  {
+   "i": 94,
+   "en": "Blue T-Shirt B"
+  }
+ ]
+}

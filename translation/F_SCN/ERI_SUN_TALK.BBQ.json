@@ -1,0 +1,42 @@
+{
+ "file": "F_SCN/ERI_SUN_TALK.BBQ",
+ "count": 10,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Go out"
+  },
+  {
+   "i": 2,
+   "en": "Stay home"
+  },
+  {
+   "i": 3,
+   "en": "Ai's\nstage"
+  },
+  {
+   "i": 4,
+   "en": "Ryo's\nstage"
+  },
+  {
+   "i": 5,
+   "en": "Get at 40%"
+  },
+  {
+   "i": 6,
+   "en": "Get at 60%"
+  },
+  {
+   "i": 7,
+   "en": "Get at 80%"
+  },
+  {
+   "i": 8,
+   "en": "Random: "
+  },
+  {
+   "i": 9,
+   "en": "Compare: "
+  }
+ ]
+}

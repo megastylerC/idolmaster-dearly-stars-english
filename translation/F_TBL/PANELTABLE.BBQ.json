@@ -1,0 +1,1146 @@
+{
+ "file": "F_TBL/PANELTABLE.BBQ",
+ "count": 286,
+ "lines": [
+  {
+   "i": 0,
+   "en": "Name not set"
+  },
+  {
+   "i": 1,
+   "en": "Description not set"
+  },
+  {
+   "i": 2,
+   "en": "Basic 1"
+  },
+  {
+   "i": 3,
+   "en": "A dance basic?\nSpin and strike a pose!\nDance-image choreography"
+  },
+  {
+   "i": 4,
+   "en": "Basic 2"
+  },
+  {
+   "i": 5,
+   "en": "A dance basic?\nJump with a 'Yaaay!'\nVocal-image choreography"
+  },
+  {
+   "i": 6,
+   "en": "Basic 3"
+  },
+  {
+   "i": 7,
+   "en": "A dance basic?\nRhythmical steps, left\nand right.\nVisual-image choreography"
+  },
+  {
+   "i": 8,
+   "en": "Basic 4"
+  },
+  {
+   "i": 9,
+   "en": "A dance basic?\nCheery skipping steps.\nDance-image choreography"
+  },
+  {
+   "i": 10,
+   "en": "Basic 5"
+  },
+  {
+   "i": 11,
+   "en": "A dance basic?\nA turn-around step.\nVocal-image choreography"
+  },
+  {
+   "i": 12,
+   "en": "Basic 6"
+  },
+  {
+   "i": 13,
+   "en": "A dance basic?\nStep forward, then\nstep back.\nVisual-image choreography"
+  },
+  {
+   "i": 14,
+   "en": "Basic 7"
+  },
+  {
+   "i": 15,
+   "en": "A dance basic?\nOne spin right, one\nspin left.\nDance-image choreography"
+  },
+  {
+   "i": 16,
+   "en": "Basic 8"
+  },
+  {
+   "i": 17,
+   "en": "A dance basic?\nBack to front: riiight\nhand, leeeft hand.\nVocal-image choreography"
+  },
+  {
+   "i": 18,
+   "en": "Basic 9"
+  },
+  {
+   "i": 19,
+   "en": "A dance basic?\nNow, riiight hand,\nleeeft hand.\nVisual-image choreography"
+  },
+  {
+   "i": 20,
+   "en": "Basic 10"
+  },
+  {
+   "i": 21,
+   "en": "A dance basic?\nCross those arms: cross,\ncro~ss.\nDance-image choreography"
+  },
+  {
+   "i": 22,
+   "en": "Basic 11"
+  },
+  {
+   "i": 23,
+   "en": "A dance basic?\nTwirl down, twirl up,\nfull of pep.\nVocal-image choreography"
+  },
+  {
+   "i": 24,
+   "en": "Basic 12"
+  },
+  {
+   "i": 25,
+   "en": "A dance basic?\nBlow everyone a kiss.\nVisual-image choreography"
+  },
+  {
+   "i": 26,
+   "en": "Basic 13"
+  },
+  {
+   "i": 27,
+   "en": "A dance basic?\nA full-power juuump.\nDance-image choreography"
+  },
+  {
+   "i": 28,
+   "en": "Basic 14"
+  },
+  {
+   "i": 29,
+   "en": "A dance basic?\nKeep the rhythm with\nyour body.\nVocal-image choreography"
+  },
+  {
+   "i": 30,
+   "en": "Basic 15"
+  },
+  {
+   "i": 31,
+   "en": "A dance basic?\nBig arm swings side to\nside, and step.\nVisual-image choreography"
+  },
+  {
+   "i": 32,
+   "en": "Basic 16"
+  },
+  {
+   "i": 33,
+   "en": "A dance basic?\nBig cheerful steps with\nyour whole body.\nDance-image choreography"
+  },
+  {
+   "i": 34,
+   "en": "Basic 17"
+  },
+  {
+   "i": 35,
+   "en": "A dance basic?\nStep while appealing.\nVocal-image choreography"
+  },
+  {
+   "i": 36,
+   "en": "Basic 18"
+  },
+  {
+   "i": 37,
+   "en": "A dance basic?\nCute steps, left and\nright.\nVisual-image choreography"
+  },
+  {
+   "i": 38,
+   "en": "Basic 19"
+  },
+  {
+   "i": 39,
+   "en": "A dance basic?\nJogging steps, swinging\nboth arms.\nDance-image choreography"
+  },
+  {
+   "i": 40,
+   "en": "Basic 20"
+  },
+  {
+   "i": 41,
+   "en": "A dance basic?\nArms wide, one big jump.\nVocal-image choreography"
+  },
+  {
+   "i": 42,
+   "en": "Basic 21"
+  },
+  {
+   "i": 43,
+   "en": "A dance basic?\nShuffle-shuffle steps,\nleft and right.\nVisual-image choreography"
+  },
+  {
+   "i": 44,
+   "en": "Basic 22"
+  },
+  {
+   "i": 45,
+   "en": "A dance basic?\nTwirling steps left,\ntwirling steps right.\nDance-image choreography"
+  },
+  {
+   "i": 46,
+   "en": "Basic 23"
+  },
+  {
+   "i": 47,
+   "en": "A dance basic?\nOne hand up high and a\ngreat big jump.\nVocal-image choreography"
+  },
+  {
+   "i": 48,
+   "en": "Basic 24"
+  },
+  {
+   "i": 49,
+   "en": "A dance basic?\nStep left, step right.\nBig smiles.\nVisual-image choreography"
+  },
+  {
+   "i": 50,
+   "en": "Basic 25"
+  },
+  {
+   "i": 51,
+   "en": "A dance basic?\nRoll both arms, step\nleft and right.\nDance-image choreography"
+  },
+  {
+   "i": 52,
+   "en": "Basic 26"
+  },
+  {
+   "i": 53,
+   "en": "A dance basic?\nA clean box step, front\nand back.\nVocal-image choreography"
+  },
+  {
+   "i": 54,
+   "en": "Basic 27"
+  },
+  {
+   "i": 55,
+   "en": "A dance basic?\nMeow-meow kitty,\nmeow meow meow.\nVisual-image choreography"
+  },
+  {
+   "i": 56,
+   "en": "THE IDOLM@STER 1"
+  },
+  {
+   "i": 57,
+   "en": "Borrows its dance from\n'THE IDOLM@STER.'\nDance-image choreography"
+  },
+  {
+   "i": 58,
+   "en": "THE IDOLM@STER 2"
+  },
+  {
+   "i": 59,
+   "en": "THE IDOLM@STER 3"
+  },
+  {
+   "i": 60,
+   "en": "GO MY WAY!! 1"
+  },
+  {
+   "i": 61,
+   "en": "Borrows its dance from\n'GO MY WAY!!.'\nVisual-image choreography"
+  },
+  {
+   "i": 62,
+   "en": "GO MY WAY!! 2"
+  },
+  {
+   "i": 63,
+   "en": "GO MY WAY!! 3"
+  },
+  {
+   "i": 64,
+   "en": "shiny smile 1"
+  },
+  {
+   "i": 65,
+   "en": "Borrows its dance from\n'shiny smile.'\nVocal-image choreography"
+  },
+  {
+   "i": 66,
+   "en": "shiny smile 2"
+  },
+  {
+   "i": 67,
+   "en": "shiny smile 3"
+  },
+  {
+   "i": 68,
+   "en": "“HELLO!!” 1"
+  },
+  {
+   "i": 69,
+   "en": "Borrows its dance from\n'“HELLO!!”.'\nVocal-image choreography"
+  },
+  {
+   "i": 70,
+   "en": "“HELLO!!” 2"
+  },
+  {
+   "i": 71,
+   "en": "“HELLO!!” 3"
+  },
+  {
+   "i": 72,
+   "en": "Taiyou no Jealousy 1"
+  },
+  {
+   "i": 73,
+   "en": "Borrows its dance from\n'Taiyou no Jealousy.'\nVocal-image choreography"
+  },
+  {
+   "i": 74,
+   "en": "Taiyou no Jealousy 2"
+  },
+  {
+   "i": 75,
+   "en": "Taiyou no Jealousy 3"
+  },
+  {
+   "i": 76,
+   "en": "Aoi Tori 1"
+  },
+  {
+   "i": 77,
+   "en": "Borrows its dance from\n'Aoi Tori.'\nVocal-image choreography"
+  },
+  {
+   "i": 78,
+   "en": "Aoi Tori 2"
+  },
+  {
+   "i": 79,
+   "en": "Aoi Tori 3"
+  },
+  {
+   "i": 80,
+   "en": "First Stage 1"
+  },
+  {
+   "i": 81,
+   "en": "Borrows its dance from\n'First Stage.'\nDance-image choreography"
+  },
+  {
+   "i": 82,
+   "en": "First Stage 2"
+  },
+  {
+   "i": 83,
+   "en": "First Stage 3"
+  },
+  {
+   "i": 84,
+   "en": "Ohayou!! Asagohan 1"
+  },
+  {
+   "i": 85,
+   "en": "Borrows its dance from\n'Ohayou!! Asagohan.'\nVisual-image choreography"
+  },
+  {
+   "i": 86,
+   "en": "Ohayou!! Asagohan 2"
+  },
+  {
+   "i": 87,
+   "en": "Ohayou!! Asagohan 3"
+  },
+  {
+   "i": 88,
+   "en": "Mahou wo Kakete!! 1"
+  },
+  {
+   "i": 89,
+   "en": "Borrows its dance from\n'Mahou wo Kakete!!.'\nVocal-image choreography"
+  },
+  {
+   "i": 90,
+   "en": "Mahou wo Kakete!! 2"
+  },
+  {
+   "i": 91,
+   "en": "Mahou wo Kakete!! 3"
+  },
+  {
+   "i": 92,
+   "en": "9:02pm 1"
+  },
+  {
+   "i": 93,
+   "en": "Borrows its dance from\n'9:02pm.'\nVocal-image choreography"
+  },
+  {
+   "i": 94,
+   "en": "9:02pm 2"
+  },
+  {
+   "i": 95,
+   "en": "9:02pm 3"
+  },
+  {
+   "i": 96,
+   "en": "Agent Yoru wo Yuku 1"
+  },
+  {
+   "i": 97,
+   "en": "Borrows its dance from\n'Agent Yoru wo Yuku.'\nDance-image choreography"
+  },
+  {
+   "i": 98,
+   "en": "Agent Yoru wo Yuku 2"
+  },
+  {
+   "i": 99,
+   "en": "Agent Yoru wo Yuku 3"
+  },
+  {
+   "i": 100,
+   "en": "Here we go!! 1"
+  },
+  {
+   "i": 101,
+   "en": "Borrows its dance from\n'Here we go!!.'\nVisual-image choreography"
+  },
+  {
+   "i": 102,
+   "en": "Here we go!! 2"
+  },
+  {
+   "i": 103,
+   "en": "Here we go!! 3"
+  },
+  {
+   "i": 104,
+   "en": "Positive! 1"
+  },
+  {
+   "i": 105,
+   "en": "Borrows its dance from\n'Positive!.'\nVisual-image choreography"
+  },
+  {
+   "i": 106,
+   "en": "Positive! 2"
+  },
+  {
+   "i": 107,
+   "en": "Positive! 3"
+  },
+  {
+   "i": 108,
+   "en": "relations 1"
+  },
+  {
+   "i": 109,
+   "en": "Borrows its dance from\n'relations.'\nDance-image choreography"
+  },
+  {
+   "i": 110,
+   "en": "relations 2"
+  },
+  {
+   "i": 111,
+   "en": "relations 3"
+  },
+  {
+   "i": 112,
+   "en": "Watashi wa Idol㍗ 1"
+  },
+  {
+   "i": 113,
+   "en": "Borrows its dance from\n'Watashi wa Idol㍗.'\nVisual-image choreography"
+  },
+  {
+   "i": 114,
+   "en": "Watashi wa Idol㍗ 2"
+  },
+  {
+   "i": 115,
+   "en": "Watashi wa Idol㍗ 3"
+  },
+  {
+   "i": 116,
+   "en": "Omoide wo Arigatou 1"
+  },
+  {
+   "i": 117,
+   "en": "Borrows its dance from\n'Omoide wo Arigatou.'\nVocal-image choreography"
+  },
+  {
+   "i": 118,
+   "en": "Omoide wo Arigatou 2"
+  },
+  {
+   "i": 119,
+   "en": "Omoide wo Arigatou 3"
+  },
+  {
+   "i": 120,
+   "en": "Massugu 1"
+  },
+  {
+   "i": 121,
+   "en": "Borrows its dance from\n'Massugu.'\nVocal-image choreography"
+  },
+  {
+   "i": 122,
+   "en": "Massugu 2"
+  },
+  {
+   "i": 123,
+   "en": "Massugu 3"
+  },
+  {
+   "i": 124,
+   "en": "My Best Friend 1"
+  },
+  {
+   "i": 125,
+   "en": "Borrows its dance from\n'My Best Friend.'\nVisual-image choreography"
+  },
+  {
+   "i": 126,
+   "en": "My Best Friend 2"
+  },
+  {
+   "i": 127,
+   "en": "My Best Friend 3"
+  },
+  {
+   "i": 128,
+   "en": "Kiramekirari 1"
+  },
+  {
+   "i": 129,
+   "en": "Borrows its dance from\n'Kiramekirari.'\nVisual-image choreography"
+  },
+  {
+   "i": 130,
+   "en": "Kiramekirari 2"
+  },
+  {
+   "i": 131,
+   "en": "Kiramekirari 3"
+  },
+  {
+   "i": 132,
+   "en": "ALIVE 1"
+  },
+  {
+   "i": 133,
+   "en": "Borrows its dance from\n'ALIVE.'\nVocal-image choreography"
+  },
+  {
+   "i": 134,
+   "en": "ALIVE 2"
+  },
+  {
+   "i": 135,
+   "en": "ALIVE 3"
+  },
+  {
+   "i": 136,
+   "en": "Precog 1"
+  },
+  {
+   "i": 137,
+   "en": "Borrows its dance from\n'Precog.'\nVisual-image choreography"
+  },
+  {
+   "i": 138,
+   "en": "Precog 2"
+  },
+  {
+   "i": 139,
+   "en": "Precog 3"
+  },
+  {
+   "i": 140,
+   "en": "Dazzling World 1"
+  },
+  {
+   "i": 141,
+   "en": "Borrows its dance from\n'Dazzling World.'\nDance-image choreography"
+  },
+  {
+   "i": 142,
+   "en": "Dazzling World 2"
+  },
+  {
+   "i": 143,
+   "en": "Dazzling World 3"
+  },
+  {
+   "i": 144,
+   "en": "Ai Appeal"
+  },
+  {
+   "i": 145,
+   "en": "An appeal to the fans\nfrom Ai Hidaka.\nVocal-image choreography"
+  },
+  {
+   "i": 146,
+   "en": "Eri Appeal"
+  },
+  {
+   "i": 147,
+   "en": "An appeal to the fans\nfrom Eri Mizutani.\nVisual-image choreography"
+  },
+  {
+   "i": 148,
+   "en": "Ryo Appeal"
+  },
+  {
+   "i": 149,
+   "en": "An appeal to the fans\nfrom Ryo Akizuki.\nDance-image choreography"
+  },
+  {
+   "i": 150,
+   "en": "Dance Appeal"
+  },
+  {
+   "i": 151,
+   "en": "An appeal only an idol\ncould pull off.\nDance-image choreography"
+  },
+  {
+   "i": 152,
+   "en": "Vocal Appeal"
+  },
+  {
+   "i": 153,
+   "en": "An appeal only an idol\ncould pull off.\nVocal-image choreography"
+  },
+  {
+   "i": 154,
+   "en": "Visual Appeal"
+  },
+  {
+   "i": 155,
+   "en": "An appeal only an idol\ncould pull off.\nVisual-image choreography"
+  },
+  {
+   "i": 156,
+   "en": "Dance Accident"
+  },
+  {
+   "i": 157,
+   "en": "Even idols slip up.\nA true accident.\nDance-image choreography"
+  },
+  {
+   "i": 158,
+   "en": "Vocal Accident"
+  },
+  {
+   "i": 159,
+   "en": "Even idols slip up.\nA true accident.\nVocal-image choreography"
+  },
+  {
+   "i": 160,
+   "en": "Visual Accident"
+  },
+  {
+   "i": 161,
+   "en": "Even idols slip up.\nA true accident.\nVisual-image choreography"
+  },
+  {
+   "i": 162,
+   "en": "Haruka Daily 1"
+  },
+  {
+   "i": 163,
+   "en": "Haruka Amami's daily\nlife, turned into dance.\nVocal-image choreography"
+  },
+  {
+   "i": 164,
+   "en": "Haruka Daily 2"
+  },
+  {
+   "i": 165,
+   "en": "Haruka Thanks"
+  },
+  {
+   "i": 166,
+   "en": "A thank-you from\nHaruka Amami.\nVocal-image choreography"
+  },
+  {
+   "i": 167,
+   "en": "Chihaya Daily 1"
+  },
+  {
+   "i": 168,
+   "en": "Chihaya Kisaragi's daily\nlife, turned into dance.\nVocal-image choreography"
+  },
+  {
+   "i": 169,
+   "en": "Chihaya Daily 2"
+  },
+  {
+   "i": 170,
+   "en": "Chihaya Thanks"
+  },
+  {
+   "i": 171,
+   "en": "A thank-you from\nChihaya Kisaragi.\nVocal-image choreography"
+  },
+  {
+   "i": 172,
+   "en": "Yukiho Daily 1"
+  },
+  {
+   "i": 173,
+   "en": "Yukiho Hagiwara's daily\nlife, turned into dance.\nVisual-image choreography"
+  },
+  {
+   "i": 174,
+   "en": "Yukiho Daily 2"
+  },
+  {
+   "i": 175,
+   "en": "Yukiho Thanks"
+  },
+  {
+   "i": 176,
+   "en": "A thank-you from\nYukiho Hagiwara.\nVisual-image choreography"
+  },
+  {
+   "i": 177,
+   "en": "Yayoi Daily 1"
+  },
+  {
+   "i": 178,
+   "en": "Yayoi Takatsuki's daily\nlife, turned into dance.\nVisual-image choreography"
+  },
+  {
+   "i": 179,
+   "en": "Yayoi Daily 2"
+  },
+  {
+   "i": 180,
+   "en": "Yayoi Thanks"
+  },
+  {
+   "i": 181,
+   "en": "A thank-you from\nYayoi Takatsuki.\nVisual-image choreography"
+  },
+  {
+   "i": 182,
+   "en": "Ritsuko Daily 1"
+  },
+  {
+   "i": 183,
+   "en": "Ritsuko Akizuki's daily\nlife, turned into dance.\nVocal-image choreography"
+  },
+  {
+   "i": 184,
+   "en": "Ritsuko Daily 2"
+  },
+  {
+   "i": 185,
+   "en": "Ritsuko Thanks"
+  },
+  {
+   "i": 186,
+   "en": "A thank-you from\nRitsuko Akizuki.\nVocal-image choreography"
+  },
+  {
+   "i": 187,
+   "en": "Azusa Daily 1"
+  },
+  {
+   "i": 188,
+   "en": "Azusa Miura's daily\nlife, turned into dance.\nVocal-image choreography"
+  },
+  {
+   "i": 189,
+   "en": "Azusa Daily 2"
+  },
+  {
+   "i": 190,
+   "en": "Azusa Thanks"
+  },
+  {
+   "i": 191,
+   "en": "A thank-you from\nAzusa Miura.\nVocal-image choreography"
+  },
+  {
+   "i": 192,
+   "en": "Iori Daily 1"
+  },
+  {
+   "i": 193,
+   "en": "Iori Minase's daily\nlife, turned into dance.\nVisual-image choreography"
+  },
+  {
+   "i": 194,
+   "en": "Iori Daily 2"
+  },
+  {
+   "i": 195,
+   "en": "Iori Thanks"
+  },
+  {
+   "i": 196,
+   "en": "A thank-you from\nIori Minase.\nVisual-image choreography"
+  },
+  {
+   "i": 197,
+   "en": "Makoto Daily 1"
+  },
+  {
+   "i": 198,
+   "en": "Makoto Kikuchi's daily\nlife, turned into dance.\nDance-image choreography"
+  },
+  {
+   "i": 199,
+   "en": "Makoto Daily 2"
+  },
+  {
+   "i": 200,
+   "en": "Makoto Thanks"
+  },
+  {
+   "i": 201,
+   "en": "A thank-you from\nMakoto Kikuchi.\nDance-image choreography"
+  },
+  {
+   "i": 202,
+   "en": "Ami/Mami Daily 1"
+  },
+  {
+   "i": 203,
+   "en": "Ami & Mami Futami's daily\nlife, turned into dance.\nDance-image choreography"
+  },
+  {
+   "i": 204,
+   "en": "Ami/Mami Daily 2"
+  },
+  {
+   "i": 205,
+   "en": "Ami/Mami Thanks"
+  },
+  {
+   "i": 206,
+   "en": "A thank-you from\nAmi & Mami Futami.\nDance-image choreography"
+  },
+  {
+   "i": 207,
+   "en": "Miki Daily 1"
+  },
+  {
+   "i": 208,
+   "en": "Miki Hoshii's daily\nlife, turned into dance.\nVisual-image choreography"
+  },
+  {
+   "i": 209,
+   "en": "Miki Daily 2"
+  },
+  {
+   "i": 210,
+   "en": "Miki Thanks"
+  },
+  {
+   "i": 211,
+   "en": "A thank-you from\nMiki Hoshii.\nVisual-image choreography"
+  },
+  {
+   "i": 212,
+   "en": "Extra 1"
+  },
+  {
+   "i": 213,
+   "en": "A crowd-hyping EX dance.\nHands to your shoulders~.\nDance-image choreography"
+  },
+  {
+   "i": 214,
+   "en": "Extra 2"
+  },
+  {
+   "i": 215,
+   "en": "A crowd-hyping EX dance.\nSprout right up!\nVocal-image choreography"
+  },
+  {
+   "i": 216,
+   "en": "Extra 3"
+  },
+  {
+   "i": 217,
+   "en": "A crowd-hyping EX dance.\nGive us one big clap.\nVisual-image choreography"
+  },
+  {
+   "i": 218,
+   "en": "Extra 4"
+  },
+  {
+   "i": 219,
+   "en": "A crowd-hyping EX dance.\nHup! Hup!\nDance-image choreography"
+  },
+  {
+   "i": 220,
+   "en": "Extra 5"
+  },
+  {
+   "i": 221,
+   "en": "A crowd-hyping EX dance.\nSetting the timing.\nVocal-image choreography"
+  },
+  {
+   "i": 222,
+   "en": "Extra 6"
+  },
+  {
+   "i": 223,
+   "en": "A crowd-hyping EX dance.\nBow down before me!\nVisual-image choreography"
+  },
+  {
+   "i": 224,
+   "en": "Extra 7"
+  },
+  {
+   "i": 225,
+   "en": "A crowd-hyping EX dance.\nRaise both hands high.\nDance-image choreography"
+  },
+  {
+   "i": 226,
+   "en": "Extra 8"
+  },
+  {
+   "i": 227,
+   "en": "A crowd-hyping EX dance.\nSway~ sway~ hula dance~.\nVocal-image choreography"
+  },
+  {
+   "i": 228,
+   "en": "Extra 9"
+  },
+  {
+   "i": 229,
+   "en": "A crowd-hyping EX dance.\nEveryone! Here we go~!\nVisual-image choreography"
+  },
+  {
+   "i": 230,
+   "en": "Extra 10"
+  },
+  {
+   "i": 231,
+   "en": "A crowd-hyping EX dance.\nHai hai! Hai hai!\nDance-image choreography"
+  },
+  {
+   "i": 232,
+   "en": "Extra 11"
+  },
+  {
+   "i": 233,
+   "en": "A crowd-hyping EX dance.\nRah-rah, rah-rah.\nVocal-image choreography"
+  },
+  {
+   "i": 234,
+   "en": "Extra 12"
+  },
+  {
+   "i": 235,
+   "en": "A crowd-hyping EX dance.\nCheer! Cheer!\nVisual-image choreography"
+  },
+  {
+   "i": 236,
+   "en": "Extra 13"
+  },
+  {
+   "i": 237,
+   "en": "A crowd-hyping EX dance.\nHeave-ho, heave-ho.\nDance-image choreography"
+  },
+  {
+   "i": 238,
+   "en": "Extra 14"
+  },
+  {
+   "i": 239,
+   "en": "A crowd-hyping EX dance.\nAlley-oop.\nVocal-image choreography"
+  },
+  {
+   "i": 240,
+   "en": "Extra 15"
+  },
+  {
+   "i": 241,
+   "en": "A crowd-hyping EX dance.\nAn energetic step!\nVisual-image choreography"
+  },
+  {
+   "i": 242,
+   "en": "Extra 16"
+  },
+  {
+   "i": 243,
+   "en": "A crowd-hyping EX dance.\nBig finish, here we go!\nDance-image choreography"
+  },
+  {
+   "i": 244,
+   "en": "Extra 17"
+  },
+  {
+   "i": 245,
+   "en": "A crowd-hyping EX dance.\nOh no, what do I do?!\nVocal-image choreography"
+  },
+  {
+   "i": 246,
+   "en": "Extra 18"
+  },
+  {
+   "i": 247,
+   "en": "A crowd-hyping EX dance.\nHere we gooo!!\nVisual-image choreography"
+  },
+  {
+   "i": 248,
+   "en": "Extra 19"
+  },
+  {
+   "i": 249,
+   "en": "A crowd-hyping EX dance.\nHey! Hey!\nDance-image choreography"
+  },
+  {
+   "i": 250,
+   "en": "Extra 20"
+  },
+  {
+   "i": 251,
+   "en": "A crowd-hyping EX dance.\nHai! Hai!\nVocal-image choreography"
+  },
+  {
+   "i": 252,
+   "en": "Extra 21"
+  },
+  {
+   "i": 253,
+   "en": "A crowd-hyping EX dance.\nI love you all! Do you\nlove me~?\nVisual-image choreography"
+  },
+  {
+   "i": 254,
+   "en": "Extra 22"
+  },
+  {
+   "i": 255,
+   "en": "A crowd-hyping EX dance.\nShake that booty.\nDance-image choreography"
+  },
+  {
+   "i": 256,
+   "en": "Extra 23"
+  },
+  {
+   "i": 257,
+   "en": "A crowd-hyping EX dance.\nWashy-washy-washy.\nVocal-image choreography"
+  },
+  {
+   "i": 258,
+   "en": "Extra 24"
+  },
+  {
+   "i": 259,
+   "en": "A crowd-hyping EX dance.\nMore! More!\nVisual-image choreography"
+  },
+  {
+   "i": 260,
+   "en": "Up Camera"
+  },
+  {
+   "i": 261,
+   "en": "Films expressions in\nclose-up."
+  },
+  {
+   "i": 262,
+   "en": "Up Camera F"
+  },
+  {
+   "i": 263,
+   "en": "Films expressions in\nclose-up, mostly from\nthe front."
+  },
+  {
+   "i": 264,
+   "en": "Up Camera R"
+  },
+  {
+   "i": 265,
+   "en": "Films expressions in\nclose-up, mostly from\nthe right."
+  },
+  {
+   "i": 266,
+   "en": "Up Camera L"
+  },
+  {
+   "i": 267,
+   "en": "Films expressions in\nclose-up, mostly from\nthe left."
+  },
+  {
+   "i": 268,
+   "en": "Middle Camera"
+  },
+  {
+   "i": 269,
+   "en": "Films centered on the\nupper body."
+  },
+  {
+   "i": 270,
+   "en": "Middle Camera F"
+  },
+  {
+   "i": 271,
+   "en": "Films the upper body,\nmostly from the front."
+  },
+  {
+   "i": 272,
+   "en": "Middle Camera R"
+  },
+  {
+   "i": 273,
+   "en": "Films the upper body,\nmostly from the right."
+  },
+  {
+   "i": 274,
+   "en": "Middle Camera L"
+  },
+  {
+   "i": 275,
+   "en": "Films the upper body,\nmostly from the left."
+  },
+  {
+   "i": 276,
+   "en": "Long Camera"
+  },
+  {
+   "i": 277,
+   "en": "Films the whole body\nin frame."
+  },
+  {
+   "i": 278,
+   "en": "Wide Camera"
+  },
+  {
+   "i": 279,
+   "en": "Films the whole stage.\nCan't be used at\nlive houses."
+  },
+  {
+   "i": 280,
+   "en": "Stage Camera"
+  },
+  {
+   "i": 281,
+   "en": "Points the camera at\nthe audience. Can't be\nused at live houses."
+  },
+  {
+   "i": 282,
+   "en": "Auto Camera"
+  },
+  {
+   "i": 283,
+   "en": "Moves the camera\nautomatically."
+  },
+  {
+   "i": 284,
+   "en": "Blank Panel"
+  }
+ ]
+}

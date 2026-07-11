@@ -1,0 +1,614 @@
+{
+ "file": "F_TBL/ACCESSORYTABLE.BBQ",
+ "count": 153,
+ "lines": [
+  {
+   "i": 0,
+   "en": "Unnamed"
+  },
+  {
+   "i": 2,
+   "en": null
+  },
+  {
+   "i": 3,
+   "en": "Bunny Ears"
+  },
+  {
+   "i": 4,
+   "en": "Mainly your Dance image"
+  },
+  {
+   "i": 5,
+   "en": "goes up, boing!"
+  },
+  {
+   "i": 6,
+   "en": "Ta-rah ta-rah ta-rah♪"
+  },
+  {
+   "i": 7,
+   "en": "White Bunny Ears"
+  },
+  {
+   "i": 8,
+   "en": "Mainly your Visual image"
+  },
+  {
+   "i": 9,
+   "en": "goes up, usa!"
+  },
+  {
+   "i": 10,
+   "en": "Usa usa♪"
+  },
+  {
+   "i": 11,
+   "en": "Black Bunny Ears"
+  },
+  {
+   "i": 12,
+   "en": "Mainly your Vocal image"
+  },
+  {
+   "i": 13,
+   "en": "goes up."
+  },
+  {
+   "i": 14,
+   "en": "Hop, hop, hop♪"
+  },
+  {
+   "i": 15,
+   "en": "Cat Ears"
+  },
+  {
+   "i": 16,
+   "en": "goes up a little, nya♪"
+  },
+  {
+   "i": 17,
+   "en": "White Cat Ears"
+  },
+  {
+   "i": 18,
+   "en": "A perfectly groomed coat!"
+  },
+  {
+   "i": 19,
+   "en": "goes up, nya!"
+  },
+  {
+   "i": 20,
+   "en": "Black Cat Ears"
+  },
+  {
+   "i": 21,
+   "en": "Sexy black-cat style!"
+  },
+  {
+   "i": 22,
+   "en": "goes up, nyan."
+  },
+  {
+   "i": 23,
+   "en": "Angel Halo"
+  },
+  {
+   "i": 24,
+   "en": "A halo shining overhead!"
+  },
+  {
+   "i": 25,
+   "en": "Devil Horns"
+  },
+  {
+   "i": 26,
+   "en": "A little scary?"
+  },
+  {
+   "i": 27,
+   "en": "goes up a bit."
+  },
+  {
+   "i": 28,
+   "en": "Flower Ribbon"
+  },
+  {
+   "i": 29,
+   "en": "goes up."
+  },
+  {
+   "i": 30,
+   "en": "Puts you in a fun mood!"
+  },
+  {
+   "i": 31,
+   "en": "Pink Ribbon"
+  },
+  {
+   "i": 32,
+   "en": "A pretty pink ribbon"
+  },
+  {
+   "i": 33,
+   "en": "for your hair."
+  },
+  {
+   "i": 34,
+   "en": "Single Sunflower"
+  },
+  {
+   "i": 35,
+   "en": "Soak up the sun!"
+  },
+  {
+   "i": 36,
+   "en": "goes up!"
+  },
+  {
+   "i": 37,
+   "en": "Star Antenna"
+  },
+  {
+   "i": 38,
+   "en": "Twinkling little stars!"
+  },
+  {
+   "i": 39,
+   "en": "Crescent Hairband"
+  },
+  {
+   "i": 40,
+   "en": "Bathed in moonlight!"
+  },
+  {
+   "i": 41,
+   "en": "Beak"
+  },
+  {
+   "i": 42,
+   "en": "goes up. An idol with"
+  },
+  {
+   "i": 43,
+   "en": "a beak? It's surprisingly"
+  },
+  {
+   "i": 44,
+   "en": "cute, maybe..."
+  },
+  {
+   "i": 45,
+   "en": "Cool Sunglasses"
+  },
+  {
+   "i": 46,
+   "en": "goes up. Cool, grown-up-"
+  },
+  {
+   "i": 47,
+   "en": "looking sunglasses."
+  },
+  {
+   "i": 48,
+   "en": "Top Hat"
+  },
+  {
+   "i": 49,
+   "en": "No tricks, no gimmicks..."
+  },
+  {
+   "i": 50,
+   "en": "Wear it cute!"
+  },
+  {
+   "i": 51,
+   "en": "Phantom Thief Mask"
+  },
+  {
+   "i": 52,
+   "en": "A stealer of hearts!"
+  },
+  {
+   "i": 53,
+   "en": "goes up, you see."
+  },
+  {
+   "i": 54,
+   "en": "Hah hah hah hah!"
+  },
+  {
+   "i": 55,
+   "en": "Cat Paws"
+  },
+  {
+   "i": 56,
+   "en": "goes up, nya♪"
+  },
+  {
+   "i": 57,
+   "en": "Cat punch!"
+  },
+  {
+   "i": 58,
+   "en": "(R)"
+  },
+  {
+   "i": 59,
+   "en": "White Cat Paws"
+  },
+  {
+   "i": 60,
+   "en": "Nyan-nyan pippi♪"
+  },
+  {
+   "i": 61,
+   "en": "Black Cat Paws"
+  },
+  {
+   "i": 62,
+   "en": "goes up, nyan."
+  },
+  {
+   "i": 63,
+   "en": "Black-cat dance, dance♪"
+  },
+  {
+   "i": 64,
+   "en": "Flower Ribbon Bangle"
+  },
+  {
+   "i": 65,
+   "en": "Puts you in a cute mood!"
+  },
+  {
+   "i": 66,
+   "en": "Pink Ribbon Bangle"
+  },
+  {
+   "i": 67,
+   "en": "goes up. A pretty pink"
+  },
+  {
+   "i": 68,
+   "en": "ribbon for your wrist."
+  },
+  {
+   "i": 69,
+   "en": "Star Bangle"
+  },
+  {
+   "i": 70,
+   "en": "Shooting stars!"
+  },
+  {
+   "i": 71,
+   "en": "goes up!"
+  },
+  {
+   "i": 72,
+   "en": "Moon Bangle"
+  },
+  {
+   "i": 73,
+   "en": "Moonlit sky as your stage!"
+  },
+  {
+   "i": 74,
+   "en": "Sunflower Bangle"
+  },
+  {
+   "i": 75,
+   "en": "goes up."
+  },
+  {
+   "i": 76,
+   "en": "A sun blooms on your arm!"
+  },
+  {
+   "i": 77,
+   "en": "Devil Hands"
+  },
+  {
+   "i": 78,
+   "en": "goes up. With bold claws!"
+  },
+  {
+   "i": 79,
+   "en": "Bear Paws"
+  },
+  {
+   "i": 80,
+   "en": "Honey-dipped paws!"
+  },
+  {
+   "i": 81,
+   "en": "goes up, kumaa!"
+  },
+  {
+   "i": 82,
+   "en": "Angel Bangle"
+  },
+  {
+   "i": 83,
+   "en": "Cute feather trim!"
+  },
+  {
+   "i": 84,
+   "en": "Devil Bangle"
+  },
+  {
+   "i": 85,
+   "en": "Scary, but kind of a"
+  },
+  {
+   "i": 86,
+   "en": "cute little devil."
+  },
+  {
+   "i": 87,
+   "en": "Pom-Pom Bracelet"
+  },
+  {
+   "i": 88,
+   "en": "Big pom-poms make"
+  },
+  {
+   "i": 89,
+   "en": "a cute wristband."
+  },
+  {
+   "i": 90,
+   "en": "goes up a bit."
+  },
+  {
+   "i": 91,
+   "en": "Mama Bird Puppet"
+  },
+  {
+   "i": 92,
+   "en": "goes up. Birdie, birdie!"
+  },
+  {
+   "i": 93,
+   "en": "A funny puppet that"
+  },
+  {
+   "i": 94,
+   "en": "makes everyone smile."
+  },
+  {
+   "i": 95,
+   "en": "Bunny Tail"
+  },
+  {
+   "i": 96,
+   "en": "A perky round tail!"
+  },
+  {
+   "i": 97,
+   "en": "White Bunny Tail"
+  },
+  {
+   "i": 98,
+   "en": "A fluffy white round tail."
+  },
+  {
+   "i": 99,
+   "en": "Black Bunny Tail"
+  },
+  {
+   "i": 100,
+   "en": "A perky black round tail!"
+  },
+  {
+   "i": 101,
+   "en": "Cat Tail"
+  },
+  {
+   "i": 102,
+   "en": "Pop on a cat tail!"
+  },
+  {
+   "i": 103,
+   "en": "goes up, nya♪"
+  },
+  {
+   "i": 104,
+   "en": "White Cat Tail"
+  },
+  {
+   "i": 105,
+   "en": "Pop on a white cat tail!"
+  },
+  {
+   "i": 106,
+   "en": "goes up, nya!"
+  },
+  {
+   "i": 107,
+   "en": "Black Cat Tail"
+  },
+  {
+   "i": 108,
+   "en": "Pop on a black cat tail!"
+  },
+  {
+   "i": 109,
+   "en": "goes up, nyan♪"
+  },
+  {
+   "i": 110,
+   "en": "Angel Wings"
+  },
+  {
+   "i": 111,
+   "en": "Spread them and soar!"
+  },
+  {
+   "i": 112,
+   "en": "Devil Wings"
+  },
+  {
+   "i": 113,
+   "en": "A little scary, but"
+  },
+  {
+   "i": 114,
+   "en": "so cool."
+  },
+  {
+   "i": 115,
+   "en": "Touch Pen"
+  },
+  {
+   "i": 116,
+   "en": "Poke-poke, on your back!"
+  },
+  {
+   "i": 117,
+   "en": "Cat Bell"
+  },
+  {
+   "i": 118,
+   "en": "A bell that clears your"
+  },
+  {
+   "i": 119,
+   "en": "head till it sparkles."
+  },
+  {
+   "i": 120,
+   "en": "Star Brooch"
+  },
+  {
+   "i": 121,
+   "en": "Shine bright as a star!"
+  },
+  {
+   "i": 122,
+   "en": "Moon Brooch"
+  },
+  {
+   "i": 123,
+   "en": "Mainly ups Dance image."
+  },
+  {
+   "i": 124,
+   "en": "Bathe in moonlight and"
+  },
+  {
+   "i": 125,
+   "en": "dance!"
+  },
+  {
+   "i": 126,
+   "en": "Flower Ribbon Brooch"
+  },
+  {
+   "i": 127,
+   "en": "Puts you in a happy mood!"
+  },
+  {
+   "i": 128,
+   "en": "Pink Ribbon Brooch"
+  },
+  {
+   "i": 129,
+   "en": "ribbon brooch."
+  },
+  {
+   "i": 130,
+   "en": "Sunflower Brooch"
+  },
+  {
+   "i": 131,
+   "en": "A sunny bloom full of pep!"
+  },
+  {
+   "i": 132,
+   "en": "Heart-Throb Glasses"
+  },
+  {
+   "i": 133,
+   "en": "goes up. A bit different"
+  },
+  {
+   "i": 134,
+   "en": "from your usual look. Put"
+  },
+  {
+   "i": 135,
+   "en": "them on for a new image!"
+  },
+  {
+   "i": 136,
+   "en": "Bear Ears"
+  },
+  {
+   "i": 137,
+   "en": "Dance cute, kumaa!"
+  },
+  {
+   "i": 138,
+   "en": "Usable count"
+  },
+  {
+   "i": 139,
+   "en": "Hair | AI_H"
+  },
+  {
+   "i": 140,
+   "en": "Hair | AI_L"
+  },
+  {
+   "i": 141,
+   "en": "Hair | ERI_H"
+  },
+  {
+   "i": 142,
+   "en": "Hair | ERI_L"
+  },
+  {
+   "i": 143,
+   "en": "Hair | RYO_H"
+  },
+  {
+   "i": 144,
+   "en": "Hair | RYO_L"
+  },
+  {
+   "i": 145,
+   "en": "Hand | AI_VO_L"
+  },
+  {
+   "i": 146,
+   "en": "Hand | COMMON_L"
+  },
+  {
+   "i": 147,
+   "en": "Hand | COMMON_R"
+  },
+  {
+   "i": 148,
+   "en": "Hand | RYO_DA_L"
+  },
+  {
+   "i": 149,
+   "en": "Hand | RYO_DA_R"
+  },
+  {
+   "i": 150,
+   "en": "Outfit | AI"
+  },
+  {
+   "i": 151,
+   "en": "Outfit | ERI"
+  },
+  {
+   "i": 152,
+   "en": "Outfit | RYO"
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "file": "F_SCN/ERI_E03_MAIN02.BBQ",
+ "count": 8,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Electric Town"
+  },
+  {
+   "i": 2,
+   "en": "Too\ntiring?"
+  },
+  {
+   "i": 3,
+   "en": "You hate\nit?"
+  },
+  {
+   "i": 4,
+   "en": "You'd fall?"
+  },
+  {
+   "i": 5,
+   "en": "...Play\nwith it?"
+  },
+  {
+   "i": 6,
+   "en": "...Return\nit?"
+  },
+  {
+   "i": 7,
+   "en": "...Give it\nto me?"
+  }
+ ]
+}

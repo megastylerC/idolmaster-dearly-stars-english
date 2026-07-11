@@ -1,0 +1,222 @@
+{
+ "file": "F_TBL/CHARDETAILTABLE.BBQ",
+ "count": 54,
+ "lines": [
+  {
+   "i": 0,
+   "en": "Name not set"
+  },
+  {
+   "i": 1,
+   "en": "Nickname not set"
+  },
+  {
+   "i": 2,
+   "en": "Ai Hidaka"
+  },
+  {
+   "i": 3,
+   "en": "Ai"
+  },
+  {
+   "i": 4,
+   "en": "Eri Mizutani"
+  },
+  {
+   "i": 5,
+   "en": "Eri"
+  },
+  {
+   "i": 6,
+   "en": "Ryo Akizuki"
+  },
+  {
+   "i": 7,
+   "en": "Ryo"
+  },
+  {
+   "i": 8,
+   "en": "Mai Hidaka"
+  },
+  {
+   "i": 9,
+   "en": "Mai"
+  },
+  {
+   "i": 10,
+   "en": "Manami Okamoto"
+  },
+  {
+   "i": 11,
+   "en": "Manami"
+  },
+  {
+   "i": 12,
+   "en": "Reiko Ozaki"
+  },
+  {
+   "i": 13,
+   "en": "Reiko"
+  },
+  {
+   "i": 14,
+   "en": "Hitomi Saito"
+  },
+  {
+   "i": 15,
+   "en": "Cineria"
+  },
+  {
+   "i": 16,
+   "en": "Yukio Igarashi"
+  },
+  {
+   "i": 17,
+   "en": "Yukio"
+  },
+  {
+   "i": 18,
+   "en": "Yumeko Sakurai"
+  },
+  {
+   "i": 19,
+   "en": "Yumeko"
+  },
+  {
+   "i": 20,
+   "en": "Soichi Takeda"
+  },
+  {
+   "i": 21,
+   "en": "Soichi"
+  },
+  {
+   "i": 22,
+   "en": "Haruka Amami"
+  },
+  {
+   "i": 23,
+   "en": "Haruka"
+  },
+  {
+   "i": 24,
+   "en": "Chihaya Kisaragi"
+  },
+  {
+   "i": 25,
+   "en": "Chihaya"
+  },
+  {
+   "i": 26,
+   "en": "Yukiho Hagiwara"
+  },
+  {
+   "i": 27,
+   "en": "Yukiho"
+  },
+  {
+   "i": 28,
+   "en": "Yayoi Takatsuki"
+  },
+  {
+   "i": 29,
+   "en": "Yayoi"
+  },
+  {
+   "i": 30,
+   "en": "Ritsuko Akizuki"
+  },
+  {
+   "i": 31,
+   "en": "Ritsuko"
+  },
+  {
+   "i": 32,
+   "en": "Azusa Miura"
+  },
+  {
+   "i": 33,
+   "en": "Azusa"
+  },
+  {
+   "i": 34,
+   "en": "Iori Minase"
+  },
+  {
+   "i": 35,
+   "en": "Iori"
+  },
+  {
+   "i": 36,
+   "en": "Makoto Kikuchi"
+  },
+  {
+   "i": 37,
+   "en": "Makoto"
+  },
+  {
+   "i": 38,
+   "en": "Ami Futami"
+  },
+  {
+   "i": 39,
+   "en": "Ami"
+  },
+  {
+   "i": 40,
+   "en": "Mami Futami"
+  },
+  {
+   "i": 41,
+   "en": "Mami"
+  },
+  {
+   "i": 42,
+   "en": "Miki Hoshii"
+  },
+  {
+   "i": 43,
+   "en": "Miki"
+  },
+  {
+   "i": 44,
+   "en": "Hibiki"
+  },
+  {
+   "i": 45,
+   "en": "Takane"
+  },
+  {
+   "i": 46,
+   "en": "Ai & Ryo"
+  },
+  {
+   "i": 47,
+   "en": "Ai & Eri"
+  },
+  {
+   "i": 48,
+   "en": "Ryo & Eri"
+  },
+  {
+   "i": 49,
+   "en": "Eri & Ryo"
+  },
+  {
+   "i": 50,
+   "en": "Makoto & Ryo"
+  },
+  {
+   "i": 51,
+   "en": "Ozaki & Cineria"
+  },
+  {
+   "i": 52,
+   "en": "Ami & Mami"
+  },
+  {
+   "i": 53,
+   "en": "All three"
+  }
+ ]
+}

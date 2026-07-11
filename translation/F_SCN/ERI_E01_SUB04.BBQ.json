@@ -1,0 +1,46 @@
+{
+ "file": "F_SCN/ERI_E01_SUB04.BBQ",
+ "count": 11,
+ "lines": [
+  {
+   "i": 1,
+   "en": "TV Station"
+  },
+  {
+   "i": 2,
+   "en": "Something\nbad?"
+  },
+  {
+   "i": 3,
+   "en": "Errands?"
+  },
+  {
+   "i": 4,
+   "en": "A diet?"
+  },
+  {
+   "i": 5,
+   "en": "Search\nonline?"
+  },
+  {
+   "i": 6,
+   "en": "Question\npeople?"
+  },
+  {
+   "i": 7,
+   "en": "Give up?"
+  },
+  {
+   "i": 8,
+   "en": "Wait here?"
+  },
+  {
+   "i": 9,
+   "en": "Knock?"
+  },
+  {
+   "i": 10,
+   "en": "Try the\nkeypad?"
+  }
+ ]
+}

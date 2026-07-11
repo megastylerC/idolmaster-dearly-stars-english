@@ -1,0 +1,14 @@
+{
+ "file": "F_TBL/AUDITIONTABLE.BBQ",
+ "count": 2,
+ "lines": [
+  {
+   "i": 0,
+   "en": "Audition name not set"
+  },
+  {
+   "i": 1,
+   "en": "Audition"
+  }
+ ]
+}

@@ -1,0 +1,153 @@
+{
+ "overlay": 9,
+ "strings": [
+  {
+   "off": 124464,
+   "en": "Use this call set to\nenter your calls.\nIs that OK?"
+  },
+  {
+   "off": 124532,
+   "en": "Use the %s, %s, %s\ncall set."
+  },
+  {
+   "off": 124576,
+   "en": "Save the calls\nyou entered?"
+  },
+  {
+   "off": 124920,
+   "en": "Yes"
+  },
+  {
+   "off": 125496,
+   "en": "No"
+  },
+  {
+   "off": 125576,
+   "en": "Go back without\nsaving?"
+  },
+  {
+   "off": 126044,
+   "en": "Dance"
+  },
+  {
+   "off": 126052,
+   "en": "Camera"
+  },
+  {
+   "off": 126060,
+   "en": "Dance"
+  },
+  {
+   "off": 126068,
+   "en": "None"
+  },
+  {
+   "off": 126088,
+   "en": "Blank"
+  },
+  {
+   "off": 126112,
+   "en": "Vocal"
+  },
+  {
+   "off": 126136,
+   "en": "Visual"
+  },
+  {
+   "off": 126968,
+   "en": "???"
+  },
+  {
+   "off": 126976,
+   "en": "???"
+  },
+  {
+   "off": 126984,
+   "en": "???"
+  },
+  {
+   "off": 126992,
+   "en": "???"
+  },
+  {
+   "off": 127000,
+   "en": "???"
+  },
+  {
+   "off": 127008,
+   "en": "???"
+  },
+  {
+   "off": 127016,
+   "en": "Go back without\nsaving changes?"
+  },
+  {
+   "off": 127572,
+   "en": "Go back without\nsaving changes?"
+  },
+  {
+   "off": 127612,
+   "en": "Yes"
+  },
+  {
+   "off": 127620,
+   "en": "No"
+  },
+  {
+   "off": 127668,
+   "en": "Play as Ryo.\nIs that OK?"
+  },
+  {
+   "off": 127696,
+   "en": "Play as Ai.\nIs that OK?"
+  },
+  {
+   "off": 127724,
+   "en": "Play as Eri.\nIs that OK?"
+  },
+  {
+   "off": 128664,
+   "en": "This will reset\nyour score data.\nIs that OK?"
+  },
+  {
+   "off": 128728,
+   "en": "Delete this data.\nAre you sure?"
+  },
+  {
+   "off": 128912,
+   "en": "Change the idol\nwho takes the stage."
+  },
+  {
+   "off": 128952,
+   "en": "Change the song's\nchoreography."
+  },
+  {
+   "off": 128992,
+   "en": "Change the song's\ncamera direction."
+  },
+  {
+   "off": 129040,
+   "en": "Change the costume\nand accessories worn\non stage."
+  },
+  {
+   "off": 129096,
+   "en": "Change the song\nsung on stage.\n\nChanging it resets\nchoreography, camera,\nand call setups."
+  },
+  {
+   "off": 129192,
+   "en": "Change the venue.\n\nIn wireless\nmode, a special\ncomms venue is\nused instead of\nthe one chosen\nhere."
+  },
+  {
+   "off": 129600,
+   "en": "Enter calls now?"
+  },
+  {
+   "off": 129640,
+   "en": "Quit without saving.\nIs that OK?"
+  },
+  {
+   "off": 129696,
+   "en": "Changing songs resets\nchoreography, camera,\nand call setups."
+  }
+ ]
+}

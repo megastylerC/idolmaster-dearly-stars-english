@@ -1,0 +1,23 @@
+# Your own copy of the game — NEVER commit these
+*.nds
+*.sav
+*.srl
+*.SRL
+
+# Regenerated locally from your ROM (copyrighted game data — do not commit)
+/extracted/
+/unpacked/
+
+# Working reference dumps that may contain Japanese source text
+*_jp.txt
+scratch_*
+mes_strings.txt
+scan_*.txt
+
+# Release-patch tooling (fetch xdelta3 yourself — see docs)
+tools/bin/
+*.exe
+
+# Python
+__pycache__/
+*.pyc

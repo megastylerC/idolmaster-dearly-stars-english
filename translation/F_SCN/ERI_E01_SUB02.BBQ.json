@@ -1,0 +1,34 @@
+{
+ "file": "F_SCN/ERI_E01_SUB02.BBQ",
+ "count": 8,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Downtown"
+  },
+  {
+   "i": 2,
+   "en": "A criminal?"
+  },
+  {
+   "i": 3,
+   "en": "A street\nperformer?"
+  },
+  {
+   "i": 4,
+   "en": "A barker?"
+  },
+  {
+   "i": 5,
+   "en": "Thank you"
+  },
+  {
+   "i": 6,
+   "en": "I'm sorry"
+  },
+  {
+   "i": 7,
+   "en": "Good work"
+  }
+ ]
+}

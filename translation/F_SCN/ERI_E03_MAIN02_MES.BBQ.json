@@ -1,0 +1,814 @@
+{
+ "file": "F_SCN/ERI_E03_MAIN02_MES.BBQ",
+ "count": 203,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Eri"
+  },
+  {
+   "i": 2,
+   "en": "Electric Town..."
+  },
+  {
+   "i": 3,
+   "en": "A job here of all places... lucky me"
+  },
+  {
+   "i": 4,
+   "en": "Maybe I'll peek at the PC parts"
+  },
+  {
+   "i": 5,
+   "en": "shops before I go"
+  },
+  {
+   "i": 6,
+   "en": "Cineria"
+  },
+  {
+   "i": 7,
+   "en": "Huh? If it isn't Senpai!"
+  },
+  {
+   "i": 8,
+   "en": "Oh, Cineria"
+  },
+  {
+   "i": 9,
+   "en": "Aren't we relaxed! Cruising Electric"
+  },
+  {
+   "i": 10,
+   "en": "Town with our showdown so close"
+  },
+  {
+   "i": 11,
+   "en": "I'm on my way to work, actually"
+  },
+  {
+   "i": 12,
+   "en": "Oh, is thaaat so♪"
+  },
+  {
+   "i": 13,
+   "en": "And you...? How's your prep going?"
+  },
+  {
+   "i": 14,
+   "en": "Eh, it's coming along, y'know"
+  },
+  {
+   "i": 15,
+   "en": "I'm the type who doesn't light up"
+  },
+  {
+   "i": 16,
+   "en": "till the very last minute!"
+  },
+  {
+   "i": 17,
+   "en": "I see..."
+  },
+  {
+   "i": 18,
+   "en": "By the way, Cineria..."
+  },
+  {
+   "i": 19,
+   "en": "About this idol showdown..."
+  },
+  {
+   "i": 20,
+   "en": "Have you... ever been on a stage?"
+  },
+  {
+   "i": 21,
+   "en": "A stage? Hmmm..."
+  },
+  {
+   "i": 22,
+   "en": "I dance like crazy at karaoke"
+  },
+  {
+   "i": 23,
+   "en": "meetups with my net fans?"
+  },
+  {
+   "i": 24,
+   "en": "I see"
+  },
+  {
+   "i": 25,
+   "en": "But never in front of non-faithful."
+  },
+  {
+   "i": 26,
+   "en": "At school festivals I just lurk"
+  },
+  {
+   "i": 27,
+   "en": "Really? And the reason you don't...?"
+  },
+  {
+   "i": 28,
+   "en": "Too tiring?"
+  },
+  {
+   "i": 29,
+   "en": "Well, that IS a big part of it"
+  },
+  {
+   "i": 30,
+   "en": "Sweating for real is just, like,"
+  },
+  {
+   "i": 31,
+   "en": "sooo not happening, y'know?"
+  },
+  {
+   "i": 32,
+   "en": "You hate it?"
+  },
+  {
+   "i": 33,
+   "en": "It's not that I hate it."
+  },
+  {
+   "i": 34,
+   "en": "I suuuper love the attention!"
+  },
+  {
+   "i": 35,
+   "en": "You'd fall?"
+  },
+  {
+   "i": 36,
+   "en": "As if I'd ever fall."
+  },
+  {
+   "i": 37,
+   "en": "I don't do reckless stuff"
+  },
+  {
+   "i": 38,
+   "en": "...Then why?"
+  },
+  {
+   "i": 39,
+   "en": "See, on a stage, if you slack off,"
+  },
+  {
+   "i": 40,
+   "en": "everyone can TELL, right?"
+  },
+  {
+   "i": 41,
+   "en": "If I'm gonna dance, it's best with my"
+  },
+  {
+   "i": 42,
+   "en": "faithful, who don't mind me winging it"
+  },
+  {
+   "i": 43,
+   "en": "But will the showdown be okay, then?"
+  },
+  {
+   "i": 44,
+   "en": "One song? Eeeasy-peasy♪"
+  },
+  {
+   "i": 45,
+   "en": "Besides, YOU'RE the ex-shut-in here."
+  },
+  {
+   "i": 46,
+   "en": "Aren't stages your weak point?"
+  },
+  {
+   "i": 47,
+   "en": "Well, that's..."
+  },
+  {
+   "i": 48,
+   "en": "Plus, I've got the vocal-boosting"
+  },
+  {
+   "i": 49,
+   "en": "weapons I just bought right here!"
+  },
+  {
+   "i": 50,
+   "en": "Boosting weapons?"
+  },
+  {
+   "i": 51,
+   "en": "Yes! First up, THIS!"
+  },
+  {
+   "i": 52,
+   "en": "The PC vocal software 'Utane Mike'♪"
+  },
+  {
+   "i": 53,
+   "en": "Utane... Mike..."
+  },
+  {
+   "i": 54,
+   "en": "You probably know it―㌍the software"
+  },
+  {
+   "i": 55,
+   "en": "that sings whatever you want!"
+  },
+  {
+   "i": 56,
+   "en": "I'll run quick little tests and find"
+  },
+  {
+   "i": 57,
+   "en": "the ultimate way to sing!"
+  },
+  {
+   "i": 58,
+   "en": "Cineria, that software... takes a LOT"
+  },
+  {
+   "i": 59,
+   "en": "of work to set up..."
+  },
+  {
+   "i": 60,
+   "en": "Huh?"
+  },
+  {
+   "i": 61,
+   "en": "Quick tests might be... difficult..."
+  },
+  {
+   "i": 62,
+   "en": "Whaaat, seriously!?"
+  },
+  {
+   "i": 63,
+   "en": "But it was so expensive!"
+  },
+  {
+   "i": 64,
+   "en": "What'll you do with it?"
+  },
+  {
+   "i": 65,
+   "en": "...Play with it?"
+  },
+  {
+   "i": 66,
+   "en": "Yeah. I'll tinker it to death"
+  },
+  {
+   "i": 67,
+   "en": "I mean, I totally bought it to play"
+  },
+  {
+   "i": 68,
+   "en": "with in the first place! Ahaha-haa♪"
+  },
+  {
+   "i": 69,
+   "en": "Then why... the teary eyes?"
+  },
+  {
+   "i": 70,
+   "en": "D-don't ask!"
+  },
+  {
+   "i": 71,
+   "en": "...Return it?"
+  },
+  {
+   "i": 72,
+   "en": "I am NOT returning it!"
+  },
+  {
+   "i": 73,
+   "en": "Why not?"
+  },
+  {
+   "i": 74,
+   "en": "B-because I bought it just to play"
+  },
+  {
+   "i": 75,
+   "en": "with from the start! Ahaha-haa♪"
+  },
+  {
+   "i": 76,
+   "en": "...Um, and the receipt..."
+  },
+  {
+   "i": 77,
+   "en": "...did you still have it?"
+  },
+  {
+   "i": 78,
+   "en": "I-I wasn't looking for it, okay!?"
+  },
+  {
+   "i": 79,
+   "en": "Quit poking at me already!"
+  },
+  {
+   "i": 80,
+   "en": "...Give it to me?"
+  },
+  {
+   "i": 81,
+   "en": "What, give it to YOU?"
+  },
+  {
+   "i": 82,
+   "en": "No way! If I handed this over,"
+  },
+  {
+   "i": 83,
+   "en": "you'd just get stronger!"
+  },
+  {
+   "i": 84,
+   "en": "I really don't think I would..."
+  },
+  {
+   "i": 85,
+   "en": "I'm keeping it. It could still be a"
+  },
+  {
+   "i": 86,
+   "en": "reference for a reference's reference!"
+  },
+  {
+   "i": 87,
+   "en": "And that's not all I bought today!"
+  },
+  {
+   "i": 88,
+   "en": "Come forth, ultimate weapon!"
+  },
+  {
+   "i": 89,
+   "en": "Ta-daaah!"
+  },
+  {
+   "i": 90,
+   "en": "What's that candy-looking thing?"
+  },
+  {
+   "i": 91,
+   "en": "The brand-new voice-beautifying"
+  },
+  {
+   "i": 92,
+   "en": "supplement, 'Utawonder Seven'!"
+  },
+  {
+   "i": 93,
+   "en": "Rumor among net singers is it gives"
+  },
+  {
+   "i": 94,
+   "en": "you an insanely gorgeous voice!"
+  },
+  {
+   "i": 95,
+   "en": "Really?"
+  },
+  {
+   "i": 96,
+   "en": "Yep! So let's start with 20 at once!"
+  },
+  {
+   "i": 97,
+   "en": "*chomp* *gulp gulp*"
+  },
+  {
+   "i": 98,
+   "en": "M-mrghhh!?"
+  },
+  {
+   "i": 99,
+   "en": "What's wrong?"
+  },
+  {
+   "i": 100,
+   "en": "Th-they're stuck in my throat―㌍mrgh!"
+  },
+  {
+   "i": 101,
+   "en": "Senbai, hewp meeee!!!!!"
+  },
+  {
+   "i": 102,
+   "en": "U-umm...?"
+  },
+  {
+   "i": 103,
+   "en": "Thump her chest a few times... surely!"
+  },
+  {
+   "i": 104,
+   "en": "I have to hurry!"
+  },
+  {
+   "i": 105,
+   "en": "How's... this?"
+  },
+  {
+   "i": 106,
+   "en": "*gulp*! Phewwwww!!!"
+  },
+  {
+   "i": 107,
+   "en": "Did it... go down?"
+  },
+  {
+   "i": 108,
+   "en": "Yes ma'am, thank you so much♪"
+  },
+  {
+   "i": 109,
+   "en": "Guess I took a few too many"
+  },
+  {
+   "i": 110,
+   "en": "at once. Eheheheh"
+  },
+  {
+   "i": 111,
+   "en": "Overdosing... probably not good"
+  },
+  {
+   "i": 112,
+   "en": "R-right. It might've given me"
+  },
+  {
+   "i": 113,
+   "en": "a weird voice or something"
+  },
+  {
+   "i": 114,
+   "en": "For our showdown, I'll sing with"
+  },
+  {
+   "i": 115,
+   "en": "my honest natural voice!"
+  },
+  {
+   "i": 116,
+   "en": "Okay..."
+  },
+  {
+   "i": 117,
+   "en": "Well, time to head home and train..."
+  },
+  {
+   "i": 118,
+   "en": "right after some gashapon♪"
+  },
+  {
+   "i": 119,
+   "en": "See ya, Senpai!"
+  },
+  {
+   "i": 120,
+   "en": "Thank goodness. She seems fine now."
+  },
+  {
+   "i": 121,
+   "en": "...Careful with the overdose, though?"
+  },
+  {
+   "i": 122,
+   "en": "Not hard... enough?"
+  },
+  {
+   "i": 123,
+   "en": "Hngh, gggghhh..."
+  },
+  {
+   "i": 124,
+   "en": "Still... stuck?"
+  },
+  {
+   "i": 125,
+   "en": "A widdle more~! Da rest, I do myself!"
+  },
+  {
+   "i": 126,
+   "en": "*GULP*!!!!"
+  },
+  {
+   "i": 127,
+   "en": "Puhaah! Haah, haah, wheeeew~~~"
+  },
+  {
+   "i": 128,
+   "en": "Are you okay?"
+  },
+  {
+   "i": 129,
+   "en": "Yes, somehow..."
+  },
+  {
+   "i": 130,
+   "en": "But how AWFUL is this supplement!"
+  },
+  {
+   "i": 131,
+   "en": "Getting stuck in my throat that easy"
+  },
+  {
+   "i": 132,
+   "en": "is just sloppy workmanship!"
+  },
+  {
+   "i": 133,
+   "en": "........"
+  },
+  {
+   "i": 134,
+   "en": "The shape's bad, and the coating's"
+  },
+  {
+   "i": 135,
+   "en": "all uneven, too!"
+  },
+  {
+   "i": 136,
+   "en": "I'm going to go file a complaint!"
+  },
+  {
+   "i": 137,
+   "en": "Ah... Cineria..."
+  },
+  {
+   "i": 138,
+   "en": "There she goes, fuming."
+  },
+  {
+   "i": 139,
+   "en": "Isn't that... misplaced anger?"
+  },
+  {
+   "i": 140,
+   "en": "Z-Zenbai, why're you jus' wadging,"
+  },
+  {
+   "i": 141,
+   "en": "hewp meee~~~!!!!!"
+  },
+  {
+   "i": 142,
+   "en": "Um... uuu..."
+  },
+  {
+   "i": 143,
+   "en": "Hagyak―㌍*GULP*!!!!"
+  },
+  {
+   "i": 144,
+   "en": "...Huh?"
+  },
+  {
+   "i": 145,
+   "en": "Haah, haah, haah... huh? It's out?"
+  },
+  {
+   "i": 146,
+   "en": "...You swallowed it?"
+  },
+  {
+   "i": 147,
+   "en": "Looks like it. Phew..."
+  },
+  {
+   "i": 148,
+   "en": "Senpaaai, leaving me hanging like"
+  },
+  {
+   "i": 149,
+   "en": "that was just CRUEL!"
+  },
+  {
+   "i": 150,
+   "en": "Don't tell me―㌍now that I'm your"
+  },
+  {
+   "i": 151,
+   "en": "rival, you want me quietly gone!?"
+  },
+  {
+   "i": 152,
+   "en": "That's not..."
+  },
+  {
+   "i": 153,
+   "en": "Trying to end my screentime"
+  },
+  {
+   "i": 154,
+   "en": "after just one season!?"
+  },
+  {
+   "i": 155,
+   "en": "No... I just... didn't know"
+  },
+  {
+   "i": 156,
+   "en": "what I should do"
+  },
+  {
+   "i": 157,
+   "en": "You've stopped being nice, and it's"
+  },
+  {
+   "i": 158,
+   "en": "all this real-idol nonsense's fault"
+  },
+  {
+   "i": 159,
+   "en": "Fine! I'll beat you and break"
+  },
+  {
+   "i": 160,
+   "en": "that brainwashing for SURE!"
+  },
+  {
+   "i": 161,
+   "en": "I somehow fired her up even more..."
+  },
+  {
+   "i": 162,
+   "en": "Because I... just watched?"
+  },
+  {
+   "i": 163,
+   "en": "OW! S-Senpai, what are you doing!?"
+  },
+  {
+   "i": 164,
+   "en": "Ah... sorry"
+  },
+  {
+   "i": 165,
+   "en": "*GULP*!"
+  },
+  {
+   "i": 166,
+   "en": "Puhaah! Haah, haah..."
+  },
+  {
+   "i": 167,
+   "en": "Oh, did you... swallow it?"
+  },
+  {
+   "i": 168,
+   "en": "Yes... the shock did it, somehow"
+  },
+  {
+   "i": 169,
+   "en": "But that was AWFUL!"
+  },
+  {
+   "i": 170,
+   "en": "Who just sneak-attacks like that!?"
+  },
+  {
+   "i": 171,
+   "en": "Senpai... you hate me now that"
+  },
+  {
+   "i": 172,
+   "en": "I'm your rival, don't you"
+  },
+  {
+   "i": 173,
+   "en": "That's not it..."
+  },
+  {
+   "i": 174,
+   "en": "Hmph. FINE then."
+  },
+  {
+   "i": 175,
+   "en": "That's it, I'm going delinquent!"
+  },
+  {
+   "i": 176,
+   "en": "I'm gonna go buy a whole BOX of"
+  },
+  {
+   "i": 177,
+   "en": "'Abnormal Glasses Boy' trading cards!"
+  },
+  {
+   "i": 178,
+   "en": "Ah, Cineria..."
+  },
+  {
+   "i": 179,
+   "en": "There she goes, in tears."
+  },
+  {
+   "i": 180,
+   "en": "Because I... poked her eye?"
+  },
+  {
+   "i": 181,
+   "en": "Hyaff! Senpai, not THERE!"
+  },
+  {
+   "i": 182,
+   "en": "Ah, sorry... Too low?"
+  },
+  {
+   "i": 183,
+   "en": "*gulp* *gulp* *GULP*!"
+  },
+  {
+   "i": 184,
+   "en": "Ah... did it go down?"
+  },
+  {
+   "i": 185,
+   "en": "Yes... getting touched somewhere SO"
+  },
+  {
+   "i": 186,
+   "en": "crazy startled it right down..."
+  },
+  {
+   "i": 187,
+   "en": "Senpaaai, naughty naughty♪ Openly"
+  },
+  {
+   "i": 188,
+   "en": "sexual-harassing me in broad daylight"
+  },
+  {
+   "i": 189,
+   "en": "I'm... not really, um..."
+  },
+  {
+   "i": 190,
+   "en": "used to this stuff..."
+  },
+  {
+   "i": 191,
+   "en": "Well, I'm glad it's out. ...Bye now"
+  },
+  {
+   "i": 192,
+   "en": "Wait, WHAT? Why're you acting like"
+  },
+  {
+   "i": 193,
+   "en": "nothing even happened~~~!?"
+  },
+  {
+   "i": 194,
+   "en": "Isn't this where things turn all rosy"
+  },
+  {
+   "i": 195,
+   "en": "with flowers blooming behind us!?"
+  },
+  {
+   "i": 196,
+   "en": "...?"
+  },
+  {
+   "i": 197,
+   "en": "That's it... I'm going delinquent!"
+  },
+  {
+   "i": 198,
+   "en": "I'll run wild being a total brat at"
+  },
+  {
+   "i": 199,
+   "en": "every butler cafe in Electric Town!"
+  },
+  {
+   "i": 200,
+   "en": "Ah, Cineria...!"
+  },
+  {
+   "i": 201,
+   "en": "There she goes, fuming..."
+  },
+  {
+   "i": 202,
+   "en": "The butlers... are in danger?"
+  }
+ ]
+}

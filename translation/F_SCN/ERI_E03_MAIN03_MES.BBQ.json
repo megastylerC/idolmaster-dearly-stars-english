@@ -1,0 +1,686 @@
+{
+ "file": "F_SCN/ERI_E03_MAIN03_MES.BBQ",
+ "count": 171,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Ozaki"
+  },
+  {
+   "i": 2,
+   "en": "All right, Eri."
+  },
+  {
+   "i": 3,
+   "en": "Today you're promoting the CD here"
+  },
+  {
+   "i": 4,
+   "en": "Eri"
+  },
+  {
+   "i": 5,
+   "en": "Okay. ...Did a decent crowd show up?"
+  },
+  {
+   "i": 6,
+   "en": "Yes. Enough to fill the area"
+  },
+  {
+   "i": 7,
+   "en": "around the stage, at least..."
+  },
+  {
+   "i": 8,
+   "en": "???"
+  },
+  {
+   "i": 9,
+   "en": "Kyahahahaha! You flatter me too much!"
+  },
+  {
+   "i": 10,
+   "en": "Oh? That group walking"
+  },
+  {
+   "i": 11,
+   "en": "this way over there..."
+  },
+  {
+   "i": 12,
+   "en": "Cineria"
+  },
+  {
+   "i": 13,
+   "en": "I'm still no match for"
+  },
+  {
+   "i": 14,
+   "en": "ELLIE-senpai's videos, though"
+  },
+  {
+   "i": 15,
+   "en": "Entourage"
+  },
+  {
+   "i": 16,
+   "en": "No no, Neria-sama, your transition"
+  },
+  {
+   "i": 17,
+   "en": "work is simply exquisite!"
+  },
+  {
+   "i": 18,
+   "en": "Those took some real work, y'know."
+  },
+  {
+   "i": 19,
+   "en": "Getting every little cut edited♪"
+  },
+  {
+   "i": 20,
+   "en": "Cineria and... her friends?"
+  },
+  {
+   "i": 21,
+   "en": "Oh? Look who it is―㌍ELLIE-senpai"
+  },
+  {
+   "i": 22,
+   "en": "and her evil manager!"
+  },
+  {
+   "i": 23,
+   "en": "WHO are you calling an evil manager!?"
+  },
+  {
+   "i": 24,
+   "en": "You, obviously! Going around"
+  },
+  {
+   "i": 25,
+   "en": "deceiving my pure-pure Senpai!"
+  },
+  {
+   "i": 26,
+   "en": "I know how it works. Managers skim"
+  },
+  {
+   "i": 27,
+   "en": "like 90% of the pay in secret..."
+  },
+  {
+   "i": 28,
+   "en": "And on top of that, you're scheming"
+  },
+  {
+   "i": 29,
+   "en": "to push her into shady gigs, right!?"
+  },
+  {
+   "i": 30,
+   "en": "Cineria..."
+  },
+  {
+   "i": 31,
+   "en": "Saying too much"
+  },
+  {
+   "i": 32,
+   "en": "Huh? Senpai..."
+  },
+  {
+   "i": 33,
+   "en": "Ms. Ozaki doesn't think like that"
+  },
+  {
+   "i": 34,
+   "en": "Ahaha! D-don't be silly."
+  },
+  {
+   "i": 35,
+   "en": "It was a joke! Just a joke!"
+  },
+  {
+   "i": 36,
+   "en": "Well, 'evil manager' was a bit much..."
+  },
+  {
+   "i": 37,
+   "en": "I'll downgrade it to"
+  },
+  {
+   "i": 38,
+   "en": "'yandere manager' for you"
+  },
+  {
+   "i": 39,
+   "en": "Eri... what is a 'yandere'?"
+  },
+  {
+   "i": 40,
+   "en": "...It's a long story. Some other time"
+  },
+  {
+   "i": 41,
+   "en": "That's too cruel"
+  },
+  {
+   "i": 42,
+   "en": "Huh? ELLIE-senpai?"
+  },
+  {
+   "i": 43,
+   "en": "Saying whatever you want like that..."
+  },
+  {
+   "i": 44,
+   "en": "Aaah! O-okay, my bad!"
+  },
+  {
+   "i": 45,
+   "en": "I just got carried away..."
+  },
+  {
+   "i": 46,
+   "en": "You don't have to give me"
+  },
+  {
+   "i": 47,
+   "en": "such a scary look..."
+  },
+  {
+   "i": 48,
+   "en": "Uuu... *sniffle*..."
+  },
+  {
+   "i": 49,
+   "en": "Ah, sorry..."
+  },
+  {
+   "i": 50,
+   "en": "Was I... too hard on you?"
+  },
+  {
+   "i": 51,
+   "en": "By the way―㌍er, you there"
+  },
+  {
+   "i": 52,
+   "en": "Wh-what?"
+  },
+  {
+   "i": 53,
+   "en": "I assumed net idols were introverts,"
+  },
+  {
+   "i": 54,
+   "en": "but you know quite a few people"
+  },
+  {
+   "i": 55,
+   "en": "Well, obviously"
+  },
+  {
+   "i": 56,
+   "en": "Among net idols, I'm the meetup"
+  },
+  {
+   "i": 57,
+   "en": "princess with faithful to spare!"
+  },
+  {
+   "i": 58,
+   "en": "Today we're all on anisong karaoke"
+  },
+  {
+   "i": 59,
+   "en": "till dawn! Training while having fun!"
+  },
+  {
+   "i": 60,
+   "en": "My, how adored you are... Suzuki-san"
+  },
+  {
+   "i": 61,
+   "en": "Huh?"
+  },
+  {
+   "i": 62,
+   "en": "Suzuki...-san?"
+  },
+  {
+   "i": 63,
+   "en": "That's right."
+  },
+  {
+   "i": 64,
+   "en": "I had your real name looked into"
+  },
+  {
+   "i": 65,
+   "en": "Your real name is―㌍Ayane Suzuki."
+  },
+  {
+   "i": 66,
+   "en": "Isn't it?"
+  },
+  {
+   "i": 67,
+   "en": "N-no! Who said you could decide that!?"
+  },
+  {
+   "i": 68,
+   "en": "I am CINERIA!"
+  },
+  {
+   "i": 69,
+   "en": "Don't call me by that lame name!"
+  },
+  {
+   "i": 70,
+   "en": "No Japanese person is actually"
+  },
+  {
+   "i": 71,
+   "en": "named 'Cineria,' you know"
+  },
+  {
+   "i": 72,
+   "en": "There is TOO! Right here!"
+  },
+  {
+   "i": 73,
+   "en": "Then what's your family name?"
+  },
+  {
+   "i": 74,
+   "en": "...It's Cine! Cine Ria!"
+  },
+  {
+   "i": 75,
+   "en": "About time you woke up, Suzuki-san?"
+  },
+  {
+   "i": 76,
+   "en": "U-uuuu..."
+  },
+  {
+   "i": 77,
+   "en": "Come on, everyone―㌍address her"
+  },
+  {
+   "i": 78,
+   "en": "properly as 'Suzuki-san'"
+  },
+  {
+   "i": 79,
+   "en": "Nnnghhh..."
+  },
+  {
+   "i": 80,
+   "en": "Ms. Ozaki..."
+  },
+  {
+   "i": 81,
+   "en": "Going too far"
+  },
+  {
+   "i": 82,
+   "en": "Revealing her name in front of her"
+  },
+  {
+   "i": 83,
+   "en": "net friends is... a bit much"
+  },
+  {
+   "i": 84,
+   "en": "...True. Now that you mention it,"
+  },
+  {
+   "i": 85,
+   "en": "that may have crossed a line"
+  },
+  {
+   "i": 86,
+   "en": "I'll stop pressing her there"
+  },
+  {
+   "i": 87,
+   "en": "Too scary"
+  },
+  {
+   "i": 88,
+   "en": "...Huh?"
+  },
+  {
+   "i": 89,
+   "en": "It was like... an interrogation... eek"
+  },
+  {
+   "i": 90,
+   "en": "Y-you don't have to be THAT scared."
+  },
+  {
+   "i": 91,
+   "en": "I was only..."
+  },
+  {
+   "i": 92,
+   "en": "...You're right. That was a bit"
+  },
+  {
+   "i": 93,
+   "en": "childish of me. I'll leave it there"
+  },
+  {
+   "i": 94,
+   "en": "Too little, too late!"
+  },
+  {
+   "i": 95,
+   "en": "How DARE you spill my secret"
+  },
+  {
+   "i": 96,
+   "en": "like that, you Longhair!"
+  },
+  {
+   "i": 97,
+   "en": "...Excuse me? You're the one who"
+  },
+  {
+   "i": 98,
+   "en": "picked this fight to begin with"
+  },
+  {
+   "i": 99,
+   "en": "Trailing a pack of minions around"
+  },
+  {
+   "i": 100,
+   "en": "like some old street gang... Shameful"
+  },
+  {
+   "i": 101,
+   "en": "Oh yeah!? Well YOU'RE all work and"
+  },
+  {
+   "i": 102,
+   "en": "don't have a single blog buddy!"
+  },
+  {
+   "i": 103,
+   "en": "My private life is none of your"
+  },
+  {
+   "i": 104,
+   "en": "business. Such a busybody, Suzuki-san"
+  },
+  {
+   "i": 105,
+   "en": "Hssss! Grrrrrrrrr!"
+  },
+  {
+   "i": 106,
+   "en": "...Hmph!"
+  },
+  {
+   "i": 107,
+   "en": "Um... you two..."
+  },
+  {
+   "i": 108,
+   "en": "Look around you..."
+  },
+  {
+   "i": 109,
+   "en": "Around?"
+  },
+  {
+   "i": 110,
+   "en": "The people who came for the event..."
+  },
+  {
+   "i": 111,
+   "en": "They're all staring"
+  },
+  {
+   "i": 112,
+   "en": "Oh, you're right..."
+  },
+  {
+   "i": 113,
+   "en": "No... we're the center of attention"
+  },
+  {
+   "i": 114,
+   "en": "Hey! This isn't some fighting game!"
+  },
+  {
+   "i": 115,
+   "en": "Quit gawking at us!"
+  },
+  {
+   "i": 116,
+   "en": "It seems we'd better call a truce"
+  },
+  {
+   "i": 117,
+   "en": "right about here"
+  },
+  {
+   "i": 118,
+   "en": "...Yeah. Being a public spectacle"
+  },
+  {
+   "i": 119,
+   "en": "is SO not my thing"
+  },
+  {
+   "i": 120,
+   "en": "The rest waits until our showdown!"
+  },
+  {
+   "i": 121,
+   "en": "I'll beat ELLIE-senpai and have"
+  },
+  {
+   "i": 122,
+   "en": "you bawling buckets of tears!"
+  },
+  {
+   "i": 123,
+   "en": "Will it really go that well?"
+  },
+  {
+   "i": 124,
+   "en": "We'll crush you right back"
+  },
+  {
+   "i": 125,
+   "en": "Hmph!"
+  },
+  {
+   "i": 126,
+   "en": "See you later, Senpai♪"
+  },
+  {
+   "i": 127,
+   "en": "Okay"
+  },
+  {
+   "i": 128,
+   "en": "Come on, we're leaving, you lot"
+  },
+  {
+   "i": 129,
+   "en": "Entourage"
+  },
+  {
+   "i": 130,
+   "en": "Yes, Cineria-sama!"
+  },
+  {
+   "i": 131,
+   "en": "Phew... mediation successful."
+  },
+  {
+   "i": 132,
+   "en": "Now I can focus on the event"
+  },
+  {
+   "i": 133,
+   "en": "Calm down a little..."
+  },
+  {
+   "i": 134,
+   "en": "I AM calm"
+  },
+  {
+   "i": 135,
+   "en": "Me too! My cooling fans are spinning"
+  },
+  {
+   "i": 136,
+   "en": "so hard my brain's ice-cold!"
+  },
+  {
+   "i": 137,
+   "en": "Says the girl with steam"
+  },
+  {
+   "i": 138,
+   "en": "rising off her head"
+  },
+  {
+   "i": 139,
+   "en": "YOU'RE the one who's"
+  },
+  {
+   "i": 140,
+   "en": "overheating here!"
+  },
+  {
+   "i": 141,
+   "en": "Any second that long hair'll stand"
+  },
+  {
+   "i": 142,
+   "en": "on end and you'll pounce, right!?"
+  },
+  {
+   "i": 143,
+   "en": "Of course it won't!"
+  },
+  {
+   "i": 144,
+   "en": "You do love your delusions, Suzuki-san"
+  },
+  {
+   "i": 145,
+   "en": "Don't CALL me Suzuki-san!"
+  },
+  {
+   "i": 146,
+   "en": "Ozaki & Cineria"
+  },
+  {
+   "i": 147,
+   "en": "Grrrrrrrr!"
+  },
+  {
+   "i": 148,
+   "en": "U-um..."
+  },
+  {
+   "i": 149,
+   "en": "Mediation... failed, it seems."
+  },
+  {
+   "i": 150,
+   "en": "These two are... fire and oil?"
+  },
+  {
+   "i": 151,
+   "en": "Try to get along?"
+  },
+  {
+   "i": 152,
+   "en": "Impossible!"
+  },
+  {
+   "i": 153,
+   "en": "As if that could ever happen"
+  },
+  {
+   "i": 154,
+   "en": "Come on, just... somehow..."
+  },
+  {
+   "i": 155,
+   "en": "IF Longhair here apologizes with 'I am"
+  },
+  {
+   "i": 156,
+   "en": "so sorry, Cineria-sama,' I'll consider"
+  },
+  {
+   "i": 157,
+   "en": "Yes, yes. I do most humbly"
+  },
+  {
+   "i": 158,
+   "en": "apologize... Suzuki-san"
+  },
+  {
+   "i": 159,
+   "en": "Don't CALL me Suzuki-san!"
+  },
+  {
+   "i": 160,
+   "en": "What's wrong with calling"
+  },
+  {
+   "i": 161,
+   "en": "Suzuki-san 'Suzuki-san'?"
+  },
+  {
+   "i": 162,
+   "en": "Oh yeah!? Well YOU'RE just, just..."
+  },
+  {
+   "i": 163,
+   "en": "a Hairyama! A Longhairo!"
+  },
+  {
+   "i": 164,
+   "en": "No human being has a name like that."
+  },
+  {
+   "i": 165,
+   "en": "Net idols really are clueless"
+  },
+  {
+   "i": 166,
+   "en": "Hsss!"
+  },
+  {
+   "i": 167,
+   "en": "KSSHAAAAAAA!!!"
+  },
+  {
+   "i": 168,
+   "en": "Shoo! Shoo!"
+  },
+  {
+   "i": 169,
+   "en": "It's turned into a stare-down."
+  },
+  {
+   "i": 170,
+   "en": "Everyone around us is... backing away"
+  }
+ ]
+}

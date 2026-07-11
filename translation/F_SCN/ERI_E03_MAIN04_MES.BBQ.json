@@ -1,0 +1,626 @@
+{
+ "file": "F_SCN/ERI_E03_MAIN04_MES.BBQ",
+ "count": 156,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Cineria"
+  },
+  {
+   "i": 2,
+   "en": "It's almost time, Senpai♪"
+  },
+  {
+   "i": 3,
+   "en": "Our showdown, right here, real soon!"
+  },
+  {
+   "i": 4,
+   "en": "Eri"
+  },
+  {
+   "i": 5,
+   "en": "Yeah."
+  },
+  {
+   "i": 6,
+   "en": "So, let's get right to... rehearsal"
+  },
+  {
+   "i": 7,
+   "en": "A rehearsal? You mean like,"
+  },
+  {
+   "i": 8,
+   "en": "a test recording?"
+  },
+  {
+   "i": 9,
+   "en": "Yeah. To check... the flow"
+  },
+  {
+   "i": 10,
+   "en": "Hey, Senpai, before we rehearse..."
+  },
+  {
+   "i": 11,
+   "en": "one question!"
+  },
+  {
+   "i": 12,
+   "en": "...What?"
+  },
+  {
+   "i": 13,
+   "en": "Why'd you ever decide to try"
+  },
+  {
+   "i": 14,
+   "en": "being an idol in REAL life?"
+  },
+  {
+   "i": 15,
+   "en": "Well..."
+  },
+  {
+   "i": 16,
+   "en": "I wanted to sing"
+  },
+  {
+   "i": 17,
+   "en": "Huh? To sing?"
+  },
+  {
+   "i": 18,
+   "en": "Yeah. I could never sing before,"
+  },
+  {
+   "i": 19,
+   "en": "so..."
+  },
+  {
+   "i": 20,
+   "en": "Ah, that makes sense♪"
+  },
+  {
+   "i": 21,
+   "en": "You're not great at speaking up, huh"
+  },
+  {
+   "i": 22,
+   "en": "Yeah..."
+  },
+  {
+   "i": 23,
+   "en": "But isn't that enough already?"
+  },
+  {
+   "i": 24,
+   "en": "You can sing now, after all..."
+  },
+  {
+   "i": 25,
+   "en": "To see the outside world"
+  },
+  {
+   "i": 26,
+   "en": "You can see 'outside' just by"
+  },
+  {
+   "i": 27,
+   "en": "stepping out the door, can't you?"
+  },
+  {
+   "i": 28,
+   "en": "Not like that..."
+  },
+  {
+   "i": 29,
+   "en": "A world you can't see just by"
+  },
+  {
+   "i": 30,
+   "en": "walking around... I wanted to see it"
+  },
+  {
+   "i": 31,
+   "en": "Hmmm. But the REAL-idol world,"
+  },
+  {
+   "i": 32,
+   "en": "of all places..."
+  },
+  {
+   "i": 33,
+   "en": "It's as underground & dangerous as a"
+  },
+  {
+   "i": 34,
+   "en": "rogue server in some lawless country!"
+  },
+  {
+   "i": 35,
+   "en": "........"
+  },
+  {
+   "i": 36,
+   "en": "You've peeked plenty by now, right?"
+  },
+  {
+   "i": 37,
+   "en": "Someone invited me"
+  },
+  {
+   "i": 38,
+   "en": "Invited? By that Longhair!?"
+  },
+  {
+   "i": 39,
+   "en": "So basically, you fell for"
+  },
+  {
+   "i": 40,
+   "en": "a one-click scam"
+  },
+  {
+   "i": 41,
+   "en": "Buttering you up with sweet talk to"
+  },
+  {
+   "i": 42,
+   "en": "make you click an obvious affiliate!"
+  },
+  {
+   "i": 43,
+   "en": "Nobody made me click anything..."
+  },
+  {
+   "i": 44,
+   "en": "I was... a little curious too..."
+  },
+  {
+   "i": 45,
+   "en": "Well, maybe that's true, but..."
+  },
+  {
+   "i": 46,
+   "en": "But you've seen plenty now, right?"
+  },
+  {
+   "i": 47,
+   "en": "Let's just cancel this showdown and"
+  },
+  {
+   "i": 48,
+   "en": "go straight back to our old world!"
+  },
+  {
+   "i": 49,
+   "en": "And then we can hang out and have"
+  },
+  {
+   "i": 50,
+   "en": "fun like before♪"
+  },
+  {
+   "i": 51,
+   "en": "Not yet..."
+  },
+  {
+   "i": 52,
+   "en": "Just a little longer..."
+  },
+  {
+   "i": 53,
+   "en": "I feel like there's something here..."
+  },
+  {
+   "i": 54,
+   "en": "I still haven't found"
+  },
+  {
+   "i": 55,
+   "en": "You're surprisingly stubborn, huh"
+  },
+  {
+   "i": 56,
+   "en": "Well, fine. After I beat you,"
+  },
+  {
+   "i": 57,
+   "en": "I'll just convince you all over again♪"
+  },
+  {
+   "i": 58,
+   "en": "Now then, onto the stage!"
+  },
+  {
+   "i": 59,
+   "en": "It's probably no big deal, but I'll"
+  },
+  {
+   "i": 60,
+   "en": "go stamp my footprints around anyway"
+  },
+  {
+   "i": 61,
+   "en": "Okay"
+  },
+  {
+   "i": 62,
+   "en": "So this is... the stage?"
+  },
+  {
+   "i": 63,
+   "en": "What??? What IS this feeling..."
+  },
+  {
+   "i": 64,
+   "en": "...Cineria?"
+  },
+  {
+   "i": 65,
+   "en": "J-just standing here, chills are"
+  },
+  {
+   "i": 66,
+   "en": "running up from my feet..."
+  },
+  {
+   "i": 67,
+   "en": "This place shouldn't be any different"
+  },
+  {
+   "i": 68,
+   "en": "from a school gym!"
+  },
+  {
+   "i": 69,
+   "en": "It's... nothing like a gym"
+  },
+  {
+   "i": 70,
+   "en": "Huh...? Senpai?"
+  },
+  {
+   "i": 71,
+   "en": "Every seat filled, sound flooding in,"
+  },
+  {
+   "i": 72,
+   "en": "and all the lights hit... you alone"
+  },
+  {
+   "i": 73,
+   "en": "This place is... something special"
+  },
+  {
+   "i": 74,
+   "en": "Special... U-u-uuuu..."
+  },
+  {
+   "i": 75,
+   "en": "So... how does it feel up here?"
+  },
+  {
+   "i": 76,
+   "en": "Restless?"
+  },
+  {
+   "i": 77,
+   "en": "Yes... I can't settle down somehow"
+  },
+  {
+   "i": 78,
+   "en": "Trembling?"
+  },
+  {
+   "i": 79,
+   "en": "I-I'm not THAT far gone, okay!?"
+  },
+  {
+   "i": 80,
+   "en": "B-but..."
+  },
+  {
+   "i": 81,
+   "en": "Excited?"
+  },
+  {
+   "i": 82,
+   "en": "There's NO way I could ever feel that"
+  },
+  {
+   "i": 83,
+   "en": "So real idols sing... inside"
+  },
+  {
+   "i": 84,
+   "en": "an atmosphere like this"
+  },
+  {
+   "i": 85,
+   "en": "At first, I couldn't get my voice"
+  },
+  {
+   "i": 86,
+   "en": "out either. I was scared"
+  },
+  {
+   "i": 87,
+   "en": "Even now, it nearly swallows me..."
+  },
+  {
+   "i": 88,
+   "en": "Nngh... Hmph! This is NOTHING!"
+  },
+  {
+   "i": 89,
+   "en": "Nothing at all!"
+  },
+  {
+   "i": 90,
+   "en": "Net idols rank WAY above"
+  },
+  {
+   "i": 91,
+   "en": "real idols, after all!"
+  },
+  {
+   "i": 92,
+   "en": "I can already twirl around and"
+  },
+  {
+   "i": 93,
+   "en": "dance here free as a bird!!!!"
+  },
+  {
+   "i": 94,
+   "en": "Then, how about..."
+  },
+  {
+   "i": 95,
+   "en": "Dance together?"
+  },
+  {
+   "i": 96,
+   "en": "Huh? Together?"
+  },
+  {
+   "i": 97,
+   "en": "It's hard to get the feel here alone"
+  },
+  {
+   "i": 98,
+   "en": "You sure? Helping me out when"
+  },
+  {
+   "i": 99,
+   "en": "I'm your rival and all"
+  },
+  {
+   "i": 100,
+   "en": "Yeah. It's not... the real thing yet"
+  },
+  {
+   "i": 101,
+   "en": "Okay! Then... please, let's go!"
+  },
+  {
+   "i": 102,
+   "en": "Haah, whew... that's the whole routine"
+  },
+  {
+   "i": 103,
+   "en": "Watching you move, I'm picking up"
+  },
+  {
+   "i": 104,
+   "en": "all kinds of tricks!"
+  },
+  {
+   "i": 105,
+   "en": "...Used to it now?"
+  },
+  {
+   "i": 106,
+   "en": "Yes, a lot!"
+  },
+  {
+   "i": 107,
+   "en": "I'm so happy! Getting to dance"
+  },
+  {
+   "i": 108,
+   "en": "side by side with you like this♪"
+  },
+  {
+   "i": 109,
+   "en": "Heehee..."
+  },
+  {
+   "i": 110,
+   "en": "This much is fine to do... right?"
+  },
+  {
+   "i": 111,
+   "en": "Cineria looks so happy"
+  },
+  {
+   "i": 112,
+   "en": "Try dancing"
+  },
+  {
+   "i": 113,
+   "en": "Huh?"
+  },
+  {
+   "i": 114,
+   "en": "I'll be watching"
+  },
+  {
+   "i": 115,
+   "en": "R-right, good idea!"
+  },
+  {
+   "i": 116,
+   "en": "I'll blitz through and get used to it!"
+  },
+  {
+   "i": 117,
+   "en": "Haah, whew... what IS this place!?"
+  },
+  {
+   "i": 118,
+   "en": "I can't judge distances, and my"
+  },
+  {
+   "i": 119,
+   "en": "feet keep slipping!!!!"
+  },
+  {
+   "i": 120,
+   "en": "That's just... how stages are"
+  },
+  {
+   "i": 121,
+   "en": "Want some... advice?"
+  },
+  {
+   "i": 122,
+   "en": "Really!? Yes please, thank yo―㌍"
+  },
+  {
+   "i": 123,
+   "en": "N-never mind! You're my rival"
+  },
+  {
+   "i": 124,
+   "en": "this time, after all"
+  },
+  {
+   "i": 125,
+   "en": "I-I'll just... get used to it a bit"
+  },
+  {
+   "i": 126,
+   "en": "more. Not that I NEED to or anything"
+  },
+  {
+   "i": 127,
+   "en": "It's not like I'd get worked up over"
+  },
+  {
+   "i": 128,
+   "en": "something this silly. Hmph!"
+  },
+  {
+   "i": 129,
+   "en": "She talks tough... but she's really"
+  },
+  {
+   "i": 130,
+   "en": "struggling. I'll watch over her a bit"
+  },
+  {
+   "i": 131,
+   "en": "Want me to film you?"
+  },
+  {
+   "i": 132,
+   "en": "Huh? Film me?"
+  },
+  {
+   "i": 133,
+   "en": "If you can dance it properly... it"
+  },
+  {
+   "i": 134,
+   "en": "might make good footage. For videos"
+  },
+  {
+   "i": 135,
+   "en": "Ah... r-r-right, exactly!"
+  },
+  {
+   "i": 136,
+   "en": "Okay, roll the camera!"
+  },
+  {
+   "i": 137,
+   "en": "I'll do something SO amazing"
+  },
+  {
+   "i": 138,
+   "en": "it won't even need editing!"
+  },
+  {
+   "i": 139,
+   "en": "U-u-uuuuuu..."
+  },
+  {
+   "i": 140,
+   "en": "The footage came out crisp, but..."
+  },
+  {
+   "i": 141,
+   "en": "it's just her falling, start to end"
+  },
+  {
+   "i": 142,
+   "en": "It wasn't supposed to go like this!"
+  },
+  {
+   "i": 143,
+   "en": "What's WITH this place!?"
+  },
+  {
+   "i": 144,
+   "en": "My feet slip like crazy up here!"
+  },
+  {
+   "i": 145,
+   "en": "It's not like... asphalt."
+  },
+  {
+   "i": 146,
+   "en": "This is... a stage"
+  },
+  {
+   "i": 147,
+   "en": "Senpai, that video―㌍"
+  },
+  {
+   "i": 148,
+   "en": "hand it over here!"
+  },
+  {
+   "i": 149,
+   "en": "...To watch and review?"
+  },
+  {
+   "i": 150,
+   "en": "As if I'd watch it!"
+  },
+  {
+   "i": 151,
+   "en": "I'm deleting ALL the data!"
+  },
+  {
+   "i": 152,
+   "en": "Footage like this is, nnnghhh,"
+  },
+  {
+   "i": 153,
+   "en": "hu-mi-li-a-ting!!!!"
+  },
+  {
+   "i": 154,
+   "en": "Getting her clumsy side on camera..."
+  },
+  {
+   "i": 155,
+   "en": "really got to her. ...Poor thing"
+  }
+ ]
+}

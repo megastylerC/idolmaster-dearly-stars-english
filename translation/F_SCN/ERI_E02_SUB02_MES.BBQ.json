@@ -1,0 +1,510 @@
+{
+ "file": "F_SCN/ERI_E02_SUB02_MES.BBQ",
+ "count": 127,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Photographer"
+  },
+  {
+   "i": 2,
+   "en": "Eri-chan, could you look at"
+  },
+  {
+   "i": 3,
+   "en": "the camera a bit more?"
+  },
+  {
+   "i": 4,
+   "en": "Eri"
+  },
+  {
+   "i": 5,
+   "en": "Uh... but..."
+  },
+  {
+   "i": 6,
+   "en": "I'm no good at facing the camera..."
+  },
+  {
+   "i": 7,
+   "en": "Okay, here we go!"
+  },
+  {
+   "i": 8,
+   "en": "SFX"
+  },
+  {
+   "i": 9,
+   "en": "―㌍Click!"
+  },
+  {
+   "i": 10,
+   "en": "Hmm, the expression's not quite there"
+  },
+  {
+   "i": 11,
+   "en": "I wonder why?"
+  },
+  {
+   "i": 12,
+   "en": "Eri-chan, any idea what it is?"
+  },
+  {
+   "i": 13,
+   "en": "I'm bad with it"
+  },
+  {
+   "i": 14,
+   "en": "Hm? Bad with what?"
+  },
+  {
+   "i": 15,
+   "en": "...Looking into the camera"
+  },
+  {
+   "i": 16,
+   "en": "Ahh, so that's it."
+  },
+  {
+   "i": 17,
+   "en": "That's why you looked so anxious"
+  },
+  {
+   "i": 18,
+   "en": "I'm sorry"
+  },
+  {
+   "i": 19,
+   "en": "Hey now, no need to apologize"
+  },
+  {
+   "i": 20,
+   "en": "It's not like you've got years of"
+  },
+  {
+   "i": 21,
+   "en": "experience yet, y'know"
+  },
+  {
+   "i": 22,
+   "en": "........"
+  },
+  {
+   "i": 23,
+   "en": "Hoo boy, this is a tough one"
+  },
+  {
+   "i": 24,
+   "en": "President"
+  },
+  {
+   "i": 25,
+   "en": "Eri. Struggling with the flyer"
+  },
+  {
+   "i": 26,
+   "en": "photo shoot, are we?"
+  },
+  {
+   "i": 27,
+   "en": "Oh, President..."
+  },
+  {
+   "i": 28,
+   "en": "I was watching. Why does your face"
+  },
+  {
+   "i": 29,
+   "en": "freeze the moment you see the camera?"
+  },
+  {
+   "i": 30,
+   "en": "It's the gaze through the lens..."
+  },
+  {
+   "i": 31,
+   "en": "The gaze?"
+  },
+  {
+   "i": 32,
+   "en": "When I'm not looking at the camera"
+  },
+  {
+   "i": 33,
+   "en": "my face can be natural, but..."
+  },
+  {
+   "i": 34,
+   "en": "when that cold glass light hits me..."
+  },
+  {
+   "i": 35,
+   "en": "I see. You feel watched, and it"
+  },
+  {
+   "i": 36,
+   "en": "snaps you back to reality?"
+  },
+  {
+   "i": 37,
+   "en": "Yes"
+  },
+  {
+   "i": 38,
+   "en": "Well, we all feel things differently"
+  },
+  {
+   "i": 39,
+   "en": "Eri? What was that 'I'm sorry' about?"
+  },
+  {
+   "i": 40,
+   "en": "Huh? Well..."
+  },
+  {
+   "i": 41,
+   "en": "You apologized earlier too, no?"
+  },
+  {
+   "i": 42,
+   "en": "Bowing your head on reflex is bad"
+  },
+  {
+   "i": 43,
+   "en": "Apologizing on reflex whenever"
+  },
+  {
+   "i": 44,
+   "en": "someone speaks is a bad habit"
+  },
+  {
+   "i": 45,
+   "en": "Apologizing right away... is bad?"
+  },
+  {
+   "i": 46,
+   "en": "Yes. Playing the villain is easy..."
+  },
+  {
+   "i": 47,
+   "en": "but it stunts your growth"
+  },
+  {
+   "i": 48,
+   "en": "Yes, ma'am... I'll be careful"
+  },
+  {
+   "i": 49,
+   "en": "As long as you understand"
+  },
+  {
+   "i": 50,
+   "en": "Um... President. I still..."
+  },
+  {
+   "i": 51,
+   "en": "Yes?"
+  },
+  {
+   "i": 52,
+   "en": "I don't want to look at the camera...."
+  },
+  {
+   "i": 53,
+   "en": "But the photographer wants me to"
+  },
+  {
+   "i": 54,
+   "en": "What do I do... at times like this?"
+  },
+  {
+   "i": 55,
+   "en": "Who knows? What SHOULD you do?"
+  },
+  {
+   "i": 56,
+   "en": "Try doing it your way, Eri"
+  },
+  {
+   "i": 57,
+   "en": "Huh?"
+  },
+  {
+   "i": 58,
+   "en": "You're free to do as you're told."
+  },
+  {
+   "i": 59,
+   "en": "Free to disobey, too"
+  },
+  {
+   "i": 60,
+   "en": "Show me your own answer"
+  },
+  {
+   "i": 61,
+   "en": "My own... answer..."
+  },
+  {
+   "i": 62,
+   "en": "Okay, Eri-chan! Eyes on the camera!"
+  },
+  {
+   "i": 63,
+   "en": "It's right in front of you!"
+  },
+  {
+   "i": 64,
+   "en": "Aaand pose!"
+  },
+  {
+   "i": 65,
+   "en": "The direction... I look..."
+  },
+  {
+   "i": 66,
+   "en": "Okay, got it!"
+  },
+  {
+   "i": 67,
+   "en": "Huh? It's okay?"
+  },
+  {
+   "i": 68,
+   "en": "Um, but I..."
+  },
+  {
+   "i": 69,
+   "en": "It's fine, it's fine! It's just a"
+  },
+  {
+   "i": 70,
+   "en": "flyer snap. Freestyle is okay"
+  },
+  {
+   "i": 71,
+   "en": "And your profile... how do I put it,"
+  },
+  {
+   "i": 72,
+   "en": "it had this clear, airy feel to it"
+  },
+  {
+   "i": 73,
+   "en": "O-Okay.... Thank you very much"
+  },
+  {
+   "i": 74,
+   "en": "Um... President"
+  },
+  {
+   "i": 75,
+   "en": "Sometimes nobody knows you"
+  },
+  {
+   "i": 76,
+   "en": "better than yourself"
+  },
+  {
+   "i": 77,
+   "en": "You just felt your profile would work?"
+  },
+  {
+   "i": 78,
+   "en": "Yes..."
+  },
+  {
+   "i": 79,
+   "en": "Ideally, you'd learn to bring this"
+  },
+  {
+   "i": 80,
+   "en": "up with the staff yourself, hm?"
+  },
+  {
+   "i": 81,
+   "en": "Understood?"
+  },
+  {
+   "i": 82,
+   "en": "Yes, ma'am!"
+  },
+  {
+   "i": 83,
+   "en": "Trusting my gut worked this time."
+  },
+  {
+   "i": 84,
+   "en": "Being photographed feels... new"
+  },
+  {
+   "i": 85,
+   "en": "Hmmm..."
+  },
+  {
+   "i": 86,
+   "en": "Still beats a forced camera stare"
+  },
+  {
+   "i": 87,
+   "en": "by a mile. Hahaha"
+  },
+  {
+   "i": 88,
+   "en": "R-Right... thank you for today"
+  },
+  {
+   "i": 89,
+   "en": "Only ever doing as you're told"
+  },
+  {
+   "i": 90,
+   "en": "makes you a robot"
+  },
+  {
+   "i": 91,
+   "en": "To shine, sometimes you must put"
+  },
+  {
+   "i": 92,
+   "en": "your own feelings out there"
+  },
+  {
+   "i": 93,
+   "en": "Y-Yes, ma'am!"
+  },
+  {
+   "i": 94,
+   "en": "Though there may have been an angle"
+  },
+  {
+   "i": 95,
+   "en": "that flattered that pretty face more"
+  },
+  {
+   "i": 96,
+   "en": "Study how you're photographed"
+  },
+  {
+   "i": 97,
+   "en": "I will..."
+  },
+  {
+   "i": 98,
+   "en": "I got the OK... but maybe another"
+  },
+  {
+   "i": 99,
+   "en": "angle would have been better..."
+  },
+  {
+   "i": 100,
+   "en": "U-Um..."
+  },
+  {
+   "i": 101,
+   "en": "Hmm, it's just not working"
+  },
+  {
+   "i": 102,
+   "en": "Let's take five, then shoot again"
+  },
+  {
+   "i": 103,
+   "en": "O-Okay..."
+  },
+  {
+   "i": 104,
+   "en": "President... it's not going well..."
+  },
+  {
+   "i": 105,
+   "en": "So I see. This could take a while"
+  },
+  {
+   "i": 106,
+   "en": "Eri. Sometimes voicing your"
+  },
+  {
+   "i": 107,
+   "en": "weakness is a valid move"
+  },
+  {
+   "i": 108,
+   "en": "Why not ask the photographer how"
+  },
+  {
+   "i": 109,
+   "en": "to make it work?"
+  },
+  {
+   "i": 110,
+   "en": "Ah..."
+  },
+  {
+   "i": 111,
+   "en": "All right. Here I go"
+  },
+  {
+   "i": 112,
+   "en": "I'll keep at it till I get the OK...."
+  },
+  {
+   "i": 113,
+   "en": "Having your picture taken is hard..."
+  },
+  {
+   "i": 114,
+   "en": "Wait... it's... already taken?"
+  },
+  {
+   "i": 115,
+   "en": "Hmm... you came out looking"
+  },
+  {
+   "i": 116,
+   "en": "a little lost there"
+  },
+  {
+   "i": 117,
+   "en": "I wanted a more natural expression"
+  },
+  {
+   "i": 118,
+   "en": "Let's break, then pick it back up"
+  },
+  {
+   "i": 119,
+   "en": "President, I couldn't do anything..."
+  },
+  {
+   "i": 120,
+   "en": "Couldn't follow directions, couldn't"
+  },
+  {
+   "i": 121,
+   "en": "decide for yourself either, hm"
+  },
+  {
+   "i": 122,
+   "en": "Start by picking one or the other"
+  },
+  {
+   "i": 123,
+   "en": "Spend today looking hard"
+  },
+  {
+   "i": 124,
+   "en": "at yourself"
+  },
+  {
+   "i": 125,
+   "en": "This is going to take a while."
+  },
+  {
+   "i": 126,
+   "en": "But... that's on me. Uu..."
+  }
+ ]
+}

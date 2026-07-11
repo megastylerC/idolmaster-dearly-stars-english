@@ -1,0 +1,434 @@
+{
+ "file": "F_TBL/SONGTABLE.BBQ",
+ "count": 108,
+ "lines": [
+  {
+   "i": 0,
+   "en": "Title: not set"
+  },
+  {
+   "i": 1,
+   "en": null
+  },
+  {
+   "i": 2,
+   "en": "Lyrics: not set"
+  },
+  {
+   "i": 3,
+   "en": "Music: not set"
+  },
+  {
+   "i": 4,
+   "en": "Desc 1: not set"
+  },
+  {
+   "i": 5,
+   "en": "Desc 2: not set"
+  },
+  {
+   "i": 6,
+   "en": "Desc 3: not set"
+  },
+  {
+   "i": 7,
+   "en": "Desc 4: not set"
+  },
+  {
+   "i": 8,
+   "en": "Desc 5: not set"
+  },
+  {
+   "i": 9,
+   "en": "Desc 6: not set"
+  },
+  {
+   "i": 10,
+   "en": "Desc 7: not set"
+  },
+  {
+   "i": 11,
+   "en": "NO DATA"
+  },
+  {
+   "i": 12,
+   "en": "“HELLO!!”"
+  },
+  {
+   "i": 13,
+   "en": "Lyrics: yura"
+  },
+  {
+   "i": 14,
+   "en": "Music: Satoru Kosaki"
+  },
+  {
+   "i": 15,
+   "en": "When you take on"
+  },
+  {
+   "i": 16,
+   "en": "something new,"
+  },
+  {
+   "i": 17,
+   "en": "start with a fresh"
+  },
+  {
+   "i": 18,
+   "en": "hello."
+  },
+  {
+   "i": 19,
+   "en": "A light, bouncy pop"
+  },
+  {
+   "i": 20,
+   "en": "number, perfect for"
+  },
+  {
+   "i": 21,
+   "en": "anyone starting out."
+  },
+  {
+   "i": 22,
+   "en": "ALIVE"
+  },
+  {
+   "i": 23,
+   "en": "Lyrics: mft"
+  },
+  {
+   "i": 24,
+   "en": "Music: Go Shiina"
+  },
+  {
+   "i": 25,
+   "en": "Living isn't easy,"
+  },
+  {
+   "i": 26,
+   "en": "but with someone"
+  },
+  {
+   "i": 27,
+   "en": "watching over you,"
+  },
+  {
+   "i": 28,
+   "en": "you can keep going."
+  },
+  {
+   "i": 29,
+   "en": "A grand ballad for"
+  },
+  {
+   "i": 30,
+   "en": "all who strive for"
+  },
+  {
+   "i": 31,
+   "en": "their day to shine."
+  },
+  {
+   "i": 32,
+   "en": "Precog"
+  },
+  {
+   "i": 33,
+   "en": "Lyrics: Fubito Endo"
+  },
+  {
+   "i": 34,
+   "en": "Music: Tetsuya Uchida"
+  },
+  {
+   "i": 35,
+   "en": "The future ahead is"
+  },
+  {
+   "i": 36,
+   "en": "a warm one."
+  },
+  {
+   "i": 37,
+   "en": "It's fine... you've"
+  },
+  {
+   "i": 38,
+   "en": "known all along."
+  },
+  {
+   "i": 39,
+   "en": "A stylish future-pop"
+  },
+  {
+   "i": 40,
+   "en": "tune racing on a"
+  },
+  {
+   "i": 41,
+   "en": "light, nimble beat."
+  },
+  {
+   "i": 42,
+   "en": "Dazzling World"
+  },
+  {
+   "i": 43,
+   "en": "Lyrics: Ryo Watanabe"
+  },
+  {
+   "i": 44,
+   "en": "Music: Ryo Watanabe"
+  },
+  {
+   "i": 45,
+   "en": "A world so wonderful"
+  },
+  {
+   "i": 46,
+   "en": "it dazzles."
+  },
+  {
+   "i": 47,
+   "en": "It feels that way"
+  },
+  {
+   "i": 48,
+   "en": "because you're here."
+  },
+  {
+   "i": 49,
+   "en": "Lovey-dovey disco"
+  },
+  {
+   "i": 50,
+   "en": "pop for two pushing"
+  },
+  {
+   "i": 51,
+   "en": "on, hand in hand."
+  },
+  {
+   "i": 52,
+   "en": "THE IDOLM@STER"
+  },
+  {
+   "i": 53,
+   "en": "THE IDOLM@ST"
+  },
+  {
+   "i": 54,
+   "en": "Lyrics: M. Nakamura"
+  },
+  {
+   "i": 55,
+   "en": "Music: Hiroto Sasaki"
+  },
+  {
+   "i": 56,
+   "en": "Stronger than anyone,"
+  },
+  {
+   "i": 57,
+   "en": "tougher, and shining"
+  },
+  {
+   "i": 58,
+   "en": "brighter than all..."
+  },
+  {
+   "i": 59,
+   "en": "A true-blue 'idol"
+  },
+  {
+   "i": 60,
+   "en": "song' singing of"
+  },
+  {
+   "i": 61,
+   "en": "just such an idol."
+  },
+  {
+   "i": 63,
+   "en": "GO MY WAY!!"
+  },
+  {
+   "i": 64,
+   "en": "Toward the future,"
+  },
+  {
+   "i": 65,
+   "en": "push ever onward!"
+  },
+  {
+   "i": 66,
+   "en": "And aim for the top!"
+  },
+  {
+   "i": 67,
+   "en": "Non-stop pop packed"
+  },
+  {
+   "i": 68,
+   "en": "with pure energy."
+  },
+  {
+   "i": 69,
+   "en": "shiny smile"
+  },
+  {
+   "i": 70,
+   "en": "Lyrics: Asahi Matsuri"
+  },
+  {
+   "i": 71,
+   "en": "Music: Yoshi"
+  },
+  {
+   "i": 72,
+   "en": "For your sake, I"
+  },
+  {
+   "i": 73,
+   "en": "want to always shine"
+  },
+  {
+   "i": 74,
+   "en": "and never let my"
+  },
+  {
+   "i": 75,
+   "en": "smile fade!"
+  },
+  {
+   "i": 76,
+   "en": "An up-tempo, sparkly"
+  },
+  {
+   "i": 77,
+   "en": "cheer-up song."
+  },
+  {
+   "i": 78,
+   "en": null
+  },
+  {
+   "i": 79,
+   "en": "Agent Yoru wo Yuku"
+  },
+  {
+   "i": 80,
+   "en": "Agent"
+  },
+  {
+   "i": 81,
+   "en": "Lyrics: LindaAI-CUE"
+  },
+  {
+   "i": 82,
+   "en": "Music: LindaAI-CUE"
+  },
+  {
+   "i": 83,
+   "en": "A strange being who"
+  },
+  {
+   "i": 84,
+   "en": "appears in the night"
+  },
+  {
+   "i": 85,
+   "en": "streets: the 'Agent.'"
+  },
+  {
+   "i": 86,
+   "en": "A song as bewitching"
+  },
+  {
+   "i": 87,
+   "en": "and mysterious as"
+  },
+  {
+   "i": 88,
+   "en": "that very being."
+  },
+  {
+   "i": 89,
+   "en": "relations"
+  },
+  {
+   "i": 90,
+   "en": "Music: Koji Nakagawa"
+  },
+  {
+   "i": 91,
+   "en": "You and me. You and"
+  },
+  {
+   "i": 92,
+   "en": "her... A hard number"
+  },
+  {
+   "i": 93,
+   "en": "about a woman's"
+  },
+  {
+   "i": 94,
+   "en": "grown-up love and"
+  },
+  {
+   "i": 95,
+   "en": "the anguish between."
+  },
+  {
+   "i": 96,
+   "en": "Kiramekirari"
+  },
+  {
+   "i": 97,
+   "en": "Rah-rah, go for it!!"
+  },
+  {
+   "i": 98,
+   "en": "Here we go♪"
+  },
+  {
+   "i": 99,
+   "en": "The best♪"
+  },
+  {
+   "i": 100,
+   "en": "A high-tension song"
+  },
+  {
+   "i": 101,
+   "en": "to cheer yourself on,"
+  },
+  {
+   "i": 102,
+   "en": "heart all aflutter."
+  },
+  {
+   "i": 103,
+   "en": "Dazzling World."
+  },
+  {
+   "i": 104,
+   "en": "Toward the future,"
+  },
+  {
+   "i": 105,
+   "en": "push ever onward!"
+  },
+  {
+   "i": 106,
+   "en": "Non-stop pop packed"
+  },
+  {
+   "i": 107,
+   "en": "with pure energy."
+  }
+ ]
+}

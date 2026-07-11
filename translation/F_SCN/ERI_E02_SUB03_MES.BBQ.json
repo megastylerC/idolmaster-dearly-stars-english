@@ -1,0 +1,582 @@
+{
+ "file": "F_SCN/ERI_E02_SUB03_MES.BBQ",
+ "count": 145,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Ai"
+  },
+  {
+   "i": 2,
+   "en": "Eri-san, do you know what 'hamo' is?"
+  },
+  {
+   "i": 3,
+   "en": "Eri"
+  },
+  {
+   "i": 4,
+   "en": "...'Hamo'?"
+  },
+  {
+   "i": 5,
+   "en": "Yeah! I just finished recording"
+  },
+  {
+   "i": 6,
+   "en": "my song, but..."
+  },
+  {
+   "i": 7,
+   "en": "now they're telling me to go"
+  },
+  {
+   "i": 8,
+   "en": "'record my hamo'!"
+  },
+  {
+   "i": 9,
+   "en": "What on earth is a hamo?!"
+  },
+  {
+   "i": 10,
+   "en": "'Hamo' is probably..."
+  },
+  {
+   "i": 11,
+   "en": "harmony?"
+  },
+  {
+   "i": 12,
+   "en": "Harmony...?"
+  },
+  {
+   "i": 13,
+   "en": "'Hamo,' short for harmony?"
+  },
+  {
+   "i": 14,
+   "en": "...Most likely"
+  },
+  {
+   "i": 15,
+   "en": "Which meeeans..."
+  },
+  {
+   "i": 16,
+   "en": "I'm recording my own harmony?"
+  },
+  {
+   "i": 17,
+   "en": "Yeah. Layering your own voice on"
+  },
+  {
+   "i": 18,
+   "en": "top... to harmonize?"
+  },
+  {
+   "i": 19,
+   "en": "Ohhh, so that's what it is!"
+  },
+  {
+   "i": 20,
+   "en": "Mystery solved!"
+  },
+  {
+   "i": 21,
+   "en": "Then I'm off to go"
+  },
+  {
+   "i": 22,
+   "en": "record my hamo!"
+  },
+  {
+   "i": 23,
+   "en": "Eri-san, I'm back..."
+  },
+  {
+   "i": 24,
+   "en": "Was I right... about hamo?"
+  },
+  {
+   "i": 25,
+   "en": "Yes, it was just like you said"
+  },
+  {
+   "i": 26,
+   "en": "But... the harmony recording"
+  },
+  {
+   "i": 27,
+   "en": "didn't go well at all..."
+  },
+  {
+   "i": 28,
+   "en": "harmonica?"
+  },
+  {
+   "i": 29,
+   "en": "A harmonica? Like, the instrument?"
+  },
+  {
+   "i": 30,
+   "en": "...Yeah. Most likely"
+  },
+  {
+   "i": 31,
+   "en": "Which means... I have to go play"
+  },
+  {
+   "i": 32,
+   "en": "the harmonica myself, don't I!"
+  },
+  {
+   "i": 33,
+   "en": "Hope I can do it. Never played one..."
+  },
+  {
+   "i": 34,
+   "en": "But I'll give it my best!"
+  },
+  {
+   "i": 35,
+   "en": "...Good luck"
+  },
+  {
+   "i": 36,
+   "en": "I'm baaack, Eri-san"
+  },
+  {
+   "i": 37,
+   "en": "How was it? The harmonica"
+  },
+  {
+   "i": 38,
+   "en": "Turns out hamo doesn't mean"
+  },
+  {
+   "i": 39,
+   "en": "harmonica at all"
+  },
+  {
+   "i": 40,
+   "en": "...the fish?"
+  },
+  {
+   "i": 41,
+   "en": "Whaaaat?! A FISH?!"
+  },
+  {
+   "i": 42,
+   "en": "Hamo is the name of a fish?!"
+  },
+  {
+   "i": 43,
+   "en": "Yeah. Long and thin, like an eel..."
+  },
+  {
+   "i": 44,
+   "en": "A pike conger. Luxury ingredient"
+  },
+  {
+   "i": 45,
+   "en": "So 'catching my hamo' means"
+  },
+  {
+   "i": 46,
+   "en": "I have to go catch that fish!"
+  },
+  {
+   "i": 47,
+   "en": "Okaaay! I'll catch a whole bunch!"
+  },
+  {
+   "i": 48,
+   "en": "Some for me AND some for you!"
+  },
+  {
+   "i": 49,
+   "en": "I'm back..."
+  },
+  {
+   "i": 50,
+   "en": "...Catch any hamo?"
+  },
+  {
+   "i": 51,
+   "en": "Eri-san, hamo doesn't mean the fish"
+  },
+  {
+   "i": 52,
+   "en": "...Huh?"
+  },
+  {
+   "i": 53,
+   "en": "Hamo is short for harmony. It meant"
+  },
+  {
+   "i": 54,
+   "en": "'record the chorus harmony part'"
+  },
+  {
+   "i": 55,
+   "en": "I see, harmony... So many hamos"
+  },
+  {
+   "i": 56,
+   "en": "So I tried singing the harmony,"
+  },
+  {
+   "i": 57,
+   "en": "and it went terribly..."
+  },
+  {
+   "i": 58,
+   "en": "...Is it hard?"
+  },
+  {
+   "i": 59,
+   "en": "SUPER hard!"
+  },
+  {
+   "i": 60,
+   "en": "Singing a different melody while"
+  },
+  {
+   "i": 61,
+   "en": "my own song plays in my ears?! No way!"
+  },
+  {
+   "i": 62,
+   "en": "My head's already a mess over home"
+  },
+  {
+   "i": 63,
+   "en": "stuff, and now it's a bigger mess..."
+  },
+  {
+   "i": 64,
+   "en": "...Home stuff?"
+  },
+  {
+   "i": 65,
+   "en": "Yeah. Things got a little rough"
+  },
+  {
+   "i": 66,
+   "en": "A mess, meaning..."
+  },
+  {
+   "i": 67,
+   "en": "trouble?"
+  },
+  {
+   "i": 68,
+   "en": "Yeah... something like that"
+  },
+  {
+   "i": 69,
+   "en": "family meltdown?"
+  },
+  {
+   "i": 70,
+   "en": "It's not THAT dramatic!"
+  },
+  {
+   "i": 71,
+   "en": "too messy?"
+  },
+  {
+   "i": 72,
+   "en": "Huh? Messy? You mean"
+  },
+  {
+   "i": 73,
+   "en": "my ROOM?!"
+  },
+  {
+   "i": 74,
+   "en": "Okay, it's not exactly tidy,"
+  },
+  {
+   "i": 75,
+   "en": "but that's not what I meant!"
+  },
+  {
+   "i": 76,
+   "en": "The mess is between me and my mama"
+  },
+  {
+   "i": 77,
+   "en": "Your mama..."
+  },
+  {
+   "i": 78,
+   "en": "Remember when Ryo-san beat us"
+  },
+  {
+   "i": 79,
+   "en": "at that audition?"
+  },
+  {
+   "i": 80,
+   "en": "Ever since, we keep getting into"
+  },
+  {
+   "i": 81,
+   "en": "fights about my future"
+  },
+  {
+   "i": 82,
+   "en": "I see..."
+  },
+  {
+   "i": 83,
+   "en": "Ai-chan has it rough too..."
+  },
+  {
+   "i": 84,
+   "en": "Take care of yourself... okay?"
+  },
+  {
+   "i": 85,
+   "en": "I will! Thank you!"
+  },
+  {
+   "i": 86,
+   "en": "Ozaki"
+  },
+  {
+   "i": 87,
+   "en": "Erii."
+  },
+  {
+   "i": 88,
+   "en": "Eri, got a moment?"
+  },
+  {
+   "i": 89,
+   "en": "Oh, Ms. Ozaki"
+  },
+  {
+   "i": 90,
+   "en": "I just spoke with the engineer..."
+  },
+  {
+   "i": 91,
+   "en": "Could you do Hidaka-san's chorus part?"
+  },
+  {
+   "i": 92,
+   "en": "Harmony... backup?"
+  },
+  {
+   "i": 93,
+   "en": "Yes. It seems Hidaka-san isn't"
+  },
+  {
+   "i": 94,
+   "en": "cut out for this sort of thing"
+  },
+  {
+   "i": 95,
+   "en": "...Okay. I'll do my best"
+  },
+  {
+   "i": 96,
+   "en": "I'm counting on you, Eri-san!"
+  },
+  {
+   "i": 97,
+   "en": "Then get in the studio, quick!"
+  },
+  {
+   "i": 98,
+   "en": "The chorus... How should I sing it?"
+  },
+  {
+   "i": 99,
+   "en": "As... as much as I can..."
+  },
+  {
+   "i": 100,
+   "en": "Precisely."
+  },
+  {
+   "i": 101,
+   "en": "Whatever else, don't miss the notes..."
+  },
+  {
+   "i": 102,
+   "en": "Standing by? Then let's hear it!"
+  },
+  {
+   "i": 103,
+   "en": "Good work, Eri"
+  },
+  {
+   "i": 104,
+   "en": "Phew.... Was that all right?"
+  },
+  {
+   "i": 105,
+   "en": "Yes. It was superb"
+  },
+  {
+   "i": 106,
+   "en": "Every note dead on pitch, like it"
+  },
+  {
+   "i": 107,
+   "en": "was measured. Wonderful precision"
+  },
+  {
+   "i": 108,
+   "en": "See, Eri? You're no bad singer"
+  },
+  {
+   "i": 109,
+   "en": "after all"
+  },
+  {
+   "i": 110,
+   "en": "Oh, I'm not..."
+  },
+  {
+   "i": 111,
+   "en": "Thank you so much, Eri-san!"
+  },
+  {
+   "i": 112,
+   "en": "Sure... I'm glad I could help"
+  },
+  {
+   "i": 113,
+   "en": "That gave me a little confidence."
+  },
+  {
+   "i": 114,
+   "en": "Maybe singing calm isn't so scary?"
+  },
+  {
+   "i": 115,
+   "en": "Energetically."
+  },
+  {
+   "i": 116,
+   "en": "So I don't get drowned out by Ai-chan"
+  },
+  {
+   "i": 117,
+   "en": "Ready? Then let's hear it"
+  },
+  {
+   "i": 118,
+   "en": "Um... how was it?"
+  },
+  {
+   "i": 119,
+   "en": "Your pitch wavered a bit too much."
+  },
+  {
+   "i": 120,
+   "en": "...Did you overdo it?"
+  },
+  {
+   "i": 121,
+   "en": "...A little"
+  },
+  {
+   "i": 122,
+   "en": "I thought so"
+  },
+  {
+   "i": 123,
+   "en": "Well, that much can be fixed"
+  },
+  {
+   "i": 124,
+   "en": "in the mixing"
+  },
+  {
+   "i": 125,
+   "en": "Eri-san, thank you so much!"
+  },
+  {
+   "i": 126,
+   "en": "Don't mention it. ...Koff, koff"
+  },
+  {
+   "i": 127,
+   "en": "A-Are you okay?!"
+  },
+  {
+   "i": 128,
+   "en": "Yeah..."
+  },
+  {
+   "i": 129,
+   "en": "My throat hurts.... But I managed"
+  },
+  {
+   "i": 130,
+   "en": "to pull it off, so it's fine"
+  },
+  {
+   "i": 131,
+   "en": "Quietly. So I don't get in"
+  },
+  {
+   "i": 132,
+   "en": "the main vocal's way..."
+  },
+  {
+   "i": 133,
+   "en": "All set? Then let's hear it"
+  },
+  {
+   "i": 134,
+   "en": "Your voice was too quiet"
+  },
+  {
+   "i": 135,
+   "en": "Uu... was it?"
+  },
+  {
+   "i": 136,
+   "en": "Your voice is soft already. Squeeze it"
+  },
+  {
+   "i": 137,
+   "en": "down more and it won't record clean"
+  },
+  {
+   "i": 138,
+   "en": "It's fine this time, but remember that"
+  },
+  {
+   "i": 139,
+   "en": "Eri-san, um, I'm sorry!"
+  },
+  {
+   "i": 140,
+   "en": "You got scolded because of me!"
+  },
+  {
+   "i": 141,
+   "en": "Don't worry about it...."
+  },
+  {
+   "i": 142,
+   "en": "I'm just not used to this..."
+  },
+  {
+   "i": 143,
+   "en": "I guess I didn't need to hold back."
+  },
+  {
+   "i": 144,
+   "en": "Chorus work... is hard"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "file": "F_SCN/ERI_F01_SUB02.BBQ",
+ "count": 11,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Park"
+  },
+  {
+   "i": 2,
+   "en": "About that\nbit part?"
+  },
+  {
+   "i": 3,
+   "en": "About that\nminor role?"
+  },
+  {
+   "i": 4,
+   "en": "About that\nnothing role?"
+  },
+  {
+   "i": 5,
+   "en": "I'm sorry"
+  },
+  {
+   "i": 6,
+   "en": "I'm sorry?"
+  },
+  {
+   "i": 7,
+   "en": "I'm escaping"
+  },
+  {
+   "i": 8,
+   "en": "Run without\na word"
+  },
+  {
+   "i": 9,
+   "en": "Just go\nand shout"
+  },
+  {
+   "i": 10,
+   "en": "Head back to\nthe office"
+  }
+ ]
+}

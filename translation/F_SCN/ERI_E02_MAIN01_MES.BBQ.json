@@ -1,0 +1,646 @@
+{
+ "file": "F_SCN/ERI_E02_MAIN01_MES.BBQ",
+ "count": 161,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Eri"
+  },
+  {
+   "i": 2,
+   "en": "Cineria. If something isn't selling..."
+  },
+  {
+   "i": 3,
+   "en": "how do you make it sell?"
+  },
+  {
+   "i": 4,
+   "en": "Cineria"
+  },
+  {
+   "i": 5,
+   "en": "Where'd THAT come from, senpai?"
+  },
+  {
+   "i": 6,
+   "en": "Is it a riddle?"
+  },
+  {
+   "i": 7,
+   "en": "No, for real. ...Think about it"
+  },
+  {
+   "i": 8,
+   "en": "You got it!"
+  },
+  {
+   "i": 9,
+   "en": "Yeah, a riddle"
+  },
+  {
+   "i": 10,
+   "en": "So it ends in some cheesy pun, right?"
+  },
+  {
+   "i": 11,
+   "en": "Hmmm, hmmm..."
+  },
+  {
+   "i": 12,
+   "en": "I got nothiiing. What's the answer?"
+  },
+  {
+   "i": 13,
+   "en": "You're supposed to KNOW..."
+  },
+  {
+   "i": 14,
+   "en": "Okay, forget the riddle part."
+  },
+  {
+   "i": 15,
+   "en": "...Just think about it?"
+  },
+  {
+   "i": 16,
+   "en": "Wait, are you seriously researching"
+  },
+  {
+   "i": 17,
+   "en": "how to sell stuff?"
+  },
+  {
+   "i": 18,
+   "en": "Yeah..."
+  },
+  {
+   "i": 19,
+   "en": "Then just SAY so from the start!"
+  },
+  {
+   "i": 20,
+   "en": "But senpai, 'selling stuff'..."
+  },
+  {
+   "i": 21,
+   "en": "You joining a flea market or what?"
+  },
+  {
+   "i": 22,
+   "en": "Or is it an auction?"
+  },
+  {
+   "i": 23,
+   "en": "Neither, actually..."
+  },
+  {
+   "i": 24,
+   "en": "??? Well, whatever, details details"
+  },
+  {
+   "i": 25,
+   "en": "So... about the how"
+  },
+  {
+   "i": 26,
+   "en": "Hmm, if it's not selling, that means"
+  },
+  {
+   "i": 27,
+   "en": "nobody's noticing it, right?"
+  },
+  {
+   "i": 28,
+   "en": "So first, you make sure everyone"
+  },
+  {
+   "i": 29,
+   "en": "KNOWS about it! ...How's that sound?"
+  },
+  {
+   "i": 30,
+   "en": "Make them know about it?"
+  },
+  {
+   "i": 31,
+   "en": "Yes!"
+  },
+  {
+   "i": 32,
+   "en": "Dunno what you're selling, but"
+  },
+  {
+   "i": 33,
+   "en": "why not advertise it on the net?"
+  },
+  {
+   "i": 34,
+   "en": "On the net... Specifically..."
+  },
+  {
+   "i": 35,
+   "en": "a banner?"
+  },
+  {
+   "i": 36,
+   "en": "Yes, exactly!"
+  },
+  {
+   "i": 37,
+   "en": "A banner would be perfect!"
+  },
+  {
+   "i": 38,
+   "en": "Get it posted all over, and people"
+  },
+  {
+   "i": 39,
+   "en": "can't help but see it!"
+  },
+  {
+   "i": 40,
+   "en": "A banner... If I asked my fans"
+  },
+  {
+   "i": 41,
+   "en": "online, they might post it for me!"
+  },
+  {
+   "i": 42,
+   "en": "a blog?"
+  },
+  {
+   "i": 43,
+   "en": "Ooh, yeah! That could work!"
+  },
+  {
+   "i": 44,
+   "en": "Your blog gets crazy traffic, so one"
+  },
+  {
+   "i": 45,
+   "en": "post could spread the word big time"
+  },
+  {
+   "i": 46,
+   "en": "Ah, but..."
+  },
+  {
+   "i": 47,
+   "en": "Something wrong?"
+  },
+  {
+   "i": 48,
+   "en": "If I blog it, Cineria will find out"
+  },
+  {
+   "i": 49,
+   "en": "I'm an idol outside the net..."
+  },
+  {
+   "i": 50,
+   "en": "Okay. I'll keep it in mind"
+  },
+  {
+   "i": 51,
+   "en": "a free download?"
+  },
+  {
+   "i": 52,
+   "en": "Huh? It's something you can stream?"
+  },
+  {
+   "i": 53,
+   "en": "I mean, it's possible, but..."
+  },
+  {
+   "i": 54,
+   "en": "Downloads are a teensy bit dangerous"
+  },
+  {
+   "i": 55,
+   "en": "Too many visitors crashes the site."
+  },
+  {
+   "i": 56,
+   "en": "And managing it is a NIGHTMARE"
+  },
+  {
+   "i": 57,
+   "en": "...Oh. Right, true"
+  },
+  {
+   "i": 58,
+   "en": "Making a promo banner and getting it"
+  },
+  {
+   "i": 59,
+   "en": "posted around is way easier"
+  },
+  {
+   "i": 60,
+   "en": "Ooh, and alsooo... spamming posts to"
+  },
+  {
+   "i": 61,
+   "en": "hype it up could totally work!"
+  },
+  {
+   "i": 62,
+   "en": "Hype it up?"
+  },
+  {
+   "i": 63,
+   "en": "Yes! You go around the boards"
+  },
+  {
+   "i": 64,
+   "en": "posting 'This is AMAZING!'"
+  },
+  {
+   "i": 65,
+   "en": "If it's sold online, you write"
+  },
+  {
+   "i": 66,
+   "en": "glowing reviews on the shop site!"
+  },
+  {
+   "i": 67,
+   "en": "...Do it too much, though, and they"
+  },
+  {
+   "i": 68,
+   "en": "call you a corporate shill!"
+  },
+  {
+   "i": 69,
+   "en": "Anyway, the trick is lighting fires"
+  },
+  {
+   "i": 70,
+   "en": "everywhere you can!"
+  },
+  {
+   "i": 71,
+   "en": "So... use the net to appeal"
+  },
+  {
+   "i": 72,
+   "en": "to people... right here?"
+  },
+  {
+   "i": 73,
+   "en": "Exactly! To sell something, you've"
+  },
+  {
+   "i": 74,
+   "en": "gotta shove it in front of eyes!"
+  },
+  {
+   "i": 75,
+   "en": "Keep it in their face, and SOMEbody"
+  },
+  {
+   "i": 76,
+   "en": "is bound to get interested!"
+  },
+  {
+   "i": 77,
+   "en": "Got it..."
+  },
+  {
+   "i": 78,
+   "en": "The point is... exposure."
+  },
+  {
+   "i": 79,
+   "en": "...I'll give it a try"
+  },
+  {
+   "i": 80,
+   "en": "Net promotion... that I can do!"
+  },
+  {
+   "i": 81,
+   "en": "I'll work behind Ms. Ozaki's back"
+  },
+  {
+   "i": 82,
+   "en": "Their head? Make them think, then buy?"
+  },
+  {
+   "i": 83,
+   "en": "Getting remembered is fine, but"
+  },
+  {
+   "i": 84,
+   "en": "making people think isn't so hot"
+  },
+  {
+   "i": 85,
+   "en": "Ah...... it kills the momentum?"
+  },
+  {
+   "i": 86,
+   "en": "Yup. The big spenders are the ones"
+  },
+  {
+   "i": 87,
+   "en": "who buy without thinking"
+  },
+  {
+   "i": 88,
+   "en": "Me too! I see something cute and"
+  },
+  {
+   "i": 89,
+   "en": "click, it's already bought!"
+  },
+  {
+   "i": 90,
+   "en": "Those are the people I have to move..."
+  },
+  {
+   "i": 91,
+   "en": "Okay. It sounds hard, but..."
+  },
+  {
+   "i": 92,
+   "en": "I'll try"
+  },
+  {
+   "i": 93,
+   "en": "Get people buying without thinking."
+  },
+  {
+   "i": 94,
+   "en": "...Let's test that on the net"
+  },
+  {
+   "i": 95,
+   "en": "Their heart? Like, shoot them right"
+  },
+  {
+   "i": 96,
+   "en": "through it, KAPOW?"
+  },
+  {
+   "i": 97,
+   "en": "Yeah. If I can't capture that..."
+  },
+  {
+   "i": 98,
+   "en": "they won't buy"
+  },
+  {
+   "i": 99,
+   "en": "You don't need anything that"
+  },
+  {
+   "i": 100,
+   "en": "complicated, honestly..."
+  },
+  {
+   "i": 101,
+   "en": "Huh?"
+  },
+  {
+   "i": 102,
+   "en": "Just scatter the info everywhere and"
+  },
+  {
+   "i": 103,
+   "en": "flash it nonstop. Way better, no?"
+  },
+  {
+   "i": 104,
+   "en": "Do that, and SOMEone will bite,"
+  },
+  {
+   "i": 105,
+   "en": "no matter what's inside!"
+  },
+  {
+   "i": 106,
+   "en": "Bite...?"
+  },
+  {
+   "i": 107,
+   "en": "Yup! I grab duds all the time"
+  },
+  {
+   "i": 108,
+   "en": "and regret it!"
+  },
+  {
+   "i": 109,
+   "en": "But then I go and buy again anyway!"
+  },
+  {
+   "i": 110,
+   "en": "Impulse buying is FUN!"
+  },
+  {
+   "i": 111,
+   "en": "Is that really how it works..."
+  },
+  {
+   "i": 112,
+   "en": "Yeah... okay. I'll try some things"
+  },
+  {
+   "i": 113,
+   "en": "Momentum over hearts? Anyway..."
+  },
+  {
+   "i": 114,
+   "en": "I'll promote in secret, on the net"
+  },
+  {
+   "i": 115,
+   "en": "Their ears? Let them HEAR the buzz?"
+  },
+  {
+   "i": 116,
+   "en": "Yeah. Word of mouth, from the net"
+  },
+  {
+   "i": 117,
+   "en": "Hmm, I wouldn't get my hopes up"
+  },
+  {
+   "i": 118,
+   "en": "on that one"
+  },
+  {
+   "i": 119,
+   "en": "...No?"
+  },
+  {
+   "i": 120,
+   "en": "Nope! Before a rumor spreads, people"
+  },
+  {
+   "i": 121,
+   "en": "already want the next new thing!"
+  },
+  {
+   "i": 122,
+   "en": "Flash it nonstop and let momentum do"
+  },
+  {
+   "i": 123,
+   "en": "the selling! That's the best way!"
+  },
+  {
+   "i": 124,
+   "en": "Just momentum..."
+  },
+  {
+   "i": 125,
+   "en": "Maybe that IS how it works."
+  },
+  {
+   "i": 126,
+   "en": "Okay... let me think it over"
+  },
+  {
+   "i": 127,
+   "en": "The slow, honest route looks hard."
+  },
+  {
+   "i": 128,
+   "en": "I need net-powered momentum"
+  },
+  {
+   "i": 129,
+   "en": "Huh? Senpai, how do you even"
+  },
+  {
+   "i": 130,
+   "en": "appeal to THAT?"
+  },
+  {
+   "i": 131,
+   "en": "...Impossible?"
+  },
+  {
+   "i": 132,
+   "en": "Probably, yeah..."
+  },
+  {
+   "i": 133,
+   "en": "Anyway, to sell, you show it off"
+  },
+  {
+   "i": 134,
+   "en": "nonstop till people WANT it!"
+  },
+  {
+   "i": 135,
+   "en": "...That's all it takes?"
+  },
+  {
+   "i": 136,
+   "en": "Yup! Me, I see something cute"
+  },
+  {
+   "i": 137,
+   "en": "and my finger's already clicking!"
+  },
+  {
+   "i": 138,
+   "en": "Get people hyped enough, and it'll"
+  },
+  {
+   "i": 139,
+   "en": "sell no matter what's inside!"
+  },
+  {
+   "i": 140,
+   "en": "I see..."
+  },
+  {
+   "i": 141,
+   "en": "It's sad, but maybe that's the truth."
+  },
+  {
+   "i": 142,
+   "en": "I have to use the net to sell..."
+  },
+  {
+   "i": 143,
+   "en": "Senpai? What's wrong?"
+  },
+  {
+   "i": 144,
+   "en": "Just... thinking about things..."
+  },
+  {
+   "i": 145,
+   "en": "It can't be... that simple?"
+  },
+  {
+   "i": 146,
+   "en": "Sure it can! Selling is all about"
+  },
+  {
+   "i": 147,
+   "en": "the eyes. EYES!"
+  },
+  {
+   "i": 148,
+   "en": "Yup! Flash it at them long enough"
+  },
+  {
+   "i": 149,
+   "en": "and the customers get brainwashed!"
+  },
+  {
+   "i": 150,
+   "en": "And then? Jackpot!"
+  },
+  {
+   "i": 151,
+   "en": "They'll buy stuff they don't even need"
+  },
+  {
+   "i": 152,
+   "en": "Stuff they don't need..."
+  },
+  {
+   "i": 153,
+   "en": "Hm? Did I say something"
+  },
+  {
+   "i": 154,
+   "en": "weird?"
+  },
+  {
+   "i": 155,
+   "en": "Not really..."
+  },
+  {
+   "i": 156,
+   "en": "I get... what you're saying."
+  },
+  {
+   "i": 157,
+   "en": "Let me think it over"
+  },
+  {
+   "i": 158,
+   "en": "Is my CD... something nobody needs?"
+  },
+  {
+   "i": 159,
+   "en": "No moping, though. One way or another"
+  },
+  {
+   "i": 160,
+   "en": "I'll sell every last copy I can"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "file": "F_TBL/IDOLTABLE.BBQ",
+ "count": 4,
+ "lines": [
+  {
+   "i": 0,
+   "en": "Name not set"
+  },
+  {
+   "i": 1,
+   "en": "Ai"
+  },
+  {
+   "i": 2,
+   "en": "Eri"
+  },
+  {
+   "i": 3,
+   "en": "Ryo"
+  }
+ ]
+}

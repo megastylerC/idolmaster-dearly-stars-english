@@ -1,0 +1,582 @@
+{
+ "file": "F_SCN/ERI_E01_SUB02_MES.BBQ",
+ "count": 145,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Eri"
+  },
+  {
+   "i": 2,
+   "en": "I'm singing... here on this street?"
+  },
+  {
+   "i": 3,
+   "en": "Ozaki"
+  },
+  {
+   "i": 4,
+   "en": "That's right. A bit forceful, maybe,"
+  },
+  {
+   "i": 5,
+   "en": "but this kind of PR matters too"
+  },
+  {
+   "i": 6,
+   "en": "A guerrilla live...."
+  },
+  {
+   "i": 7,
+   "en": "Am I..."
+  },
+  {
+   "i": 8,
+   "en": "a criminal?"
+  },
+  {
+   "i": 9,
+   "en": "Without a permit, you would be."
+  },
+  {
+   "i": 10,
+   "en": "...Does that worry you?"
+  },
+  {
+   "i": 11,
+   "en": "Yeah"
+  },
+  {
+   "i": 12,
+   "en": "I see... Well, don't worry"
+  },
+  {
+   "i": 13,
+   "en": "We got proper permission"
+  },
+  {
+   "i": 14,
+   "en": "Oh, good"
+  },
+  {
+   "i": 15,
+   "en": "Yes. So go sing with peace of mind"
+  },
+  {
+   "i": 16,
+   "en": "Okay!"
+  },
+  {
+   "i": 17,
+   "en": "a street performer?"
+  },
+  {
+   "i": 18,
+   "en": "Well, as promo work goes,"
+  },
+  {
+   "i": 19,
+   "en": "I suppose it's about the same"
+  },
+  {
+   "i": 20,
+   "en": "Should I breathe fire too?"
+  },
+  {
+   "i": 21,
+   "en": "Can you DO that?"
+  },
+  {
+   "i": 22,
+   "en": "........"
+  },
+  {
+   "i": 23,
+   "en": "...It'd be my first try"
+  },
+  {
+   "i": 24,
+   "en": "N-No need to force yourself."
+  },
+  {
+   "i": 25,
+   "en": "Just sing, normally"
+  },
+  {
+   "i": 26,
+   "en": "...Okay"
+  },
+  {
+   "i": 27,
+   "en": "a barker?"
+  },
+  {
+   "i": 28,
+   "en": "Not quite. Barkers pull people in;"
+  },
+  {
+   "i": 29,
+   "en": "we've got nowhere to take them..."
+  },
+  {
+   "i": 30,
+   "en": "...A CD shop?"
+  },
+  {
+   "i": 31,
+   "en": "Sing to them, march them along,"
+  },
+  {
+   "i": 32,
+   "en": "make them buy a CD?"
+  },
+  {
+   "i": 33,
+   "en": "...Probably"
+  },
+  {
+   "i": 34,
+   "en": "...That sounds a bit ambitious"
+  },
+  {
+   "i": 35,
+   "en": "For today, let's just sing"
+  },
+  {
+   "i": 36,
+   "en": "and do our PR"
+  },
+  {
+   "i": 37,
+   "en": "Okay... here I go, then"
+  },
+  {
+   "i": 38,
+   "en": "Good work, Eri"
+  },
+  {
+   "i": 39,
+   "en": "You sang all the way through."
+  },
+  {
+   "i": 40,
+   "en": "You did wonderfully"
+  },
+  {
+   "i": 41,
+   "en": "Huff... puff... huff...."
+  },
+  {
+   "i": 42,
+   "en": "Cough! Cough, cough!"
+  },
+  {
+   "i": 43,
+   "en": "What's wrong?!"
+  },
+  {
+   "i": 44,
+   "en": "Dust... I breathed in so much dust."
+  },
+  {
+   "i": 45,
+   "en": "I'm dizzy..."
+  },
+  {
+   "i": 46,
+   "en": "Ah..."
+  },
+  {
+   "i": 47,
+   "en": "SFX"
+  },
+  {
+   "i": 48,
+   "en": "―㌍THUD!"
+  },
+  {
+   "i": 49,
+   "en": "Eri! Hey!"
+  },
+  {
+   "i": 50,
+   "en": "Stay with me! Eri! Eriii!"
+  },
+  {
+   "i": 51,
+   "en": "Nn... ah..."
+  },
+  {
+   "i": 52,
+   "en": "Where..."
+  },
+  {
+   "i": 53,
+   "en": "You're awake?"
+  },
+  {
+   "i": 54,
+   "en": "Where... am I?"
+  },
+  {
+   "i": 55,
+   "en": "The office"
+  },
+  {
+   "i": 56,
+   "en": "Stay seated for a while."
+  },
+  {
+   "i": 57,
+   "en": "Don't push yourself"
+  },
+  {
+   "i": 58,
+   "en": "Okay..."
+  },
+  {
+   "i": 59,
+   "en": "Did you carry me all the way here?"
+  },
+  {
+   "i": 60,
+   "en": "I did"
+  },
+  {
+   "i": 61,
+   "en": "I see..."
+  },
+  {
+   "i": 62,
+   "en": "Thank you"
+  },
+  {
+   "i": 63,
+   "en": "Heh, no need to thank me"
+  },
+  {
+   "i": 64,
+   "en": "Backing you up when something happens"
+  },
+  {
+   "i": 65,
+   "en": "is my job, after all"
+  },
+  {
+   "i": 66,
+   "en": "I'm sorry"
+  },
+  {
+   "i": 67,
+   "en": "Nothing to apologize for. If anything,"
+  },
+  {
+   "i": 68,
+   "en": "I pushed you too hard..."
+  },
+  {
+   "i": 69,
+   "en": "The wind was pretty fierce today"
+  },
+  {
+   "i": 70,
+   "en": "Yeah... it was really whistling..."
+  },
+  {
+   "i": 71,
+   "en": "Good work out there"
+  },
+  {
+   "i": 72,
+   "en": "Eri? Careful with your phrasing, okay?"
+  },
+  {
+   "i": 73,
+   "en": "......Huh?"
+  },
+  {
+   "i": 74,
+   "en": "It's fine with me, but sometimes"
+  },
+  {
+   "i": 75,
+   "en": "'good work' can sound condescending"
+  },
+  {
+   "i": 76,
+   "en": "Ah... you're right"
+  },
+  {
+   "i": 77,
+   "en": "Okay... got it..."
+  },
+  {
+   "i": 78,
+   "en": "So, how are you feeling?"
+  },
+  {
+   "i": 79,
+   "en": "Still a little woozy, maybe..."
+  },
+  {
+   "i": 80,
+   "en": "The back of my head feels foggy..."
+  },
+  {
+   "i": 81,
+   "en": "I wonder if you have a fever..."
+  },
+  {
+   "i": 82,
+   "en": "Eri, show me your forehead"
+  },
+  {
+   "i": 83,
+   "en": "Huh? My forehead?"
+  },
+  {
+   "i": 84,
+   "en": "Yes, let's check your temperature"
+  },
+  {
+   "i": 85,
+   "en": "Come on, foreheads together"
+  },
+  {
+   "i": 86,
+   "en": "Uu... no one's ever done this for me"
+  },
+  {
+   "i": 87,
+   "en": "It's kind of embarrassing... okay"
+  },
+  {
+   "i": 88,
+   "en": "Mm, all right."
+  },
+  {
+   "i": 89,
+   "en": "No fever... it seems"
+  },
+  {
+   "i": 90,
+   "en": "Really? Thank goodness..."
+  },
+  {
+   "i": 91,
+   "en": "What is it?"
+  },
+  {
+   "i": 92,
+   "en": "N-Nothing..."
+  },
+  {
+   "i": 93,
+   "en": "Um..."
+  },
+  {
+   "i": 94,
+   "en": "Yes?"
+  },
+  {
+   "i": 95,
+   "en": "I'll keep working hard."
+  },
+  {
+   "i": 96,
+   "en": "And I won't collapse next time"
+  },
+  {
+   "i": 97,
+   "en": "Good. Let's keep at it"
+  },
+  {
+   "i": 98,
+   "en": "together"
+  },
+  {
+   "i": 99,
+   "en": "She was so gentle with me."
+  },
+  {
+   "i": 100,
+   "en": "And no fever. What a relief"
+  },
+  {
+   "i": 101,
+   "en": "Eri? I can't tell anything"
+  },
+  {
+   "i": 102,
+   "en": "in that split second..."
+  },
+  {
+   "i": 103,
+   "en": "Ah... uu... too quick?"
+  },
+  {
+   "i": 104,
+   "en": "It was just... embarrassing..."
+  },
+  {
+   "i": 105,
+   "en": "Well, from that brief touch,"
+  },
+  {
+   "i": 106,
+   "en": "you did seem fine..."
+  },
+  {
+   "i": 107,
+   "en": "Either way, keep resting a while"
+  },
+  {
+   "i": 108,
+   "en": "Get well soon, okay?"
+  },
+  {
+   "i": 109,
+   "en": "She couldn't really check my fever..."
+  },
+  {
+   "i": 110,
+   "en": "But it doesn't seem serious. I'm okay"
+  },
+  {
+   "i": 111,
+   "en": "Ow! Eri, what are you doing?"
+  },
+  {
+   "i": 112,
+   "en": "You'll flatten my nose..."
+  },
+  {
+   "i": 113,
+   "en": "Ah... I'm... sorry..."
+  },
+  {
+   "i": 114,
+   "en": "Is the fever throwing off"
+  },
+  {
+   "i": 115,
+   "en": "your aim?"
+  },
+  {
+   "i": 116,
+   "en": "Eri?! Why is your forehead"
+  },
+  {
+   "i": 117,
+   "en": "on my MOUTH...?"
+  },
+  {
+   "i": 118,
+   "en": "Oh... I slipped..."
+  },
+  {
+   "i": 119,
+   "en": "Are you okay? Did my rouge rub off?"
+  },
+  {
+   "i": 120,
+   "en": "Not sure... but I think I'm fine"
+  },
+  {
+   "i": 121,
+   "en": "Ahh! Eri, where's your head going..."
+  },
+  {
+   "i": 122,
+   "en": "Oh... wrong spot..."
+  },
+  {
+   "i": 123,
+   "en": "Y-You can't take a temperature"
+  },
+  {
+   "i": 124,
+   "en": "THERE, you know..."
+  },
+  {
+   "i": 125,
+   "en": "Wait, were you about to keel over?"
+  },
+  {
+   "i": 126,
+   "en": "Eri? That is NOT my forehead"
+  },
+  {
+   "i": 127,
+   "en": "Where are you putting your head..."
+  },
+  {
+   "i": 128,
+   "en": "Ahh... I missed..."
+  },
+  {
+   "i": 129,
+   "en": "Pull yourself together?"
+  },
+  {
+   "i": 130,
+   "en": "If you can't even manage this..."
+  },
+  {
+   "i": 131,
+   "en": "Is your body just not listening?"
+  },
+  {
+   "i": 132,
+   "en": "Eri? Can you hear me?"
+  },
+  {
+   "i": 133,
+   "en": "Eri? Eri, hello!"
+  },
+  {
+   "i": 134,
+   "en": "Eh... ah... yes..."
+  },
+  {
+   "i": 135,
+   "en": "What's wrong? You froze up"
+  },
+  {
+   "i": 136,
+   "en": "like a porcelain doll..."
+  },
+  {
+   "i": 137,
+   "en": "Is it... really bad?"
+  },
+  {
+   "i": 138,
+   "en": "No, I'm..."
+  },
+  {
+   "i": 139,
+   "en": "I'm worried..."
+  },
+  {
+   "i": 140,
+   "en": "I know. I'll go make you some soup."
+  },
+  {
+   "i": 141,
+   "en": "You stay put and rest"
+  },
+  {
+   "i": 142,
+   "en": "O-Okay..."
+  },
+  {
+   "i": 143,
+   "en": "I made her worry over nothing. I was"
+  },
+  {
+   "i": 144,
+   "en": "too shy to touch foreheads right..."
+  }
+ ]
+}

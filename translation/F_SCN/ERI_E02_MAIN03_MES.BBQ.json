@@ -1,0 +1,590 @@
+{
+ "file": "F_SCN/ERI_E02_MAIN03_MES.BBQ",
+ "count": 147,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Eri"
+  },
+  {
+   "i": 2,
+   "en": "My net campaign for the CD..."
+  },
+  {
+   "i": 3,
+   "en": "is nowhere near enough..."
+  },
+  {
+   "i": 4,
+   "en": "To get into a good audition..."
+  },
+  {
+   "i": 5,
+   "en": "it's time for a big push..."
+  },
+  {
+   "i": 6,
+   "en": "...Oh! That's right"
+  },
+  {
+   "i": 7,
+   "en": "I got messenger addresses from"
+  },
+  {
+   "i": 8,
+   "en": "a bunch of my fans, didn't I?"
+  },
+  {
+   "i": 9,
+   "en": "I've never chatted with anyone but"
+  },
+  {
+   "i": 10,
+   "en": "Cineria... and starting it myself..."
+  },
+  {
+   "i": 11,
+   "en": "SFX"
+  },
+  {
+   "i": 12,
+   "en": "―㌍Ding-dong, ding-dong"
+  },
+  {
+   "i": 13,
+   "en": "Fan 1>"
+  },
+  {
+   "i": 14,
+   "en": "U-Um, yes...? Who's this?"
+  },
+  {
+   "i": 15,
+   "en": "ELLIE>"
+  },
+  {
+   "i": 16,
+   "en": "Hello, this is ELLIE"
+  },
+  {
+   "i": 17,
+   "en": "Whoa, ELLIE?! THE net idol,"
+  },
+  {
+   "i": 18,
+   "en": "the great ELLIE-sama?!"
+  },
+  {
+   "i": 19,
+   "en": "Yes, that's me"
+  },
+  {
+   "i": 20,
+   "en": "Whoa, for real?! Getting a DM"
+  },
+  {
+   "i": 21,
+   "en": "straight from you?!"
+  },
+  {
+   "i": 22,
+   "en": "Actually, I have a favor to ask"
+  },
+  {
+   "i": 23,
+   "en": "Wh-What is it?"
+  },
+  {
+   "i": 24,
+   "en": "It's about this banner..."
+  },
+  {
+   "i": 25,
+   "en": "Can you pass it around?"
+  },
+  {
+   "i": 26,
+   "en": "Can you use it?"
+  },
+  {
+   "i": 27,
+   "en": "Will you take it?"
+  },
+  {
+   "i": 28,
+   "en": "S-Sure...."
+  },
+  {
+   "i": 29,
+   "en": "Wait, is this... a CD ad?!"
+  },
+  {
+   "i": 30,
+   "en": "Yes"
+  },
+  {
+   "i": 31,
+   "en": "ELLIE-sama, you put out"
+  },
+  {
+   "i": 32,
+   "en": "a CD?!"
+  },
+  {
+   "i": 33,
+   "en": "Understood! I'll spread the gospel"
+  },
+  {
+   "i": 34,
+   "en": "to the faithful and make it trend!"
+  },
+  {
+   "i": 35,
+   "en": "Thank you. Bye now"
+  },
+  {
+   "i": 36,
+   "en": "Having them hand it around beats"
+  },
+  {
+   "i": 37,
+   "en": "just posting it, right?"
+  },
+  {
+   "i": 38,
+   "en": "Keep it up... on to the next"
+  },
+  {
+   "i": 39,
+   "en": "You got it! I have a blog myself,"
+  },
+  {
+   "i": 40,
+   "en": "so I'll stick it there!"
+  },
+  {
+   "i": 41,
+   "en": "...Would asking them to pass it to"
+  },
+  {
+   "i": 42,
+   "en": "friends have worked better?"
+  },
+  {
+   "i": 43,
+   "en": "Too late now... isn't it."
+  },
+  {
+   "i": 44,
+   "en": "Regroup, and on to the next..."
+  },
+  {
+   "i": 45,
+   "en": "I had no idea!"
+  },
+  {
+   "i": 46,
+   "en": "I'm buying a copy myself!"
+  },
+  {
+   "i": 47,
+   "en": "Should I have asked them to post"
+  },
+  {
+   "i": 48,
+   "en": "the banner, not just take it?"
+  },
+  {
+   "i": 49,
+   "en": "But... being too pushy is..."
+  },
+  {
+   "i": 50,
+   "en": "No second-guessing. Next person"
+  },
+  {
+   "i": 51,
+   "en": "Fan 2>"
+  },
+  {
+   "i": 52,
+   "en": "Uh, yes...?"
+  },
+  {
+   "i": 53,
+   "en": "Hello, this is ELLIE"
+  },
+  {
+   "i": 54,
+   "en": "Whoa, ELLIE-sama?!"
+  },
+  {
+   "i": 55,
+   "en": "dude lolol, srsly?! IT'S HAPPENING!!!"
+  },
+  {
+   "i": 56,
+   "en": "I have a favor to ask"
+  },
+  {
+   "i": 57,
+   "en": "You once commented on my blog that"
+  },
+  {
+   "i": 58,
+   "en": "you post on the big boards a lot?"
+  },
+  {
+   "i": 59,
+   "en": "Yes!! I practically LIVE there!!!!"
+  },
+  {
+   "i": 60,
+   "en": "The thing is, I released a CD"
+  },
+  {
+   "i": 61,
+   "en": "and on that board..."
+  },
+  {
+   "i": 62,
+   "en": "Could you start a thread?"
+  },
+  {
+   "i": 63,
+   "en": "A thread? Consider it done!"
+  },
+  {
+   "i": 64,
+   "en": "Really? If you could... that'd help."
+  },
+  {
+   "i": 65,
+   "en": "The music board, ideally"
+  },
+  {
+   "i": 66,
+   "en": "I'd like to post there sometimes too"
+  },
+  {
+   "i": 67,
+   "en": "Roger that!"
+  },
+  {
+   "i": 68,
+   "en": "I'll make it the fan hangout spot"
+  },
+  {
+   "i": 69,
+   "en": "and get it BUZZING!!!!"
+  },
+  {
+   "i": 70,
+   "en": "Thank you. I'm counting on you"
+  },
+  {
+   "i": 71,
+   "en": "A thread with my name on the music"
+  },
+  {
+   "i": 72,
+   "en": "board... that would stand out"
+  },
+  {
+   "i": 73,
+   "en": "Can you spread the word?"
+  },
+  {
+   "i": 74,
+   "en": "Huh? A CD? For REAL?!"
+  },
+  {
+   "i": 75,
+   "en": "You don't even have to ask!"
+  },
+  {
+   "i": 76,
+   "en": "I'll copy-paste it"
+  },
+  {
+   "i": 77,
+   "en": "EVERYWHERE!!!!!!!"
+  },
+  {
+   "i": 78,
+   "en": "Too much copy-paste is... spamming?"
+  },
+  {
+   "i": 79,
+   "en": "But... it's out of my hands now"
+  },
+  {
+   "i": 80,
+   "en": "Can you make it blow up?"
+  },
+  {
+   "i": 81,
+   "en": "A full-on blowup... that's tough"
+  },
+  {
+   "i": 82,
+   "en": "Those need serious fuel dumped on"
+  },
+  {
+   "i": 83,
+   "en": "them, or they fizzle out..."
+  },
+  {
+   "i": 84,
+   "en": "I see..."
+  },
+  {
+   "i": 85,
+   "en": "But wait, a CD?! FOR REAL?!?!"
+  },
+  {
+   "i": 86,
+   "en": "Then I'm going around"
+  },
+  {
+   "i": 87,
+   "en": "posting EVERYWHERE!!!!!"
+  },
+  {
+   "i": 88,
+   "en": "A big blowup was... too much to ask"
+  },
+  {
+   "i": 89,
+   "en": "Still, maybe some eyes land on it"
+  },
+  {
+   "i": 90,
+   "en": "Okay... next person..."
+  },
+  {
+   "i": 91,
+   "en": "Cineria"
+  },
+  {
+   "i": 92,
+   "en": "Yes?"
+  },
+  {
+   "i": 93,
+   "en": "Wait... ELLIE-senpai?"
+  },
+  {
+   "i": 94,
+   "en": "Ah... Cineria..."
+  },
+  {
+   "i": 95,
+   "en": "Wrong contact..."
+  },
+  {
+   "i": 96,
+   "en": "What's up??? You've never once"
+  },
+  {
+   "i": 97,
+   "en": "messaged me first, ever"
+  },
+  {
+   "i": 98,
+   "en": "Need something from me?♪"
+  },
+  {
+   "i": 99,
+   "en": "What do I do...?"
+  },
+  {
+   "i": 100,
+   "en": "I can't tell her about idol stuff"
+  },
+  {
+   "i": 101,
+   "en": "Um... well... you see..."
+  },
+  {
+   "i": 102,
+   "en": "I'm testing the chat"
+  },
+  {
+   "i": 103,
+   "en": "Huh? Testing?"
+  },
+  {
+   "i": 104,
+   "en": "Yeah. The software updated, so I'm"
+  },
+  {
+   "i": 105,
+   "en": "checking that it works"
+  },
+  {
+   "i": 106,
+   "en": "Ohh, is THAT all!"
+  },
+  {
+   "i": 107,
+   "en": "All good! You're crystal clear♪"
+  },
+  {
+   "i": 108,
+   "en": "Good."
+  },
+  {
+   "i": 109,
+   "en": "Well... I'm busy right now. Later"
+  },
+  {
+   "i": 110,
+   "en": "Okay!"
+  },
+  {
+   "i": 111,
+   "en": "Phew... she didn't catch on..."
+  },
+  {
+   "i": 112,
+   "en": "I have to reach out to more people."
+  },
+  {
+   "i": 113,
+   "en": "Believing a big wave... will rise!"
+  },
+  {
+   "i": 114,
+   "en": "...You doing well?"
+  },
+  {
+   "i": 115,
+   "en": "Yep! Tera-well, even!"
+  },
+  {
+   "i": 116,
+   "en": "And seeing your face just now"
+  },
+  {
+   "i": 117,
+   "en": "made me even weller!"
+  },
+  {
+   "i": 118,
+   "en": "Good... Well, see you"
+  },
+  {
+   "i": 119,
+   "en": "Ah, wait! Senpai!"
+  },
+  {
+   "i": 120,
+   "en": "Since you're here, let's chat"
+  },
+  {
+   "i": 121,
+   "en": "a little longer!"
+  },
+  {
+   "i": 122,
+   "en": "O-Okay... just a little, then"
+  },
+  {
+   "i": 123,
+   "en": "So so so, senpaaai..."
+  },
+  {
+   "i": 124,
+   "en": "That's... enough, right? Bye now"
+  },
+  {
+   "i": 125,
+   "en": "...Ah!"
+  },
+  {
+   "i": 126,
+   "en": "Phew... I wasted so much time"
+  },
+  {
+   "i": 127,
+   "en": "But it's not too late...! I'll make"
+  },
+  {
+   "i": 128,
+   "en": "it up and raise that wave...!"
+  },
+  {
+   "i": 129,
+   "en": "I got the wrong person"
+  },
+  {
+   "i": 130,
+   "en": "The wrong person?"
+  },
+  {
+   "i": 131,
+   "en": "Yeah. I meant to message someone else"
+  },
+  {
+   "i": 132,
+   "en": "Someone ELSE? Senpaaai..."
+  },
+  {
+   "i": 133,
+   "en": "didn't you say I was your one"
+  },
+  {
+   "i": 134,
+   "en": "and only chat friend?"
+  },
+  {
+   "i": 135,
+   "en": "Uh... well..."
+  },
+  {
+   "i": 136,
+   "en": "What's going on??? Did you make"
+  },
+  {
+   "i": 137,
+   "en": "a new net-idol friend or what?!"
+  },
+  {
+   "i": 138,
+   "en": "SO MEAN! Am I all used up, headed"
+  },
+  {
+   "i": 139,
+   "en": "straight for the trash bin?!"
+  },
+  {
+   "i": 140,
+   "en": "That's not it..."
+  },
+  {
+   "i": 141,
+   "en": "Anyway... misunderstanding. Bye"
+  },
+  {
+   "i": 142,
+   "en": "Phew... worst excuse ever...."
+  },
+  {
+   "i": 143,
+   "en": "Did I hurt Cineria's feelings?"
+  },
+  {
+   "i": 144,
+   "en": "But there's no time to mope..."
+  },
+  {
+   "i": 145,
+   "en": "I'll contact every last person..."
+  },
+  {
+   "i": 146,
+   "en": "and get that wave rising somehow!"
+  }
+ ]
+}

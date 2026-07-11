@@ -1,0 +1,58 @@
+{
+ "file": "F_SCN/ERI_F01_OP01.BBQ",
+ "count": 14,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Office"
+  },
+  {
+   "i": 2,
+   "en": "Good\nmorning?"
+  },
+  {
+   "i": 3,
+   "en": "Hello?"
+  },
+  {
+   "i": 4,
+   "en": "Excuse me"
+  },
+  {
+   "i": 5,
+   "en": "Eri Mizutani"
+  },
+  {
+   "i": 6,
+   "en": "I'm\nELLIE"
+  },
+  {
+   "i": 7,
+   "en": "Still a\nnobody"
+  },
+  {
+   "i": 8,
+   "en": "Hi there"
+  },
+  {
+   "i": 9,
+   "en": "An honor to\nmeet you"
+  },
+  {
+   "i": 10,
+   "en": "...Eek!"
+  },
+  {
+   "i": 11,
+   "en": "Oily food...\nnot for me"
+  },
+  {
+   "i": 12,
+   "en": "You're\nreally cute"
+  },
+  {
+   "i": 13,
+   "en": "About air\npollution"
+  }
+ ]
+}

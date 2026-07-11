@@ -1,0 +1,34 @@
+{
+ "file": "F_SCN/ERI_F01_MAIN03.BBQ",
+ "count": 8,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Mizutani House"
+  },
+  {
+   "i": 2,
+   "en": "There's a\nwedding"
+  },
+  {
+   "i": 3,
+   "en": "There's a\nfuneral"
+  },
+  {
+   "i": 4,
+   "en": "Coming-of-age\nceremony"
+  },
+  {
+   "i": 5,
+   "en": "Karaoke\nvictory guide"
+  },
+  {
+   "i": 6,
+   "en": "Keep looking"
+  },
+  {
+   "i": 7,
+   "en": "Stage fright\nbootcamp"
+  }
+ ]
+}

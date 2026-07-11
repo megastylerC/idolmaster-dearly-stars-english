@@ -1,0 +1,30 @@
+{
+ "file": "F_TBL/ML_ERI_E01_MAIL01.BBQ",
+ "count": 7,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Eri-chan, there's a little"
+  },
+  {
+   "i": 2,
+   "en": "something I want to ask you!"
+  },
+  {
+   "i": 3,
+   "en": "If you feel up to advising me,"
+  },
+  {
+   "i": 4,
+   "en": "please send me a reply."
+  },
+  {
+   "i": 5,
+   "en": "Understood."
+  },
+  {
+   "i": 6,
+   "en": "Can you tell me the details?"
+  }
+ ]
+}

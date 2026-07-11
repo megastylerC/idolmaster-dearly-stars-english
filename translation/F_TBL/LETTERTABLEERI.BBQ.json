@@ -1,0 +1,574 @@
+{
+ "file": "F_TBL/LETTERTABLEERI.BBQ",
+ "count": 143,
+ "lines": [
+  {
+   "i": 0,
+   "en": "(Not set)"
+  },
+  {
+   "i": 2,
+   "en": "Eri's Fan Letters"
+  },
+  {
+   "i": 3,
+   "en": "Cute Eri-chan makes"
+  },
+  {
+   "i": 4,
+   "en": "my head spin♪"
+  },
+  {
+   "i": 5,
+   "en": "Keep at it~!"
+  },
+  {
+   "i": 6,
+   "en": "   Tokushima/Yamamomo"
+  },
+  {
+   "i": 7,
+   "en": "So jealous you're good"
+  },
+  {
+   "i": 8,
+   "en": "with PCs! Someday I"
+  },
+  {
+   "i": 9,
+   "en": "want my own website..."
+  },
+  {
+   "i": 10,
+   "en": "      Kagawa/Olive"
+  },
+  {
+   "i": 11,
+   "en": "Spotted you in the"
+  },
+  {
+   "i": 12,
+   "en": "electronics district!"
+  },
+  {
+   "i": 13,
+   "en": "Even cuter in person!"
+  },
+  {
+   "i": 14,
+   "en": "      Ehime/Citrus"
+  },
+  {
+   "i": 15,
+   "en": "The gap between your"
+  },
+  {
+   "i": 16,
+   "en": "singing and real self"
+  },
+  {
+   "i": 17,
+   "en": "is the best! Eri LOVE!"
+  },
+  {
+   "i": 18,
+   "en": "      Kochi/Yanasesu"
+  },
+  {
+   "i": 19,
+   "en": "An idol, yet somehow"
+  },
+  {
+   "i": 20,
+   "en": "artistic. Stay true to"
+  },
+  {
+   "i": 21,
+   "en": "yourself, Eri-san!"
+  },
+  {
+   "i": 22,
+   "en": "      Fukuoka/Plum"
+  },
+  {
+   "i": 23,
+   "en": "You've got such a"
+  },
+  {
+   "i": 24,
+   "en": "great figure, so tall"
+  },
+  {
+   "i": 25,
+   "en": "and slim. My idol!♪"
+  },
+  {
+   "i": 26,
+   "en": "      Saga/Kusunoki"
+  },
+  {
+   "i": 27,
+   "en": "My bro won't shut up"
+  },
+  {
+   "i": 28,
+   "en": "about 'Eri-tan moe~'"
+  },
+  {
+   "i": 29,
+   "en": "But I like your CD♪"
+  },
+  {
+   "i": 30,
+   "en": "     Kyoto/Shidakura"
+  },
+  {
+   "i": 31,
+   "en": "Our whole family are"
+  },
+  {
+   "i": 32,
+   "en": "fans, Eri-chan. Take"
+  },
+  {
+   "i": 33,
+   "en": "care and do your best!"
+  },
+  {
+   "i": 34,
+   "en": "     Kumamoto/Rindo"
+  },
+  {
+   "i": 35,
+   "en": "Any chance thou shalt"
+  },
+  {
+   "i": 36,
+   "en": "sing game/anime songs?"
+  },
+  {
+   "i": 37,
+   "en": "Pretty please~!"
+  },
+  {
+   "i": 38,
+   "en": "      Osaka/MOZU"
+  },
+  {
+   "i": 39,
+   "en": "The 'Eri stance' is"
+  },
+  {
+   "i": 40,
+   "en": "big at our meetups!"
+  },
+  {
+   "i": 41,
+   "en": "Such a sharp pose♪"
+  },
+  {
+   "i": 42,
+   "en": "  Miyazaki/Phoenix"
+  },
+  {
+   "i": 43,
+   "en": "You look deadpan, but"
+  },
+  {
+   "i": 44,
+   "en": "you're so sensitive"
+  },
+  {
+   "i": 45,
+   "en": "inside. I know it!"
+  },
+  {
+   "i": 46,
+   "en": " Kagoshima/Kaikoos"
+  },
+  {
+   "i": 47,
+   "en": "Singing, or nervous"
+  },
+  {
+   "i": 48,
+   "en": "during talks... I love"
+  },
+  {
+   "i": 49,
+   "en": "both Eri-sans♪"
+  },
+  {
+   "i": 50,
+   "en": "    Okinawa/I-LOVE"
+  },
+  {
+   "i": 51,
+   "en": "Do you believe in"
+  },
+  {
+   "i": 52,
+   "en": "fortunes? Ours says"
+  },
+  {
+   "i": 53,
+   "en": "we're a perfect match!"
+  },
+  {
+   "i": 54,
+   "en": "    Hokkaido/Hamaan"
+  },
+  {
+   "i": 55,
+   "en": "Your songs, your"
+  },
+  {
+   "i": 56,
+   "en": "gestures, I love it"
+  },
+  {
+   "i": 57,
+   "en": "all! Keep going!"
+  },
+  {
+   "i": 58,
+   "en": "     Aomori/Hakucho"
+  },
+  {
+   "i": 59,
+   "en": "I met my PC-geek"
+  },
+  {
+   "i": 60,
+   "en": "boyfriend through your"
+  },
+  {
+   "i": 61,
+   "en": "song. We both cheer♪"
+  },
+  {
+   "i": 62,
+   "en": "      Iwate/Ki☆ji"
+  },
+  {
+   "i": 63,
+   "en": "Went to your live,"
+  },
+  {
+   "i": 64,
+   "en": "Eri-sama! It was SO"
+  },
+  {
+   "i": 65,
+   "en": "good! I'll be back~!"
+  },
+  {
+   "i": 66,
+   "en": "    Miyagi/Myahagi"
+  },
+  {
+   "i": 67,
+   "en": "I bought the same PC"
+  },
+  {
+   "i": 68,
+   "en": "model you use."
+  },
+  {
+   "i": 69,
+   "en": "Feeling blessed♪"
+  },
+  {
+   "i": 70,
+   "en": "     Akita/Tonburi"
+  },
+  {
+   "i": 71,
+   "en": "Teary-eyed Eri-chan..."
+  },
+  {
+   "i": 72,
+   "en": "I know it's wrong,"
+  },
+  {
+   "i": 73,
+   "en": "but... so moe......"
+  },
+  {
+   "i": 74,
+   "en": "    Yamagata/Mittsu"
+  },
+  {
+   "i": 75,
+   "en": "No poser, you're"
+  },
+  {
+   "i": 76,
+   "en": "really good with PCs."
+  },
+  {
+   "i": 77,
+   "en": "Love that about you♪"
+  },
+  {
+   "i": 78,
+   "en": "    Fukushima/MOMO"
+  },
+  {
+   "i": 79,
+   "en": "Your honest singing"
+  },
+  {
+   "i": 80,
+   "en": "voice always heals me."
+  },
+  {
+   "i": 81,
+   "en": "Still waters within..."
+  },
+  {
+   "i": 82,
+   "en": "     Ibaraki/Hibari"
+  },
+  {
+   "i": 83,
+   "en": "Heard the 'my waifu'"
+  },
+  {
+   "i": 84,
+   "en": "posts online bother"
+  },
+  {
+   "i": 85,
+   "en": "you. Don't lose heart!"
+  },
+  {
+   "i": 86,
+   "en": "   Tokyo/Nagashiman"
+  },
+  {
+   "i": 87,
+   "en": "Any interest in online"
+  },
+  {
+   "i": 88,
+   "en": "games, Eri-san? Quite"
+  },
+  {
+   "i": 89,
+   "en": "fun, you know~!"
+  },
+  {
+   "i": 90,
+   "en": "    Gunma/Shinnosu"
+  },
+  {
+   "i": 91,
+   "en": "They say a new game's"
+  },
+  {
+   "i": 92,
+   "en": "heroine looks just"
+  },
+  {
+   "i": 93,
+   "en": "like you. Dev fans?"
+  },
+  {
+   "i": 94,
+   "en": "      Tokyo/Icho"
+  },
+  {
+   "i": 95,
+   "en": "Only '-san' suits"
+  },
+  {
+   "i": 96,
+   "en": "Eri-san properly."
+  },
+  {
+   "i": 97,
+   "en": "Is that just me?"
+  },
+  {
+   "i": 98,
+   "en": "   Saitama/Gotchan"
+  },
+  {
+   "i": 99,
+   "en": "Ai-chan's the sister,"
+  },
+  {
+   "i": 100,
+   "en": "Ryo-san's the big sis,"
+  },
+  {
+   "i": 101,
+   "en": "Eri-san's the wife!"
+  },
+  {
+   "i": 102,
+   "en": "     Chiba/NANOhana"
+  },
+  {
+   "i": 103,
+   "en": "Always looking forward"
+  },
+  {
+   "i": 104,
+   "en": "to your blog updates."
+  },
+  {
+   "i": 105,
+   "en": "Don't overdo it, okay?"
+  },
+  {
+   "i": 106,
+   "en": "     Tokyo/Kotchi"
+  },
+  {
+   "i": 107,
+   "en": "You may not say much,"
+  },
+  {
+   "i": 108,
+   "en": "Eri-chan, but your"
+  },
+  {
+   "i": 109,
+   "en": "kindness gets through."
+  },
+  {
+   "i": 110,
+   "en": "   Kanagawa/Queen Bee"
+  },
+  {
+   "i": 111,
+   "en": "A net idol's debut"
+  },
+  {
+   "i": 112,
+   "en": "into the real world!"
+  },
+  {
+   "i": 113,
+   "en": "It's tough, but go go!"
+  },
+  {
+   "i": 114,
+   "en": " Yamanashi/Spring☆Bird"
+  },
+  {
+   "i": 115,
+   "en": "Your songs soak right"
+  },
+  {
+   "i": 116,
+   "en": "into my heart, gentle"
+  },
+  {
+   "i": 117,
+   "en": "and comforting......"
+  },
+  {
+   "i": 118,
+   "en": "   Niigata/Tulip"
+  },
+  {
+   "i": 119,
+   "en": "My virus-ridden PC got"
+  },
+  {
+   "i": 120,
+   "en": "fixed by your song."
+  },
+  {
+   "i": 121,
+   "en": "It really happened!"
+  },
+  {
+   "i": 122,
+   "en": "     Toyama/Raicho"
+  },
+  {
+   "i": 123,
+   "en": "A date with few words."
+  },
+  {
+   "i": 124,
+   "en": "But surely that's a"
+  },
+  {
+   "i": 125,
+   "en": "comfortable silence..."
+  },
+  {
+   "i": 126,
+   "en": "    Ishikawa/Nocchi"
+  },
+  {
+   "i": 127,
+   "en": "On the net late at"
+  },
+  {
+   "i": 128,
+   "en": "night, I feel linked"
+  },
+  {
+   "i": 129,
+   "en": "to you, Eri-san......"
+  },
+  {
+   "i": 130,
+   "en": "Kanagawa/LettucePatch"
+  },
+  {
+   "i": 131,
+   "en": "How can I get as"
+  },
+  {
+   "i": 132,
+   "en": "pretty as you are,"
+  },
+  {
+   "i": 133,
+   "en": "Eri-chan? So jealous."
+  },
+  {
+   "i": 134,
+   "en": "     Nagano/Nikota"
+  },
+  {
+   "i": 135,
+   "en": "Your crystal-clear"
+  },
+  {
+   "i": 136,
+   "en": "voice brings tears to"
+  },
+  {
+   "i": 137,
+   "en": "my eyes. Cheering you!"
+  },
+  {
+   "i": 138,
+   "en": "      Tokyo/Miiyu"
+  },
+  {
+   "i": 139,
+   "en": "E  ver smiling,"
+  },
+  {
+   "i": 140,
+   "en": "R  elaxed and easy,"
+  },
+  {
+   "i": 141,
+   "en": "I  n your own way!"
+  },
+  {
+   "i": 142,
+   "en": " Aichi/Kuruma-EBI"
+  }
+ ]
+}

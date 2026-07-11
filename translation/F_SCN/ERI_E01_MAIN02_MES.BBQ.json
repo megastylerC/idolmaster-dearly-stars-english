@@ -1,0 +1,734 @@
+{
+ "file": "F_SCN/ERI_E01_MAIN02_MES.BBQ",
+ "count": 183,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Narration"
+  },
+  {
+   "i": 2,
+   "en": "Room Master: ELLIE"
+  },
+  {
+   "i": 3,
+   "en": "Enter: CINERIA"
+  },
+  {
+   "i": 4,
+   "en": "Cineria"
+  },
+  {
+   "i": 5,
+   "en": "Seeenpai, hello-woof-woof♪"
+  },
+  {
+   "i": 6,
+   "en": "Eri"
+  },
+  {
+   "i": 7,
+   "en": "........"
+  },
+  {
+   "i": 8,
+   "en": "What's wrong?"
+  },
+  {
+   "i": 9,
+   "en": "Feeling kinda blue again?"
+  },
+  {
+   "i": 10,
+   "en": "It's nothing..."
+  },
+  {
+   "i": 11,
+   "en": "You've been on a real up-and-down"
+  },
+  {
+   "i": 12,
+   "en": "rollercoaster lately, y'know?"
+  },
+  {
+   "i": 13,
+   "en": "All smiley-smiley one day, then"
+  },
+  {
+   "i": 14,
+   "en": "KA-BOOM, all gloomy the next..."
+  },
+  {
+   "i": 15,
+   "en": "The old you was way more"
+  },
+  {
+   "i": 16,
+   "en": "chill, wasn't she?"
+  },
+  {
+   "i": 17,
+   "en": "So? What's bugging you?"
+  },
+  {
+   "i": 18,
+   "en": "C'mon, spill it!"
+  },
+  {
+   "i": 19,
+   "en": "Well, the truth is..."
+  },
+  {
+   "i": 20,
+   "en": "mankind is in danger"
+  },
+  {
+   "i": 21,
+   "en": "Whaaat, for realsies?!"
+  },
+  {
+   "i": 22,
+   "en": "In danger from WHO?"
+  },
+  {
+   "i": 23,
+   "en": "From..."
+  },
+  {
+   "i": 24,
+   "en": "...Cineria?"
+  },
+  {
+   "i": 25,
+   "en": "W-Why would it be MEEE?!"
+  },
+  {
+   "i": 26,
+   "en": "...Heehee"
+  },
+  {
+   "i": 27,
+   "en": "Ahh, you fibbed! Geez!"
+  },
+  {
+   "i": 28,
+   "en": "Well, if you can crack jokes,"
+  },
+  {
+   "i": 29,
+   "en": "I guess you're okay"
+  },
+  {
+   "i": 30,
+   "en": "my PC broke"
+  },
+  {
+   "i": 31,
+   "en": "Huh? Seriously?"
+  },
+  {
+   "i": 32,
+   "en": "That's rough..."
+  },
+  {
+   "i": 33,
+   "en": "Repairs take forever, too..."
+  },
+  {
+   "i": 34,
+   "en": "Wait. Senpai, if your PC is broken,"
+  },
+  {
+   "i": 35,
+   "en": "how are you chatting with me?!"
+  },
+  {
+   "i": 36,
+   "en": "Ah......"
+  },
+  {
+   "i": 37,
+   "en": "...It healed itself?"
+  },
+  {
+   "i": 38,
+   "en": "That makes NO sense!"
+  },
+  {
+   "i": 39,
+   "en": "Oh! You fibbed 'cause you don't"
+  },
+  {
+   "i": 40,
+   "en": "wanna say what's wrong, huh?"
+  },
+  {
+   "i": 41,
+   "en": "...Sorry"
+  },
+  {
+   "i": 42,
+   "en": "Well, if you're up to weird gags,"
+  },
+  {
+   "i": 43,
+   "en": "I guess you're okay"
+  },
+  {
+   "i": 44,
+   "en": "I can't really say..."
+  },
+  {
+   "i": 45,
+   "en": "Senpaaai, that's cold!"
+  },
+  {
+   "i": 46,
+   "en": "After all we've been through?"
+  },
+  {
+   "i": 47,
+   "en": "C'mon, tell me!"
+  },
+  {
+   "i": 48,
+   "en": "...I'm sorry, Cineria"
+  },
+  {
+   "i": 49,
+   "en": "Aww, no dice, huh..."
+  },
+  {
+   "i": 50,
+   "en": "Fine, I won't pry."
+  },
+  {
+   "i": 51,
+   "en": "I'm a teensy bit hurt, though..."
+  },
+  {
+   "i": 52,
+   "en": "Hey, Cineria."
+  },
+  {
+   "i": 53,
+   "en": "I've been thinking..."
+  },
+  {
+   "i": 54,
+   "en": "Hm? About what?"
+  },
+  {
+   "i": 55,
+   "en": "Wherever there's a winner, there's"
+  },
+  {
+   "i": 56,
+   "en": "always a loser somewhere, isn't there"
+  },
+  {
+   "i": 57,
+   "en": "A loser...?"
+  },
+  {
+   "i": 58,
+   "en": "Wh-Where'd THAT come from?"
+  },
+  {
+   "i": 59,
+   "en": "Doing net-idol stuff, you end up"
+  },
+  {
+   "i": 60,
+   "en": "competing over video hits, right?"
+  },
+  {
+   "i": 61,
+   "en": "Yup. Checking the rankings always"
+  },
+  {
+   "i": 62,
+   "en": "gets my heart pounding"
+  },
+  {
+   "i": 63,
+   "en": "When I'm on top, behind the scenes"
+  },
+  {
+   "i": 64,
+   "en": "there are lots of people sad they lost"
+  },
+  {
+   "i": 65,
+   "en": "Well, yeah"
+  },
+  {
+   "i": 66,
+   "en": "Being aware of those people or not..."
+  },
+  {
+   "i": 67,
+   "en": "it makes a huge difference..."
+  },
+  {
+   "i": 68,
+   "en": "I never had to see them before"
+  },
+  {
+   "i": 69,
+   "en": "Senpaaai... you've been staring at a"
+  },
+  {
+   "i": 70,
+   "en": "loser this whole time, y'know?"
+  },
+  {
+   "i": 71,
+   "en": "Huh?"
+  },
+  {
+   "i": 72,
+   "en": "She's right beside you! A poor"
+  },
+  {
+   "i": 73,
+   "en": "little lamb who always loses to you"
+  },
+  {
+   "i": 74,
+   "en": "A little lamb...? Where?"
+  },
+  {
+   "i": 75,
+   "en": "She's there! Look closely"
+  },
+  {
+   "i": 76,
+   "en": "Come ooon, where could she be?"
+  },
+  {
+   "i": 77,
+   "en": "Here?"
+  },
+  {
+   "i": 78,
+   "en": "Yep, yep! The poor little lambie-lamb"
+  },
+  {
+   "i": 79,
+   "en": "Lamb chop♪"
+  },
+  {
+   "i": 80,
+   "en": "I wish everyone bounced back"
+  },
+  {
+   "i": 81,
+   "en": "as well as you do, Cineria"
+  },
+  {
+   "i": 82,
+   "en": "Hey, I'm not actually"
+  },
+  {
+   "i": 83,
+   "en": "all that tough, y'know!"
+  },
+  {
+   "i": 84,
+   "en": "It just doesn't sting when the one"
+  },
+  {
+   "i": 85,
+   "en": "beating me is you, senpai♪"
+  },
+  {
+   "i": 86,
+   "en": "Ah, it was hiding here..."
+  },
+  {
+   "i": 87,
+   "en": "Whaaat? A little lamb, in THAT"
+  },
+  {
+   "i": 88,
+   "en": "corner of my room?"
+  },
+  {
+   "i": 89,
+   "en": "As if! There's no lamb there!"
+  },
+  {
+   "i": 90,
+   "en": "Senpaaai..."
+  },
+  {
+   "i": 91,
+   "en": "Geez, you totally know what I mean."
+  },
+  {
+   "i": 92,
+   "en": "You big meanie..."
+  },
+  {
+   "i": 93,
+   "en": "I don't see one..."
+  },
+  {
+   "i": 94,
+   "en": "No way, she's right there!"
+  },
+  {
+   "i": 95,
+   "en": "Looook, here! Right here!"
+  },
+  {
+   "i": 96,
+   "en": "Wait... you mean you, Cineria?"
+  },
+  {
+   "i": 97,
+   "en": "Yep, yep♪"
+  },
+  {
+   "i": 98,
+   "en": "Cineria... no matter how I look at"
+  },
+  {
+   "i": 99,
+   "en": "you, you're no little lamb"
+  },
+  {
+   "i": 100,
+   "en": "Am too!"
+  },
+  {
+   "i": 101,
+   "en": "You just don't know my fragile,"
+  },
+  {
+   "i": 102,
+   "en": "delicate little heart!"
+  },
+  {
+   "i": 103,
+   "en": "Cineria aside..."
+  },
+  {
+   "i": 104,
+   "en": "the more you know someone..."
+  },
+  {
+   "i": 105,
+   "en": "the harder it is to compete..."
+  },
+  {
+   "i": 106,
+   "en": "Hmm, I guess that's true..."
+  },
+  {
+   "i": 107,
+   "en": "But there IS a way to stop"
+  },
+  {
+   "i": 108,
+   "en": "worrying about your rivals!"
+  },
+  {
+   "i": 109,
+   "en": "How?"
+  },
+  {
+   "i": 110,
+   "en": "Think about you and me, and"
+  },
+  {
+   "i": 111,
+   "en": "I bet you'll figure it out?"
+  },
+  {
+   "i": 112,
+   "en": "Oh... you mean, with that person..."
+  },
+  {
+   "i": 113,
+   "en": "just become friends?"
+  },
+  {
+   "i": 114,
+   "en": "Exactly!"
+  },
+  {
+   "i": 115,
+   "en": "If you're friends, then win or lose,"
+  },
+  {
+   "i": 116,
+   "en": "it's just something to chat about♪"
+  },
+  {
+   "i": 117,
+   "en": "Quit worrying from a distance and"
+  },
+  {
+   "i": 118,
+   "en": "get closer to them!"
+  },
+  {
+   "i": 119,
+   "en": "Can I do that...?"
+  },
+  {
+   "i": 120,
+   "en": "No... I HAVE to. If I don't,"
+  },
+  {
+   "i": 121,
+   "en": "I can't even step on that stage"
+  },
+  {
+   "i": 122,
+   "en": "Thank you, Cineria."
+  },
+  {
+   "i": 123,
+   "en": "That really helped"
+  },
+  {
+   "i": 124,
+   "en": "Aw, don't mention it♪"
+  },
+  {
+   "i": 125,
+   "en": "You say smart things sometimes. Heehee"
+  },
+  {
+   "i": 126,
+   "en": "Not SOMEtimes! Al・ways♪"
+  },
+  {
+   "i": 127,
+   "en": "I'll go talk to those two. If we can"
+  },
+  {
+   "i": 128,
+   "en": "get a little closer, then surely...!"
+  },
+  {
+   "i": 129,
+   "en": "avoid meeting them?"
+  },
+  {
+   "i": 130,
+   "en": "Well, sure, outta sight,"
+  },
+  {
+   "i": 131,
+   "en": "outta mind, but..."
+  },
+  {
+   "i": 132,
+   "en": "we meet and chat on the net like"
+  },
+  {
+   "i": 133,
+   "en": "this, and we're fine, aren't we?"
+  },
+  {
+   "i": 134,
+   "en": "Oh... now that you mention it..."
+  },
+  {
+   "i": 135,
+   "en": "why IS that?"
+  },
+  {
+   "i": 136,
+   "en": "Duhhh, 'cause we're besties!"
+  },
+  {
+   "i": 137,
+   "en": "Besties?"
+  },
+  {
+   "i": 138,
+   "en": "If you're close, winning and losing"
+  },
+  {
+   "i": 139,
+   "en": "just don't matter!"
+  },
+  {
+   "i": 140,
+   "en": "Oh... I see..."
+  },
+  {
+   "i": 141,
+   "en": "If I can get just a little closer"
+  },
+  {
+   "i": 142,
+   "en": "to those two, then surely...!"
+  },
+  {
+   "i": 143,
+   "en": "Did that help?"
+  },
+  {
+   "i": 144,
+   "en": "Yeah. I might have to give you"
+  },
+  {
+   "i": 145,
+   "en": "a little more credit, Cineria"
+  },
+  {
+   "i": 146,
+   "en": "Ehehem! If you're ever in trouble,"
+  },
+  {
+   "i": 147,
+   "en": "ask me anything!"
+  },
+  {
+   "i": 148,
+   "en": "Good luck, senpai♪"
+  },
+  {
+   "i": 149,
+   "en": "Yeah!"
+  },
+  {
+   "i": 150,
+   "en": "I'll make time to go and"
+  },
+  {
+   "i": 151,
+   "en": "talk with those two"
+  },
+  {
+   "i": 152,
+   "en": "hate each other?"
+  },
+  {
+   "i": 153,
+   "en": "Whaaat?! You mean we've been"
+  },
+  {
+   "i": 154,
+   "en": "HATING each other?!"
+  },
+  {
+   "i": 155,
+   "en": "Mega shock! I can't believe"
+  },
+  {
+   "i": 156,
+   "en": "you thought of me that way..."
+  },
+  {
+   "i": 157,
+   "en": "No, it's not that I hate you,"
+  },
+  {
+   "i": 158,
+   "en": "Cineria..."
+  },
+  {
+   "i": 159,
+   "en": "but if rivals hate each other,"
+  },
+  {
+   "i": 160,
+   "en": "then losing wouldn't hurt..."
+  },
+  {
+   "i": 161,
+   "en": "Senpaaai, it's the opposite!"
+  },
+  {
+   "i": 162,
+   "en": "Huh?"
+  },
+  {
+   "i": 163,
+   "en": "Don't hate them; make friends with"
+  },
+  {
+   "i": 164,
+   "en": "them♪ Like you and me!"
+  },
+  {
+   "i": 165,
+   "en": "Friends?"
+  },
+  {
+   "i": 166,
+   "en": "Yes! Then no matter who wins or"
+  },
+  {
+   "i": 167,
+   "en": "loses, you can still talk normally"
+  },
+  {
+   "i": 168,
+   "en": "It's the distance that makes it scary!"
+  },
+  {
+   "i": 169,
+   "en": "If I can just get a little bit"
+  },
+  {
+   "i": 170,
+   "en": "closer to those two..."
+  },
+  {
+   "i": 171,
+   "en": "Got it now, senpai?"
+  },
+  {
+   "i": 172,
+   "en": "Yeah. I just wish I'd figured"
+  },
+  {
+   "i": 173,
+   "en": "it out myself..."
+  },
+  {
+   "i": 174,
+   "en": "It's fine! That's what"
+  },
+  {
+   "i": 175,
+   "en": "I'm here for!"
+  },
+  {
+   "i": 176,
+   "en": "Still, kind of a surprise..."
+  },
+  {
+   "i": 177,
+   "en": "So you and me, Cineria..."
+  },
+  {
+   "i": 178,
+   "en": "we've been besties all along"
+  },
+  {
+   "i": 179,
+   "en": "Wait, was I the only one who knew?!"
+  },
+  {
+   "i": 180,
+   "en": "SO MEAN!"
+  },
+  {
+   "i": 181,
+   "en": "I'll make time to talk to those two."
+  },
+  {
+   "i": 182,
+   "en": "Maybe that will change something..."
+  }
+ ]
+}

@@ -1,0 +1,774 @@
+{
+ "file": "F_SCN/ERI_F01_OP01_MES.BBQ",
+ "count": 193,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Eri"
+  },
+  {
+   "i": 2,
+   "en": "This building is..."
+  },
+  {
+   "i": 3,
+   "en": "Ozaki"
+  },
+  {
+   "i": 4,
+   "en": "This is 876 Production, the talent"
+  },
+  {
+   "i": 5,
+   "en": "agency you'll be joining."
+  },
+  {
+   "i": 6,
+   "en": "Come on, let's head in."
+  },
+  {
+   "i": 7,
+   "en": "Thank you for having us, President."
+  },
+  {
+   "i": 8,
+   "en": "President"
+  },
+  {
+   "i": 9,
+   "en": "Ms. Ozaki,"
+  },
+  {
+   "i": 10,
+   "en": "is she the girl―㌍you want to raise?"
+  },
+  {
+   "i": 11,
+   "en": "Yes. This is Eri Mizutani."
+  },
+  {
+   "i": 12,
+   "en": "Go on, Eri, introduce yourself."
+  },
+  {
+   "i": 13,
+   "en": "A greeting..."
+  },
+  {
+   "i": 14,
+   "en": "What do I say to a showbiz president?"
+  },
+  {
+   "i": 15,
+   "en": "Um..."
+  },
+  {
+   "i": 16,
+   "en": "Good morning?"
+  },
+  {
+   "i": 17,
+   "en": "Yes, that's right."
+  },
+  {
+   "i": 18,
+   "en": "In showbiz, the greeting is always"
+  },
+  {
+   "i": 19,
+   "en": "\"Good morning.\""
+  },
+  {
+   "i": 20,
+   "en": "Good morning... Even at night?"
+  },
+  {
+   "i": 21,
+   "en": "That's right."
+  },
+  {
+   "i": 22,
+   "en": "Hello?"
+  },
+  {
+   "i": 23,
+   "en": "That works too, but..."
+  },
+  {
+   "i": 24,
+   "en": "Please excuse me."
+  },
+  {
+   "i": 25,
+   "en": "Huh? Excuse you...?"
+  },
+  {
+   "i": 26,
+   "en": "That's all for today."
+  },
+  {
+   "i": 27,
+   "en": "I'll come back once I've studied"
+  },
+  {
+   "i": 28,
+   "en": "how greetings work..."
+  },
+  {
+   "i": 29,
+   "en": "Eri, you can't go home."
+  },
+  {
+   "i": 30,
+   "en": "Don't overthink this."
+  },
+  {
+   "i": 31,
+   "en": "But I... I don't understand it..."
+  },
+  {
+   "i": 32,
+   "en": "Ms. Ozaki is right."
+  },
+  {
+   "i": 33,
+   "en": "If you don't know how, I'll teach you."
+  },
+  {
+   "i": 34,
+   "en": "Anytime...? Even at night?"
+  },
+  {
+   "i": 35,
+   "en": "Yes. Dawn or dead of night."
+  },
+  {
+   "i": 36,
+   "en": "That's just the custom."
+  },
+  {
+   "i": 37,
+   "en": "She seems awfully timid, though."
+  },
+  {
+   "i": 38,
+   "en": "Ms. Ozaki, are you sure about this?"
+  },
+  {
+   "i": 39,
+   "en": "This industry is rough on girls"
+  },
+  {
+   "i": 40,
+   "en": "who can't assert themselves."
+  },
+  {
+   "i": 41,
+   "en": "Ugh..."
+  },
+  {
+   "i": 42,
+   "en": "I will make her a success. I promise."
+  },
+  {
+   "i": 43,
+   "en": "You can do it. Right, Eri?"
+  },
+  {
+   "i": 44,
+   "en": "......"
+  },
+  {
+   "i": 45,
+   "en": "She says she can."
+  },
+  {
+   "i": 46,
+   "en": "I didn't say anything..."
+  },
+  {
+   "i": 47,
+   "en": "???"
+  },
+  {
+   "i": 48,
+   "en": "President! Coming iiin!"
+  },
+  {
+   "i": 49,
+   "en": "Ah, the other candidates are here."
+  },
+  {
+   "i": 50,
+   "en": "Let's move to the big room."
+  },
+  {
+   "i": 51,
+   "en": "Once again, welcome to 876 Pro."
+  },
+  {
+   "i": 52,
+   "en": "I'm Ishikawa, the president."
+  },
+  {
+   "i": 53,
+   "en": "Starting today, three new idols"
+  },
+  {
+   "i": 54,
+   "en": "will begin their careers here."
+  },
+  {
+   "i": 55,
+   "en": "First, let's get introductions done."
+  },
+  {
+   "i": 56,
+   "en": "First up―㌍Eri Mizutani."
+  },
+  {
+   "i": 57,
+   "en": "Me first... I have to say something."
+  },
+  {
+   "i": 58,
+   "en": "Um, I..."
+  },
+  {
+   "i": 59,
+   "en": "I'm Mizutani... Eri Mizutani."
+  },
+  {
+   "i": 60,
+   "en": "Phew. You said it properly."
+  },
+  {
+   "i": 61,
+   "en": "Nice to meet you...?"
+  },
+  {
+   "i": 62,
+   "en": "I'm ELLIE."
+  },
+  {
+   "i": 63,
+   "en": "Hey now, you can't use that name here."
+  },
+  {
+   "i": 64,
+   "en": "...I thought they might know that one."
+  },
+  {
+   "i": 65,
+   "en": "...Eri Mizutani."
+  },
+  {
+   "i": 66,
+   "en": "I'm still a nobody."
+  },
+  {
+   "i": 67,
+   "en": "Huh...?"
+  },
+  {
+   "i": 68,
+   "en": "You don't have a name?"
+  },
+  {
+   "i": 69,
+   "en": "I do, but..."
+  },
+  {
+   "i": 70,
+   "en": "I'm not anyone worth naming..."
+  },
+  {
+   "i": 71,
+   "en": "An introduction without your name"
+  },
+  {
+   "i": 72,
+   "en": "kind of defeats the point..."
+  },
+  {
+   "i": 73,
+   "en": "Come on, at least say your name."
+  },
+  {
+   "i": 74,
+   "en": "R-Right..."
+  },
+  {
+   "i": 75,
+   "en": "I'm... Eri Mizutani."
+  },
+  {
+   "i": 76,
+   "en": "They're your fellow rookies. No need"
+  },
+  {
+   "i": 77,
+   "en": "to be so jumpy around them."
+  },
+  {
+   "i": 78,
+   "en": "...It's scary. Facing this many"
+  },
+  {
+   "i": 79,
+   "en": "strangers all at once..."
+  },
+  {
+   "i": 80,
+   "en": "Next, Ms. Hidaka. Introduce yourself."
+  },
+  {
+   "i": 81,
+   "en": "Hidaka"
+  },
+  {
+   "i": 82,
+   "en": "Yes, ma'am!"
+  },
+  {
+   "i": 83,
+   "en": "Ai"
+  },
+  {
+   "i": 84,
+   "en": "My name's Ai Hidaka!"
+  },
+  {
+   "i": 85,
+   "en": "Um, I'm, well, kind of a mess in lots"
+  },
+  {
+   "i": 86,
+   "en": "of ways... but I'll give it my all!"
+  },
+  {
+   "i": 87,
+   "en": "Nice to meet you, Eri-san!"
+  },
+  {
+   "i": 88,
+   "en": "Nice to meet you."
+  },
+  {
+   "i": 89,
+   "en": "...Was that reply too blunt?"
+  },
+  {
+   "i": 90,
+   "en": "It is an honor to meet you...?"
+  },
+  {
+   "i": 91,
+   "en": "No no, the normal way you said it"
+  },
+  {
+   "i": 92,
+   "en": "first was fine!"
+  },
+  {
+   "i": 93,
+   "en": "Let's be good friends, okay?"
+  },
+  {
+   "i": 94,
+   "en": "...Okay."
+  },
+  {
+   "i": 95,
+   "en": "Thank goodness. So casual"
+  },
+  {
+   "i": 96,
+   "en": "was fine after all."
+  },
+  {
+   "i": 97,
+   "en": "It is a pleasure to meet you."
+  },
+  {
+   "i": 98,
+   "en": "Eh? Ah, um, sure~..."
+  },
+  {
+   "i": 99,
+   "en": "Is something... wrong?"
+  },
+  {
+   "i": 100,
+   "en": "No, it's just, when you get all"
+  },
+  {
+   "i": 101,
+   "en": "formal with me, I..."
+  },
+  {
+   "i": 102,
+   "en": "The normal way is fine, really!"
+  },
+  {
+   "i": 103,
+   "en": "Ah, okay..."
+  },
+  {
+   "i": 104,
+   "en": "Seems that reply was too formal."
+  },
+  {
+   "i": 105,
+   "en": "This balance thing is hard."
+  },
+  {
+   "i": 106,
+   "en": "...Eek!"
+  },
+  {
+   "i": 107,
+   "en": "Aaaah!"
+  },
+  {
+   "i": 108,
+   "en": "Did I startle you just now?!"
+  },
+  {
+   "i": 109,
+   "en": "My voice gets really loud..."
+  },
+  {
+   "i": 110,
+   "en": "I'm sorry..."
+  },
+  {
+   "i": 111,
+   "en": "I thought my ears would break."
+  },
+  {
+   "i": 112,
+   "en": "This girl... so much energy..."
+  },
+  {
+   "i": 113,
+   "en": "Hidaka... Ai..."
+  },
+  {
+   "i": 114,
+   "en": "Hidaka?"
+  },
+  {
+   "i": 115,
+   "en": "Something wrong?"
+  },
+  {
+   "i": 116,
+   "en": "No, it's nothing."
+  },
+  {
+   "i": 117,
+   "en": "Next, Ms. Akizuki."
+  },
+  {
+   "i": 118,
+   "en": "Ryo"
+  },
+  {
+   "i": 119,
+   "en": "Yes. I'm Ryo Akizuki."
+  },
+  {
+   "i": 120,
+   "en": "This debut came out of nowhere and"
+  },
+  {
+   "i": 121,
+   "en": "I'm still stunned, but I'll try hard."
+  },
+  {
+   "i": 122,
+   "en": "Nice to meet you, Ai-chan."
+  },
+  {
+   "i": 123,
+   "en": "And you too―㌍Eri-chan."
+  },
+  {
+   "i": 124,
+   "en": "Yes..."
+  },
+  {
+   "i": 125,
+   "en": "Come on, anything is fine..."
+  },
+  {
+   "i": 126,
+   "en": "try starting a chat yourself, Eri."
+  },
+  {
+   "i": 127,
+   "en": "I can't handle oily food."
+  },
+  {
+   "i": 128,
+   "en": "Huh?"
+  },
+  {
+   "i": 129,
+   "en": "Tempura, fried things... not for me..."
+  },
+  {
+   "i": 130,
+   "en": "Oh, greasy food doesn't sit well, huh?"
+  },
+  {
+   "i": 131,
+   "en": "Yeah..."
+  },
+  {
+   "i": 132,
+   "en": "Ms. Ozaki... the conversation died..."
+  },
+  {
+   "i": 133,
+   "en": "Well, that topic came out of nowhere."
+  },
+  {
+   "i": 134,
+   "en": "But hey, not bad for a first try."
+  },
+  {
+   "i": 135,
+   "en": "You're really cute."
+  },
+  {
+   "i": 136,
+   "en": "Eeeh?! Y-You mean... me???"
+  },
+  {
+   "i": 137,
+   "en": "Yes."
+  },
+  {
+   "i": 138,
+   "en": "R-Really? Uuu, thank you..."
+  },
+  {
+   "i": 139,
+   "en": "Ms. Ozaki... did I upset her?"
+  },
+  {
+   "i": 140,
+   "en": "Looks like it. Though I didn't see"
+  },
+  {
+   "i": 141,
+   "en": "anything wrong with the exchange..."
+  },
+  {
+   "i": 142,
+   "en": "Akizuki-san... what a strange person."
+  },
+  {
+   "i": 143,
+   "en": "About... air pollution."
+  },
+  {
+   "i": 144,
+   "en": "Eh? Air?"
+  },
+  {
+   "i": 145,
+   "en": "I feel like the air outside gets"
+  },
+  {
+   "i": 146,
+   "en": "dirtier with every passing day."
+  },
+  {
+   "i": 147,
+   "en": "Someone has to put a stop to it..."
+  },
+  {
+   "i": 148,
+   "en": "R-Right..."
+  },
+  {
+   "i": 149,
+   "en": "Like, fanning it away with a fan!"
+  },
+  {
+   "i": 150,
+   "en": "......? A fan?"
+  },
+  {
+   "i": 151,
+   "en": "Eri... you've completely"
+  },
+  {
+   "i": 152,
+   "en": "lost the poor girl."
+  },
+  {
+   "i": 153,
+   "en": "Yeah... it seems so..."
+  },
+  {
+   "i": 154,
+   "en": "Was that topic boring?"
+  },
+  {
+   "i": 155,
+   "en": "I should've picked another..."
+  },
+  {
+   "i": 156,
+   "en": "That's everyone introduced, then."
+  },
+  {
+   "i": 157,
+   "en": "Lastly, let me introduce"
+  },
+  {
+   "i": 158,
+   "en": "one more member of our staff."
+  },
+  {
+   "i": 159,
+   "en": "―㌍Manami."
+  },
+  {
+   "i": 160,
+   "en": "Manami"
+  },
+  {
+   "i": 161,
+   "en": "Yes, ma'am!"
+  },
+  {
+   "i": 162,
+   "en": "I'm Manami Okamoto, your manager."
+  },
+  {
+   "i": 163,
+   "en": "I'll look after you as best I can,"
+  },
+  {
+   "i": 164,
+   "en": "so let's get along, okay?"
+  },
+  {
+   "i": 165,
+   "en": "A manager... So real-world idols"
+  },
+  {
+   "i": 166,
+   "en": "have people like her, too."
+  },
+  {
+   "i": 167,
+   "en": "Now, listen well. Everyone ready?"
+  },
+  {
+   "i": 168,
+   "en": "Top idols aren't made in a day."
+  },
+  {
+   "i": 169,
+   "en": "Start by trading info through mail and"
+  },
+  {
+   "i": 170,
+   "en": "meetings, and get used to this world."
+  },
+  {
+   "i": 171,
+   "en": "I expect each of you to quickly grow"
+  },
+  {
+   "i": 172,
+   "en": "into idols that everyone loves!"
+  },
+  {
+   "i": 173,
+   "en": "All Three"
+  },
+  {
+   "i": 174,
+   "en": "All right, dismissed!"
+  },
+  {
+   "i": 175,
+   "en": "Eri, let's go."
+  },
+  {
+   "i": 176,
+   "en": "Okay."
+  },
+  {
+   "i": 177,
+   "en": "Your first wall to climb is"
+  },
+  {
+   "i": 178,
+   "en": "learning to sing properly."
+  },
+  {
+   "i": 179,
+   "en": "Singing..."
+  },
+  {
+   "i": 180,
+   "en": "From what I can tell when you talk,"
+  },
+  {
+   "i": 181,
+   "en": "your voice and throat are just fine."
+  },
+  {
+   "i": 182,
+   "en": "What keeps you from singing well"
+  },
+  {
+   "i": 183,
+   "en": "isn't technique. It's your heart."
+  },
+  {
+   "i": 184,
+   "en": "My heart..."
+  },
+  {
+   "i": 185,
+   "en": "First: the courage to sing in public."
+  },
+  {
+   "i": 186,
+   "en": "Our goal is the all-rookie audition."
+  },
+  {
+   "i": 187,
+   "en": "Once you can manage a song,"
+  },
+  {
+   "i": 188,
+   "en": "I'll enter you in it."
+  },
+  {
+   "i": 189,
+   "en": "Understood?"
+  },
+  {
+   "i": 190,
+   "en": "Okay... Can I really learn to sing?"
+  },
+  {
+   "i": 191,
+   "en": "You can. You're not alone anymore."
+  },
+  {
+   "i": 192,
+   "en": "If we join forces, I know you can."
+  }
+ ]
+}

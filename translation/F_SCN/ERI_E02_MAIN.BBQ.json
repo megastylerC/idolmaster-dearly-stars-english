@@ -1,0 +1,70 @@
+{
+ "file": "F_SCN/ERI_E02_MAIN.BBQ",
+ "count": 17,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Mizutani House"
+  },
+  {
+   "i": 2,
+   "en": "Office"
+  },
+  {
+   "i": 3,
+   "en": "By setting choreo panels, you can"
+  },
+  {
+   "i": 4,
+   "en": "change a song's choreography"
+  },
+  {
+   "i": 5,
+   "en": "To set one, first touch"
+  },
+  {
+   "i": 6,
+   "en": "a panel you own"
+  },
+  {
+   "i": 7,
+   "en": "Then touch the slot you want,"
+  },
+  {
+   "i": 8,
+   "en": "and the panel will be set"
+  },
+  {
+   "i": 9,
+   "en": "You can set up to"
+  },
+  {
+   "i": 10,
+   "en": "10 panels"
+  },
+  {
+   "i": 11,
+   "en": "The lines drawn on a panel"
+  },
+  {
+   "i": 12,
+   "en": "show that panel's image"
+  },
+  {
+   "i": 13,
+   "en": "When the song's image matches the"
+  },
+  {
+   "i": 14,
+   "en": "panel's image, your image goes up"
+  },
+  {
+   "i": 15,
+   "en": "If you set a panel that doesn't"
+  },
+  {
+   "i": 16,
+   "en": "match, your image will go down"
+  }
+ ]
+}

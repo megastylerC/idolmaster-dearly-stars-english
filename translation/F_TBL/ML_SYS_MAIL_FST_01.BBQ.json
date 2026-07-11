@@ -1,0 +1,34 @@
+{
+ "file": "F_TBL/ML_SYS_MAIL_FST_01.BBQ",
+ "count": 8,
+ "lines": [
+  {
+   "i": 1,
+   "en": "President Ishikawa here."
+  },
+  {
+   "i": 2,
+   "en": "If you're reading this, you've"
+  },
+  {
+   "i": 3,
+   "en": "got the hang of your PDA."
+  },
+  {
+   "i": 4,
+   "en": "I'll often mail you sudden"
+  },
+  {
+   "i": 5,
+   "en": "notices and things I think of"
+  },
+  {
+   "i": 6,
+   "en": "as they come up. Try not to"
+  },
+  {
+   "i": 7,
+   "en": "let unread mail pile up, okay?"
+  }
+ ]
+}

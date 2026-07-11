@@ -1,0 +1,26 @@
+{
+ "file": "F_SCN/ERI_LES_RESULT_MAK.BBQ",
+ "count": 6,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Last Panel condition 1 cleared"
+  },
+  {
+   "i": 2,
+   "en": "Last Panel condition 2 cleared"
+  },
+  {
+   "i": 3,
+   "en": "Last Panel condition 3 cleared"
+  },
+  {
+   "i": 4,
+   "en": "Last Panel condition 4 cleared"
+  },
+  {
+   "i": 5,
+   "en": "Last Panel earned"
+  }
+ ]
+}

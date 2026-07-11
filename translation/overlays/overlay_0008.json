@@ -1,0 +1,49 @@
+{
+ "overlay": 8,
+ "strings": [
+  {
+   "off": 27644,
+   "en": "Edit this costume.\nIs that OK?"
+  },
+  {
+   "off": 27692,
+   "en": "Yes"
+  },
+  {
+   "off": 27700,
+   "en": "No"
+  },
+  {
+   "off": 27708,
+   "en": "Go back without\nsaving changes?"
+  },
+  {
+   "off": 27748,
+   "en": "Yes"
+  },
+  {
+   "off": 27756,
+   "en": "No"
+  },
+  {
+   "off": 28248,
+   "en": "???"
+  },
+  {
+   "off": 28256,
+   "en": "Lyrics: ???"
+  },
+  {
+   "off": 28272,
+   "en": "Music: ???"
+  },
+  {
+   "off": 28288,
+   "en": "???"
+  },
+  {
+   "off": 28296,
+   "en": "Use this song.\nIs that OK?"
+  }
+ ]
+}

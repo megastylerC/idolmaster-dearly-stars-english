@@ -1,0 +1,34 @@
+{
+ "file": "F_SCN/ERI_E01_MAIN03.BBQ",
+ "count": 8,
+ "lines": [
+  {
+   "i": 1,
+   "en": "Meeting Room"
+  },
+  {
+   "i": 2,
+   "en": "Okay"
+  },
+  {
+   "i": 3,
+   "en": "I'm the\nchallenger"
+  },
+  {
+   "i": 4,
+   "en": "Scary..."
+  },
+  {
+   "i": 5,
+   "en": "Yeah,\nthank you"
+  },
+  {
+   "i": 6,
+   "en": "Go easy\non me"
+  },
+  {
+   "i": 7,
+   "en": "Yeah, brace\nyourself"
+  }
+ ]
+}

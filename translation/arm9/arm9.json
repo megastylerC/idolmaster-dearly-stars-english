@@ -1,0 +1,380 @@
+{
+ "strings": [
+  {
+   "off": 823088,
+   "en": "No data"
+  },
+  {
+   "off": 823100,
+   "en": "No data"
+  },
+  {
+   "off": 823384,
+   "en": "Yes"
+  },
+  {
+   "off": 823392,
+   "en": "Yes"
+  },
+  {
+   "off": 823400,
+   "en": "No"
+  },
+  {
+   "off": 823408,
+   "en": "Saving..."
+  },
+  {
+   "off": 823424,
+   "en": "Deleting..."
+  },
+  {
+   "off": 823440,
+   "en": "Couldn't write data.\nTurn the power off and\nreinsert the Game Card."
+  },
+  {
+   "off": 823516,
+   "en": "Data saved."
+  },
+  {
+   "off": 823532,
+   "en": "Deleted."
+  },
+  {
+   "off": 832804,
+   "en": "Yes"
+  },
+  {
+   "off": 832812,
+   "en": "No"
+  },
+  {
+   "off": 832968,
+   "en": "Yes"
+  },
+  {
+   "off": 832976,
+   "en": "No"
+  },
+  {
+   "off": 834168,
+   "en": "Yes"
+  },
+  {
+   "off": 834176,
+   "en": "No"
+  },
+  {
+   "off": 834368,
+   "en": "Choose the data\nto load."
+  },
+  {
+   "off": 834404,
+   "en": "Choose the data\nto delete."
+  },
+  {
+   "off": 834452,
+   "en": "Quit the game?"
+  },
+  {
+   "off": 834488,
+   "en": "Data already exists here.\nOverwrite it?"
+  },
+  {
+   "off": 834556,
+   "en": "Save here.\nIs that OK?"
+  },
+  {
+   "off": 834604,
+   "en": "Load this data.\nIs that OK?"
+  },
+  {
+   "off": 834660,
+   "en": "Delete this data.\nAre you sure?"
+  },
+  {
+   "off": 835168,
+   "en": "Communication error."
+  },
+  {
+   "off": 835196,
+   "en": "No response from partner."
+  },
+  {
+   "off": 835228,
+   "en": "The download failed."
+  },
+  {
+   "off": 835260,
+   "en": "The download failed."
+  },
+  {
+   "off": 835292,
+   "en": "No response from partner."
+  },
+  {
+   "off": 835324,
+   "en": "Partner stopped responding."
+  },
+  {
+   "off": 835360,
+   "en": "Partner stopped responding."
+  },
+  {
+   "off": 835396,
+   "en": "Really update it?\nAre you sure?"
+  },
+  {
+   "off": 835432,
+   "en": "Really update it?\nAre you sure?"
+  },
+  {
+   "off": 835468,
+   "en": "Connect to Wi-Fi\nConnection?"
+  },
+  {
+   "off": 835504,
+   "en": "Connect to Wi-Fi\nConnection?"
+  },
+  {
+   "off": 835540,
+   "en": "Disconnected from\nWi-Fi Connection."
+  },
+  {
+   "off": 835580,
+   "en": "Disconnected from\nWi-Fi Connection."
+  },
+  {
+   "off": 835620,
+   "en": "Disconnecting from\nWi-Fi Connection..."
+  },
+  {
+   "off": 835660,
+   "en": "Disconnecting from\nWi-Fi Connection..."
+  },
+  {
+   "off": 835700,
+   "en": "Disconnect from\nWi-Fi Connection?"
+  },
+  {
+   "off": 835752,
+   "en": "Disconnect from\nWi-Fi Connection?"
+  },
+  {
+   "off": 835968,
+   "en": "Connecting to\nWi-Fi Connection.\nPlease wait a moment."
+  },
+  {
+   "off": 836032,
+   "en": "Connecting to\nWi-Fi Connection.\nPlease wait a moment."
+  },
+  {
+   "off": 836308,
+   "en": "You must agree to the\nterms of use.\nPlease do so in the\nsystem settings."
+  },
+  {
+   "off": 836384,
+   "en": "Can't connect to\nWi-Fi Connection.\nSee the system manual\nfor details."
+  },
+  {
+   "off": 836464,
+   "en": "Wireless communication\nis set to OFF.\nPlease set it to ON in\nthe system settings."
+  },
+  {
+   "off": 836548,
+   "en": "The Wi-Fi user info on this\nsystem and the DS Card differ,\nso you can't connect."
+  },
+  {
+   "off": 836632,
+   "en": "Wi-Fi Connection service\nfor this game has ended.\nThank you for playing."
+  },
+  {
+   "off": 836720,
+   "en": "Wi-Fi Connection service\nfor this game has ended.\nThank you for playing."
+  },
+  {
+   "off": 836808,
+   "en": "The Wi-Fi user info on this\nsystem and the save data differ,\nso you can't connect."
+  },
+  {
+   "off": 836896,
+   "en": "No access point found.\nPlease move closer to your\naccess point and try again."
+  },
+  {
+   "off": 836988,
+   "en": "No access point found.\nPlease move closer to your\naccess point and try again."
+  },
+  {
+   "off": 837080,
+   "en": "The access point is busy,\nso you can't connect.\nPlease wait a while\nand try again."
+  },
+  {
+   "off": 837172,
+   "en": "The access point is busy,\nso you can't connect.\nPlease wait a while\nand try again."
+  },
+  {
+   "off": 837264,
+   "en": "Can't connect to\nWi-Fi Connection.\nPlease check your connection\nin the Wi-Fi settings."
+  },
+  {
+   "off": 837356,
+   "en": "An error occurred, so Wi-Fi\nConnection can't be used.\nPlease reset and try again."
+  },
+  {
+   "off": 837456,
+   "en": "An error occurred, so Wi-Fi\nConnection can't be used.\nTurn the power off and\ntry again."
+  },
+  {
+   "off": 837556,
+   "en": "Can't connect to\nWi-Fi Connection.\nCheck your connection in the\nsystem's Internet settings."
+  },
+  {
+   "off": 837660,
+   "en": "No usable access point found.\nPlease check your connection\nin the Wi-Fi settings."
+  },
+  {
+   "off": 837764,
+   "en": "This system's Wi-Fi user info\nmay have been erased.\nPlease check your connection\nin the Wi-Fi settings."
+  },
+  {
+   "off": 837872,
+   "en": "No usable access point found.\nCheck your connection in the\nsystem's Internet settings."
+  },
+  {
+   "off": 837984,
+   "en": "Your Wi-Fi Connection ID was\ndeleted due to long inactivity.\nSee the guidebook for details."
+  },
+  {
+   "off": 838096,
+   "en": "Your user name can't be used\nwith Wi-Fi Connection.\nPlease change it and\nconnect again."
+  },
+  {
+   "off": 838212,
+   "en": "Your user name can't be used\nwith Wi-Fi Connection.\nPlease change it and\nconnect again."
+  },
+  {
+   "off": 838328,
+   "en": "This system's Wi-Fi user info\nmay have been erased.\nCheck your connection in the\nsystem's Internet settings."
+  },
+  {
+   "off": 838444,
+   "en": "Your Wi-Fi Connection ID was\ndeleted due to long inactivity.\nSee the system manual\nfor details."
+  },
+  {
+   "off": 838560,
+   "en": "Wi-Fi Connection is busy\nor the service is down,\nso you can't connect.\nPlease wait a while\nand try again."
+  },
+  {
+   "off": 838680,
+   "en": "This system's Wi-Fi user info\nwas saved to the DS Card.\nPlease use this system for\nWi-Fi Connection from now on."
+  },
+  {
+   "off": 838800,
+   "en": "Wi-Fi Connection is busy\nor the service is down,\nso you can't connect.\nPlease wait a while\nand try again."
+  },
+  {
+   "off": 838920,
+   "en": "This system's Wi-Fi user info\nwas saved to the save data.\nPlease use this system for\nWi-Fi Connection from now on."
+  },
+  {
+   "off": 839044,
+   "en": "Can't connect to the Nintendo\nWi-Fi USB Connector.\nPlease check its connection\nin the Wi-Fi settings."
+  },
+  {
+   "off": 839172,
+   "en": "Can't connect to the Nintendo\nWi-Fi USB Connector.\nCheck its connection in the\nsystem's Internet settings."
+  },
+  {
+   "off": 839312,
+   "en": "No response from partner.\nThey may no longer be connected\nto Wi-Fi Connection, or you may\nhave been removed from\ntheir friend list."
+  },
+  {
+   "off": 839452,
+   "en": "No response from partner.\nThey may no longer be connected\nto Wi-Fi Connection, or you may\nhave been removed from\ntheir friend list."
+  },
+  {
+   "off": 839592,
+   "en": "Wi-Fi Connection treats the\nDS Card and system as a set.\nSave this system's Wi-Fi user\ninfo to the DS Card and\nconnect to Wi-Fi Connection?"
+  },
+  {
+   "off": 839736,
+   "en": "Wi-Fi Connection treats the\nsave data and system as a set.\nSave this system's Wi-Fi user\ninfo to the save data and\nconnect to Wi-Fi Connection?"
+  },
+  {
+   "off": 839888,
+   "en": "Update the Wi-Fi user info\nsaved on the DS Card?\nUpdating it will erase all the\ndata you've used with\nWi-Fi Connection until now."
+  },
+  {
+   "off": 840056,
+   "en": "Update the Wi-Fi user info\nin the save data?\nUpdating it will erase all the\ndata you've used with\nWi-Fi Connection until now."
+  },
+  {
+   "off": 840236,
+   "en": "Error code: %s\n\n%s"
+  },
+  {
+   "off": 840500,
+   "en": "Interrupted.\nPlease turn off the power."
+  },
+  {
+   "off": 840540,
+   "en": "Wireless communication\nis set to OFF.\nPlease set it to ON in\nthe system settings."
+  },
+  {
+   "off": 840624,
+   "en": "Disconnected."
+  },
+  {
+   "off": 840644,
+   "en": "Disconnected."
+  },
+  {
+   "off": 840664,
+   "en": "Disconnected."
+  },
+  {
+   "off": 840684,
+   "en": "Disconnected."
+  },
+  {
+   "off": 846148,
+   "en": "Couldn't read data.\nTurn the power off and\nreinsert the Game Card."
+  },
+  {
+   "off": 846224,
+   "en": "The data is corrupted\nand will be formatted.\n* All data will be erased."
+  },
+  {
+   "off": 846312,
+   "en": "The save data revision\nhas changed.\nReformatting.\n2009-04-24 14:00"
+  },
+  {
+   "off": 846392,
+   "en": "This erases all saved data.\nAre you sure?"
+  },
+  {
+   "off": 846440,
+   "en": "Creating the\nsystem file..."
+  },
+  {
+   "off": 846476,
+   "en": "Couldn't write data.\nTurn the power off and\nreinsert the Game Card."
+  },
+  {
+   "off": 846552,
+   "en": "The data is corrupted\nand will be formatted.\n* All data will be erased."
+  },
+  {
+   "off": 846640,
+   "en": "Loading failed.\nThe data is corrupted,\nso it will be erased."
+  },
+  {
+   "off": 846720,
+   "en": "Erasing..."
+  },
+  {
+   "off": 846736,
+   "en": "Couldn't read data.\nTurn the power off and\nreinsert the Game Card."
+  }
+ ]
+}

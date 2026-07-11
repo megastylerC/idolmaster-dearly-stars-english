@@ -1,0 +1,618 @@
+{
+ "file": "F_TBL/CHARSIMPLETABLE.BBQ",
+ "count": 153,
+ "lines": [
+  {
+   "i": 0,
+   "en": "Name not set"
+  },
+  {
+   "i": 1,
+   "en": "NULL"
+  },
+  {
+   "i": 2,
+   "en": "(SFX)"
+  },
+  {
+   "i": 3,
+   "en": "(Narration)"
+  },
+  {
+   "i": 4,
+   "en": "President"
+  },
+  {
+   "i": 5,
+   "en": "Vocal Judge"
+  },
+  {
+   "i": 6,
+   "en": "Dance Judge"
+  },
+  {
+   "i": 7,
+   "en": "Visual Judge"
+  },
+  {
+   "i": 8,
+   "en": "Judge"
+  },
+  {
+   "i": 9,
+   "en": "Head Judge"
+  },
+  {
+   "i": 10,
+   "en": "Top Idol"
+  },
+  {
+   "i": 11,
+   "en": "Idol 1"
+  },
+  {
+   "i": 12,
+   "en": "Idol 2"
+  },
+  {
+   "i": 13,
+   "en": "Idols"
+  },
+  {
+   "i": 14,
+   "en": "Other Idols"
+  },
+  {
+   "i": 15,
+   "en": "Local Station Manager"
+  },
+  {
+   "i": 16,
+   "en": "Programming Director"
+  },
+  {
+   "i": 17,
+   "en": "Reporter"
+  },
+  {
+   "i": 18,
+   "en": "Another Reporter"
+  },
+  {
+   "i": 19,
+   "en": "Mean Reporter in Front"
+  },
+  {
+   "i": 20,
+   "en": "Reporter to Ryo's Right"
+  },
+  {
+   "i": 21,
+   "en": "Reporter Facing Ryo"
+  },
+  {
+   "i": 22,
+   "en": "Reporter to Ryo's Left"
+  },
+  {
+   "i": 23,
+   "en": "Host"
+  },
+  {
+   "i": 24,
+   "en": "Female Interviewer"
+  },
+  {
+   "i": 25,
+   "en": "Starter"
+  },
+  {
+   "i": 26,
+   "en": "Staff"
+  },
+  {
+   "i": 27,
+   "en": "Nursing Home Staff"
+  },
+  {
+   "i": 28,
+   "en": "Live Staff"
+  },
+  {
+   "i": 29,
+   "en": "Camera Crew"
+  },
+  {
+   "i": 30,
+   "en": "Recording Staff"
+  },
+  {
+   "i": 31,
+   "en": "TV Staff"
+  },
+  {
+   "i": 32,
+   "en": "Cameraman"
+  },
+  {
+   "i": 33,
+   "en": "Cameramen"
+  },
+  {
+   "i": 34,
+   "en": "Female Photographer"
+  },
+  {
+   "i": 35,
+   "en": "Director"
+  },
+  {
+   "i": 36,
+   "en": "Music Director"
+  },
+  {
+   "i": 37,
+   "en": "Director"
+  },
+  {
+   "i": 38,
+   "en": "Security Guard"
+  },
+  {
+   "i": 39,
+   "en": "Crowd"
+  },
+  {
+   "i": 40,
+   "en": "Audience"
+  },
+  {
+   "i": 41,
+   "en": "Customer"
+  },
+  {
+   "i": 42,
+   "en": "Fan 1"
+  },
+  {
+   "i": 43,
+   "en": "Fan 2"
+  },
+  {
+   "i": 44,
+   "en": "Fan A"
+  },
+  {
+   "i": 45,
+   "en": "Fan B"
+  },
+  {
+   "i": 46,
+   "en": "Fan"
+  },
+  {
+   "i": 47,
+   "en": "Fans"
+  },
+  {
+   "i": 48,
+   "en": "Cheers"
+  },
+  {
+   "i": 49,
+   "en": "Groupie"
+  },
+  {
+   "i": 50,
+   "en": "Groupies"
+  },
+  {
+   "i": 51,
+   "en": "Hanger-On"
+  },
+  {
+   "i": 52,
+   "en": "Hangers-On"
+  },
+  {
+   "i": 53,
+   "en": "Post 1"
+  },
+  {
+   "i": 54,
+   "en": "Post 2"
+  },
+  {
+   "i": 55,
+   "en": "Male Classmate"
+  },
+  {
+   "i": 56,
+   "en": "Female Classmate"
+  },
+  {
+   "i": 57,
+   "en": "Classmate"
+  },
+  {
+   "i": 58,
+   "en": "Man 1"
+  },
+  {
+   "i": 59,
+   "en": "Man 2"
+  },
+  {
+   "i": 60,
+   "en": "Boy"
+  },
+  {
+   "i": 61,
+   "en": "Puppy"
+  },
+  {
+   "i": 62,
+   "en": "Monkey"
+  },
+  {
+   "i": 63,
+   "en": "Shop Clerk"
+  },
+  {
+   "i": 64,
+   "en": "Doctor"
+  },
+  {
+   "i": 65,
+   "en": "Buralion"
+  },
+  {
+   "i": 66,
+   "en": "Miki Hoshii's Hands"
+  },
+  {
+   "i": 67,
+   "en": "Miki Hoshii's Throat"
+  },
+  {
+   "i": 68,
+   "en": "Miki Hoshii's Nose"
+  },
+  {
+   "i": 69,
+   "en": "Miki Hoshii's Face"
+  },
+  {
+   "i": 70,
+   "en": "Miki Hoshii's Body"
+  },
+  {
+   "i": 71,
+   "en": "Miki Hoshii's Hair"
+  },
+  {
+   "i": 72,
+   "en": "Miki Hoshii's Eyes"
+  },
+  {
+   "i": 73,
+   "en": "Miki Hoshii's Mouth"
+  },
+  {
+   "i": 74,
+   "en": "Miki Hoshii's Chest"
+  },
+  {
+   "i": 75,
+   "en": "Inside Miki's Head"
+  },
+  {
+   "i": 76,
+   "en": "Inside Cineria's Head"
+  },
+  {
+   "i": 77,
+   "en": "Inside Eri's Head"
+  },
+  {
+   "i": 78,
+   "en": "Caption"
+  },
+  {
+   "i": 79,
+   "en": "Voice"
+  },
+  {
+   "i": 80,
+   "en": "???"
+  },
+  {
+   "i": 81,
+   "en": "Station Head"
+  },
+  {
+   "i": 82,
+   "en": "Male Staff"
+  },
+  {
+   "i": 83,
+   "en": "Female Staff"
+  },
+  {
+   "i": 84,
+   "en": "Stage Manager"
+  },
+  {
+   "i": 85,
+   "en": "AD"
+  },
+  {
+   "i": 86,
+   "en": "Ad Director"
+  },
+  {
+   "i": 87,
+   "en": "TV Audio"
+  },
+  {
+   "i": 88,
+   "en": "Fan 3"
+  },
+  {
+   "i": 89,
+   "en": "One of the Fans"
+  },
+  {
+   "i": 90,
+   "en": "Manager"
+  },
+  {
+   "i": 91,
+   "en": "Radio Director"
+  },
+  {
+   "i": 92,
+   "en": "Wicked Old Woman"
+  },
+  {
+   "i": 93,
+   "en": "Villains"
+  },
+  {
+   "i": 94,
+   "en": "Driver"
+  },
+  {
+   "i": 95,
+   "en": "Stage Director"
+  },
+  {
+   "i": 96,
+   "en": "Reporter 1"
+  },
+  {
+   "i": 97,
+   "en": "Reporter 2"
+  },
+  {
+   "i": 98,
+   "en": "Attendant"
+  },
+  {
+   "i": 99,
+   "en": "Guy in Work Clothes"
+  },
+  {
+   "i": 100,
+   "en": "Cue Board"
+  },
+  {
+   "i": 101,
+   "en": "Performers"
+  },
+  {
+   "i": 102,
+   "en": "Girl Fan 1"
+  },
+  {
+   "i": 103,
+   "en": "Girl Fan 2"
+  },
+  {
+   "i": 104,
+   "en": "Event Staff"
+  },
+  {
+   "i": 105,
+   "en": "Male Fan 1"
+  },
+  {
+   "i": 106,
+   "en": "Male Fan 2"
+  },
+  {
+   "i": 107,
+   "en": "Male Fan 3"
+  },
+  {
+   "i": 108,
+   "en": "Male Fan 4"
+  },
+  {
+   "i": 109,
+   "en": "Male Fan 5"
+  },
+  {
+   "i": 110,
+   "en": "Townsperson 1"
+  },
+  {
+   "i": 111,
+   "en": "Townsperson 2"
+  },
+  {
+   "i": 112,
+   "en": "Show Staff"
+  },
+  {
+   "i": 113,
+   "en": "Show Director"
+  },
+  {
+   "i": 114,
+   "en": "Film Director"
+  },
+  {
+   "i": 115,
+   "en": "Ekiden Runner"
+  },
+  {
+   "i": 116,
+   "en": "Ekiden Runners"
+  },
+  {
+   "i": 117,
+   "en": "Hayasaka Academy Anchor"
+  },
+  {
+   "i": 118,
+   "en": "Announcer"
+  },
+  {
+   "i": 119,
+   "en": "Everyone"
+  },
+  {
+   "i": 120,
+   "en": "Interviewer"
+  },
+  {
+   "i": 121,
+   "en": "Senior Voice Actor"
+  },
+  {
+   "i": 122,
+   "en": "Sound Director"
+  },
+  {
+   "i": 123,
+   "en": "Host"
+  },
+  {
+   "i": 124,
+   "en": "MC"
+  },
+  {
+   "i": 125,
+   "en": "Show Host"
+  },
+  {
+   "i": 126,
+   "en": "Middle-Aged Man"
+  },
+  {
+   "i": 127,
+   "en": "riola"
+  },
+  {
+   "i": 128,
+   "en": "SYSTEM-san"
+  },
+  {
+   "i": 129,
+   "en": "Magazine Reporter"
+  },
+  {
+   "i": 130,
+   "en": "Students"
+  },
+  {
+   "i": 131,
+   "en": "Children"
+  },
+  {
+   "i": 132,
+   "en": "Online Fans"
+  },
+  {
+   "i": 133,
+   "en": "Man"
+  },
+  {
+   "i": 134,
+   "en": "Caller"
+  },
+  {
+   "i": 135,
+   "en": "Devotee No. 5"
+  },
+  {
+   "i": 136,
+   "en": "Net Idol Maniac"
+  },
+  {
+   "i": 137,
+   "en": "Security Guard 1"
+  },
+  {
+   "i": 138,
+   "en": "Security Guard 2"
+  },
+  {
+   "i": 139,
+   "en": "Host Comedian"
+  },
+  {
+   "i": 140,
+   "en": "Comedian A"
+  },
+  {
+   "i": 141,
+   "en": "Comedian B"
+  },
+  {
+   "i": 142,
+   "en": "Quizmaster"
+  },
+  {
+   "i": 143,
+   "en": "Contestant"
+  },
+  {
+   "i": 144,
+   "en": "Police Officer"
+  },
+  {
+   "i": 145,
+   "en": "Kids"
+  },
+  {
+   "i": 146,
+   "en": "Bodyguard"
+  },
+  {
+   "i": 147,
+   "en": "Maniac 1"
+  },
+  {
+   "i": 148,
+   "en": "Devotee 1"
+  },
+  {
+   "i": 149,
+   "en": "Devotee 2"
+  },
+  {
+   "i": 150,
+   "en": "Devotee 3"
+  },
+  {
+   "i": 151,
+   "en": "Italian"
+  },
+  {
+   "i": 152,
+   "en": "Appraiser"
+  }
+ ]
+}
