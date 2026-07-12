@@ -7,6 +7,8 @@
 # Regenerated locally from your ROM (copyrighted game data — do not commit)
 /extracted/
 /unpacked/
+/gfx/
+/patched/
 
 # Working reference dumps that may contain Japanese source text
 *_jp.txt

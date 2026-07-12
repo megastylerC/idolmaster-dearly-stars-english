@@ -14,12 +14,12 @@ This repository holds the **translation data and the tools** that turn it into a
 | System UI (menus, save/load, mail, lessons, auditions, stage editor, Wi-Fi/Wireless, errors) | ✅ Complete |
 | Eri Mizutani — opening + chapters F & E (story, side scenes, auditions, story mails) + recurring scenes | ✅ Complete |
 | Tables (episode titles, songs, costumes, accessories, dance panels, fan letters, system mails) | ✅ Complete |
+| Menu/UI graphics — title & story menus, common buttons, PDA management UI, status screens, result banners (redrawn art) | ✅ Complete |
+| Vocal-lesson minigame — kana tiles redrawn as romaji, fully playable | ✅ Complete |
 | Eri — chapters D through A | ⬜ Not started |
 | Ai Hidaka route | ⬜ Not started |
 | Ryo Akizuki route | ⬜ Not started |
-| Menu/UI graphics (big buttons, screen headers, logos) | ⬜ Phase 2 (redrawn art) |
-
-The vocal-lesson fill-in minigame can only display kana (its font is a kana tile set), so it stays Japanese for now.
+| Remaining graphics (stage-editor UI, wireless labels, episode-title & song logos) | ⬜ Phase 2 (ongoing) |
 
 ## How it works
 
@@ -27,8 +27,9 @@ The game stores its text in a few different places, and the build patches all of
 
 1. **Story & table text** lives in `.BBQ` bytecode files packed inside `EZT`/`EZP` archive pairs (`F_SCN`, `F_TBL`). Each file's string pool is dumped to `translation/<ARC>/<file>.json` as a list of indexed lines; you fill in the English.
 2. **System UI text** lives in the BLZ-compressed ARM9 binary and its overlays. Those strings are patched in place (English must fit the original byte length) and stored decompressed.
-3. `build_rom.py` rebuilds the archives, patches the binaries, relocates the changed data into the ROM's end padding, fixes the file table and header, and writes a new `.nds`.
-4. `verify_rom.py` reads every translated string back out of the built ROM to confirm a clean round-trip.
+3. **UI graphics** (menu buttons, screen headers, minigame tiles) are images in `.GLD` texture files inside the `F_AGL` archive. `tools/gld_export.py` dumps them to PNG, the `tools/apply_gfx_*.py` scripts render the English art, and `tools/gld_import.py` re-encodes it (quantized to each image's original palette). Rendered from your own extracted files at build time — no game art is stored in this repo.
+4. `build_rom.py` rebuilds the archives, patches the binaries, relocates the changed data into the ROM's end padding, fixes the file table and header, and writes a new `.nds`.
+5. `verify_rom.py` reads every translated string back out of the built ROM to confirm a clean round-trip.
 
 The English text renders natively — the game's fonts already include full ASCII. Full technical details are in [docs/FORMATS.md](docs/FORMATS.md).
 
@@ -66,11 +67,20 @@ python -X utf8 tools/show_jp.py F_SCN/ERI_D01_MAIN01_MES.BBQ --todo
 # 3. Fill in the "en" fields in translation/F_SCN/ERI_D01_MAIN01_MES.BBQ.json
 #    (or write an apply script — see tools/apply_eri_e03b.py for the pattern).
 
-# 4. Build and verify.
+# 4. (optional) render the English UI graphics too — needs Pillow, and
+#    Arial Bold at C:/Windows/Fonts (edit FONT in apply_gfx_batch1.py on
+#    other platforms). Skip this if you're only translating text.
+python -X utf8 tools/apply_gfx_batch1.py
+python -X utf8 tools/apply_gfx_batch2.py
+python -X utf8 tools/apply_gfx_batch3.py
+python -X utf8 tools/apply_gfx_lesson_tiles.py
+python -X utf8 tools/gld_import.py
+
+# 5. Build and verify.
 python tools/build_rom.py "your_dearly_stars_jp.nds" DearlyStars_EN_test.nds
 python -X utf8 tools/verify_rom.py DearlyStars_EN_test.nds   # expect 0 mismatches
 
-# 5. Open a pull request with your changed translation/*.json.
+# 6. Open a pull request with your changed translation/*.json.
 ```
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) before starting — it covers claiming files (so two people don't collide), the character-name glossary, line-length limits, the Shift-JIS character constraints, and a common pitfall (keeping one English entry per string index).
@@ -104,6 +114,10 @@ Open an [Issue](../../issues) with a **screenshot** and where you were in the ga
 - Text overflowing its box, cut off, or garbled characters
 - Freezes or crashes (mention your emulator and whether a savestate was involved)
 - Awkward or unclear English
+
+## Credits
+
+This translation is being made with the help of [Claude Code](https://claude.com/claude-code) (Anthropic) — reverse engineering, translation, and tooling.
 
 ## Legal
 

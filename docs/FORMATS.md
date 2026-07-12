@@ -76,6 +76,16 @@ In every case the English bytes must be **≤** the original run's byte length; 
 
 `build_rom.py` keys archive strings off line **index + English** and derives overlay/ARM9 patch lengths from each string's own NUL terminator, so it never needs the Japanese — the English-only data in this repo builds a byte-identical ROM to the maintainer's full working copy.
 
+## GLD texture files (`F_AGL`) — UI graphics
+
+Menu buttons, screen headers, and minigame tiles are images, not text. They live in `.GLD` files (magic `\0DLG`) inside the `F_AGL` archive, usually with an `.AGL` companion (layout/animation records — never touched; image dimensions must stay the same).
+
+GLD layout: `0x20` header (`+0x08` fileSize, `+0x0c` pixelDataSize, `+0x18` paletteBlockSize, `+0x1c` imageCount), then pixel data (offsets are 0x20-based), a BGR555 palette block, and `imageCount` records of 28 bytes (version pair (2,2)) or 24 bytes (older (2,1)): `u32 pixOff, u16 palOffBytes, u16 fmt, u16 w, u16 h, u16 S, u16 T, u16 xoff, u16 yoff` (crop offsets, 28-byte records only). `fmt` is the NDS texture format (1=A3I5, 2=I2, 3=I4, 4=I8, 6=A5I3, 7=direct16; index 0 = transparent). `fmt|0x8000` means no pixel data (flat fill rect). Records are **crops in a strided block** — row stride is `8<<S` **pixels**, and several records can share one block side by side, or alias the same pixels with different palettes (recolor variants).
+
+Workflow: `gld_export.py --all` dumps every image to `gfx/F_AGL/*.png`; the `apply_gfx_*.py` scripts render English replacements into `gfx/edited/F_AGL/` (same size as the original, style colors sampled from it, one shared font size per group of images that appear together); `gld_import.py` quantizes each PNG back to its record's original palette and writes `patched/F_AGL/*.GLD`, which `build_rom.py` picks up when rebuilding the archive.
+
+Two non-obvious wins from this: the save/status-screen **kanji name plates** are split across records drawn flush (`水谷絵|理`), so English names are rendered across a combined canvas and sliced back; and the **vocal-lesson minigame** (which looks glyphs up by kana code, so its *text* can never be ASCII) became playable by redrawing all 81 kana tiles as romaji.
+
 ## Scale
 
-~71,000 strings / ~856K Japanese characters across ~1,170 files. The ARM9 itself has very little text; most remaining untranslated UI is **graphics** (labels drawn into images in `F_AGL` GLD files — Phase 2, needs redrawn art).
+~71,000 strings / ~856K Japanese characters across ~1,170 files. The ARM9 itself has very little text; most core UI **graphics** (labels drawn into images in `F_AGL` GLD files) are redrawn in English as of v0.3; stage-editor/wireless/logo art remains.

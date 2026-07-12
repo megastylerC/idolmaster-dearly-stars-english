@@ -3,7 +3,8 @@
 1. For every translation/<ARC>/<file>.json with any "en" filled in,
    patch the BBQ string pool.
 2. Rebuild the affected EZ archives (F_SCN.BIN/.IDX, F_TBL.BIN/.IDX),
-   recompressing only changed members.
+   recompressing only changed members.  Graphics members edited via
+   gld_import.py (patched/F_AGL/*.GLD) are picked up the same way.
 3. Write a new .nds: original ROM with rebuilt archive files placed in the
    end-of-ROM padding, FAT entries retargeted, header CRC16 fixed.
 
@@ -20,7 +21,7 @@ from bbq_patch import patch_bbq
 from lz77 import compress
 import blz
 
-ARCS = ("F_SCN", "F_TBL")
+ARCS = ("F_SCN", "F_TBL", "F_AGL")
 
 
 def load_translations(arc):
@@ -118,6 +119,9 @@ def build(rom_path, out_path):
         for member, tr in load_translations(arc).items():
             orig = open(os.path.join("unpacked", arc, member), "rb").read()
             repl[member] = patch_bbq(orig, tr)
+        # binary members patched outside the BBQ pipeline (edited graphics)
+        for p in glob.glob(os.path.join("patched", arc, "*")):
+            repl[os.path.basename(p)] = open(p, "rb").read()
         if not repl:
             continue
         print(f"{arc}: {len(repl)} member(s) patched")
