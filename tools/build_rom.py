@@ -20,6 +20,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from bbq_patch import patch_bbq
 from lz77 import compress
 import blz
+import blz_compress
 
 ARCS = ("F_SCN", "F_TBL", "F_AGL")
 
@@ -86,6 +87,30 @@ def build(rom_path, out_path):
     fnt_off = struct.unpack_from("<I", rom, 0x40)[0]
     fat_off, fat_size = struct.unpack_from("<II", rom, 0x48)
     used = struct.unpack_from("<I", rom, 0x80)[0]
+
+    # Captured before anything is patched: the header must come out of this
+    # build byte-identical (see the relayout note at the end of build()).
+    orig_head = bytes(rom[:0x15E])
+    orig_starts = [struct.unpack_from("<I", rom, fat_off + i * 8)[0]
+                   for i in range(fat_size // 8)]
+
+    # File data must be packed above EVERY system structure, and they are not
+    # contiguous on this cart: the overlay files sit at 0x89A00, below ARM7 /
+    # FNT / FAT / banner.  (Using min(orig_starts) here overwrote the FAT and
+    # banner with file data.)  The header is frozen, so all of these keep their
+    # original offsets and we simply start after the highest one.
+    _BANNER_SIZE = {1: 0x840, 2: 0x940, 3: 0xA00, 0x103: 0x23C0}
+    banner_off = struct.unpack_from("<I", rom, 0x68)[0]
+    banner_ver = struct.unpack_from("<H", rom, banner_off)[0]
+    sys_end = max(
+        struct.unpack_from("<I", rom, 0x20)[0] + struct.unpack_from("<I", rom, 0x2C)[0],
+        struct.unpack_from("<I", rom, 0x50)[0] + struct.unpack_from("<I", rom, 0x54)[0],
+        struct.unpack_from("<I", rom, 0x30)[0] + struct.unpack_from("<I", rom, 0x3C)[0],
+        fnt_off + struct.unpack_from("<I", rom, 0x44)[0],
+        fat_off + fat_size,
+        banner_off + _BANNER_SIZE.get(banner_ver, 0x23C0),
+    )
+    data_start = (sys_end + 0x1FF) & ~0x1FF
 
     # map filename -> FAT file id by walking FNT root (files are in root's tree;
     # we only need top-level names like F_SCN.BIN)
@@ -190,25 +215,36 @@ def build(rom_path, out_path):
         append_at = (append_at + len(dec) + 0x1FF) & ~0x1FF
 
     # ARM9 system text (translation/arm9/arm9.json): patch strings in the
-    # decompressed image, zero the ModuleParams compressed-end pointer (the
-    # u32 sitting 8 bytes before the nitrocode magic) so CRT0 skips in-place
-    # BLZ decompression, then store the ARM9 UNCOMPRESSED in end padding and
-    # retarget the header (0x20 ROM offset, 0x2C size). Entry point and RAM
-    # address are unchanged. Relocating past 0x8000 also means emulators
-    # apply no secure-area processing - the bytes are copied verbatim.
+    # decompressed image, then BLZ-recompress to EXACTLY the original file size
+    # and write it back in place at ROM 0x4000.
+    #
+    # The ARM9 must stay at 0x4000: that is where the cart secure area lives,
+    # and real hardware (and flashcart loaders) boot through the secure-area
+    # path, which emulators skip.  An earlier version of this tool stored the
+    # ARM9 decompressed at the end of the ROM, which booted in DeSmuME/melonDS
+    # but not on a DS - the header still advertised a secure area at 0x4000
+    # while the ARM9 lived elsewhere.
+    #
+    # Hitting the original size exactly is what keeps this safe:
+    #   * BLZ stores the first 0x4000 bytes raw, and that prefix IS the secure
+    #     area, so it stays byte-identical (secure-area CRC 0x6C still valid).
+    #   * The ModuleParams compressed-end u32 (8 bytes before the nitrocode
+    #     magic) encodes ram_addr + compressed_size and itself lives inside
+    #     that raw prefix - so an identical size means we never have to touch
+    #     it, and the secure area really is untouched.
+    #   * Header 0x20 / 0x2C / 0x6C all keep their original values.
     a9_json = os.path.join("translation", "arm9", "arm9.json")
     if os.path.exists(a9_json):
         doc = json.load(open(a9_json, encoding="utf-8"))
         raw = open(os.path.join("extracted", "_system", "arm9.bin"), "rb").read()
-        dec = bytearray(blz.decompress(raw))
+        orig_dec = blz.decompress(raw)
+        dec = bytearray(orig_dec)
         ram_addr = struct.unpack_from("<I", rom, 0x28)[0]
         magic = dec.find(b"\x21\x06\xC0\xDE\xDE\xC0\x06\x21")
         assert magic > 8, "nitrocode magic not found in arm9"
-        ce_off = magic - 8
-        ce_val = struct.unpack_from("<I", dec, ce_off)[0]
+        ce_val = struct.unpack_from("<I", dec, magic - 8)[0]
         assert ce_val == ram_addr + len(raw), \
             f"ModuleParams compressed-end {ce_val:#x} != ram+compsize {ram_addr + len(raw):#x}"
-        struct.pack_into("<I", dec, ce_off, 0)
         for s in doc["strings"]:
             off = s["off"]
             run_len = dec.index(b"\0", off) - off
@@ -217,25 +253,79 @@ def build(rom_path, out_path):
                 assert dec[off:off + run_len] == s["jp"].encode("cp932"), f"arm9 @{off:#x}: jp mismatch"
             assert len(en_b) <= run_len, f"arm9 @{off:#x}: en too long"
             dec[off:off + run_len] = en_b + b"\0" * (run_len - len(en_b))
-        assert append_at + len(dec) <= len(rom), "no padding space left for arm9"
-        rom[append_at:append_at + len(dec)] = dec
-        struct.pack_into("<I", rom, 0x20, append_at)
-        struct.pack_into("<I", rom, 0x2C, len(dec))
-        print(f"arm9: {len(doc['strings'])} string(s) patched, stored uncompressed "
-              f"@{append_at:#x} ({len(dec)} bytes)")
-        append_at = (append_at + len(dec) + 0x1FF) & ~0x1FF
+        dec = bytes(dec)
+        assert len(dec) == len(orig_dec), "arm9 decompressed size must not change"
+        first_change = next(i for i in range(len(dec)) if dec[i] != orig_dec[i])
+        assert first_change >= 0x4000, "arm9 patch reaches into the secure area"
+        # recompress_tail asserts its own round-trip before returning
+        new_a9 = blz_compress.recompress_tail(dec, raw, 0x4000, first_change,
+                                              pad_to=len(raw))
+        assert struct.unpack_from("<I", rom, 0x20)[0] == 0x4000
+        assert struct.unpack_from("<I", rom, 0x2C)[0] == len(new_a9)
+        assert new_a9[:0x4000] == bytes(rom[0x4000:0x8000]), "secure area changed"
+        rom[0x4000:0x4000 + len(new_a9)] = new_a9
+        print(f"arm9: {len(doc['strings'])} string(s) patched, BLZ-recompressed "
+              f"in place @0x4000 ({len(new_a9)} bytes, secure area intact)")
 
-    # Extend the declared NTR (DS-mode) region to cover relocated data.
-    # On DSi-enhanced carts, accurate emulators (melonDS) block DS-mode reads
-    # beyond the region boundary at header[0x90]/[0x92] (u16, 0x80000 units);
-    # DeSmuME does not, which hides this bug. header[0x80] is the used size.
-    struct.pack_into("<I", rom, 0x80, max(used, append_at))
-    blocks = (append_at + 0x7FFFF) >> 19
-    old_blocks = struct.unpack_from("<H", rom, 0x90)[0]
-    struct.pack_into("<HH", rom, 0x90, max(blocks, old_blocks), max(blocks, old_blocks))
+    # --- Compact relayout -------------------------------------------------
+    # Everything above parks grown files in the end padding, which requires
+    # widening used_size (0x80) and the NTR region limits (0x90/0x92) so the
+    # data is inside the declared cart.  That works on emulators and FAILS on
+    # real hardware, for two independent reasons found by bisecting on an R4:
+    #
+    #   1. The flashcart kernel identifies the cart by the header CRC16 at
+    #      0x15E, using it as a database key - not as an integrity check.  Any
+    #      value but the original is an unknown cart and it refuses to load
+    #      ("errcode=-4"), even though the CRC is correctly recomputed.  So the
+    #      first 0x15E bytes must stay byte-identical, which rules out touching
+    #      0x80 / 0x90 / 0x92 at all.
+    #   2. With the original (narrow) limits, reads past the boundary return
+    #      garbage, so data parked in the padding is simply unreachable.
+    #
+    # Both point the same way: pack every file sequentially so it genuinely
+    # lives below the original boundary, and leave the header alone.  Only
+    # bytes 0x000-0x15D feed the CRC, so the overlay table (0x89800), ARM9,
+    # FNT, FAT and file data are all still fair game.
+    n_files = fat_size // 8
+    blobs = []
+    for i in range(n_files):
+        s, e = struct.unpack_from("<II", rom, fat_off + i * 8)
+        blobs.append((orig_starts[i], i, bytes(rom[s:e])))
+    blobs.sort()                      # keep the original on-cart file ordering
 
-    struct.pack_into("<H", rom, 0x15E, crc16(rom[:0x15E]))
-    open(out_path, "wb").write(rom)
+    out = bytearray(b"\xFF" * len(rom))
+    out[:data_start] = rom[:data_start]   # header, ARM9, overlay table, ARM7,
+    pos = data_start                      # FNT, FAT, banner all stay put
+    for _, fid, blob in blobs:
+        struct.pack_into("<II", out, fat_off + fid * 8, pos, pos + len(blob))
+        out[pos:pos + len(blob)] = blob
+        pos = (pos + len(blob) + 0x1FF) & ~0x1FF
+
+    assert pos <= used, f"relayout needs {pos:#x} > original used_size {used:#x}"
+    assert out[:0x15E] == orig_head, "header changed - flashcart will reject it"
+    assert struct.unpack_from("<H", out, 0x15E)[0] == crc16(out[:0x15E])
+
+    # Read every file back through the new FAT and compare.  An earlier version
+    # packed data over the top of the FAT and banner; nothing caught it until a
+    # manual dump.  Verify the layout instead of trusting it.
+    for _, fid, blob in blobs:
+        s, e = struct.unpack_from("<II", out, fat_off + fid * 8)
+        assert s >= data_start, f"file {fid} at {s:#x} overlaps the system area"
+        assert e <= pos and e - s == len(blob), f"file {fid} FAT entry is wrong"
+        assert bytes(out[s:e]) == blob, f"file {fid} content mismatch after relayout"
+    for name, off, size in (("arm9", 0x20, 0x2C), ("arm7", 0x30, 0x3C)):
+        a = struct.unpack_from("<I", out, off)[0]
+        ln = struct.unpack_from("<I", out, size)[0]
+        assert bytes(out[a:a + ln]) == bytes(rom[a:a + ln]), f"{name} was clobbered"
+    assert bytes(out[fnt_off:fnt_off + struct.unpack_from("<I", out, 0x44)[0]]) == \
+        bytes(rom[fnt_off:fnt_off + struct.unpack_from("<I", rom, 0x44)[0]]), "FNT clobbered"
+    assert bytes(out[banner_off:banner_off + 0x840]) == \
+        bytes(rom[banner_off:banner_off + 0x840]), "banner clobbered"
+    print(f"relayout: {n_files} files packed into {pos:#x} "
+          f"({pos / 1048576:.1f} MB), original limit {used:#x} "
+          f"({used / 1048576:.1f} MB), header untouched")
+
+    open(out_path, "wb").write(out)
     print(f"wrote {out_path}")
 
 

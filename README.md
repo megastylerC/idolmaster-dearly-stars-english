@@ -101,8 +101,18 @@ Desktop alternatives: xdelta UI, Delta Patcher.
 
 ## How to play
 
-- Use a DS emulator in **NDS mode** — [melonDS](https://melonds.kuribo64.net/) is recommended (this patch is tested on it). DeSmuME also works.
+**Real DS hardware (flashcart)** — supported as of v0.3.1:
+
+- Copy the patched `.nds` to your card exactly as you would the Japanese original. Tested on an R4-type cart in a DS.
+- Versions before v0.3.1 did **not** work on hardware: flashcarts either refused to load them (`errcode=-4`) or froze on a white screen. If you hit that, you are on an old patch.
+
+**Emulator:**
+
+- Run in **NDS mode** — [melonDS](https://melonds.kuribo64.net/) and DeSmuME both work.
 - **DSi mode will not boot** (DSi security hashes are not fixed). Run it as a normal DS game.
+
+**Either way:**
+
 - **Save with the in-game save feature only.** Emulator savestates break between patch versions; in-game saves carry over fine.
 - When updating to a new patch version, always apply it to a **clean copy of the original ROM**, not a previously patched one.
 
@@ -112,7 +122,7 @@ Open an [Issue](../../issues) with a **screenshot** and where you were in the ga
 
 - Japanese text in an area marked ✅ above
 - Text overflowing its box, cut off, or garbled characters
-- Freezes or crashes (mention your emulator and whether a savestate was involved)
+- Freezes or crashes (mention your emulator or flashcart model, and whether a savestate was involved)
 - Awkward or unclear English
 
 ## Credits
